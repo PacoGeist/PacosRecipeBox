@@ -1,0 +1,1272 @@
+{
+ "cuisine": "Chinese",
+ "selected": [
+  {
+   "page": "Cookbook:Cantonese Crispy Fried Chicken",
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [],
+   "holidays": [
+    "Lunar New Year"
+   ],
+   "keywords": [
+    "chicken",
+    "cantonese",
+    "crispy",
+    "roast"
+   ]
+  },
+  {
+   "page": "Cookbook:Mapo Tofu",
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "tofu",
+    "sichuan",
+    "spicy",
+    "pork"
+   ]
+  },
+  {
+   "page": "Cookbook:Pig's Trotters and Ginger Vinegar Stew",
+   "mealTypes": [
+    "Entree",
+    "Soup & Salad"
+   ],
+   "seasons": [
+    "Winter"
+   ],
+   "holidays": [],
+   "keywords": [
+    "pork",
+    "ginger",
+    "vinegar",
+    "stew"
+   ]
+  },
+  {
+   "page": "Cookbook:Chow Mein",
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "noodles",
+    "stir-fry",
+    "vegetables"
+   ]
+  },
+  {
+   "page": "Cookbook:Meat and Shrimp Potstickers",
+   "mealTypes": [
+    "Appetizer",
+    "Entree"
+   ],
+   "seasons": [],
+   "holidays": [
+    "Lunar New Year"
+   ],
+   "keywords": [
+    "dumplings",
+    "potstickers",
+    "pork",
+    "shrimp"
+   ]
+  },
+  {
+   "page": "Cookbook:Red Bean Paste",
+   "mealTypes": [
+    "Dessert",
+    "Side Dish"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "red bean",
+    "adzuki",
+    "sweet",
+    "filling"
+   ]
+  },
+  {
+   "page": "Cookbook:Yeung Chow Fried Rice",
+   "mealTypes": [
+    "Side Dish",
+    "Entree"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "fried rice",
+    "char siu",
+    "shrimp",
+    "egg"
+   ]
+  },
+  {
+   "page": "Cookbook:Egg Roll",
+   "mealTypes": [
+    "Appetizer"
+   ],
+   "seasons": [],
+   "holidays": [
+    "Game Day"
+   ],
+   "keywords": [
+    "egg roll",
+    "fried",
+    "pork",
+    "cabbage"
+   ]
+  },
+  {
+   "page": "Cookbook:Kung Pao Chicken",
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "chicken",
+    "peanuts",
+    "spicy",
+    "sichuan"
+   ]
+  },
+  {
+   "page": "Cookbook:Char Siu (Chinese BBQ pork)",
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [],
+   "holidays": [
+    "Lunar New Year"
+   ],
+   "keywords": [
+    "pork",
+    "bbq",
+    "roast",
+    "cantonese"
+   ]
+  },
+  {
+   "page": "Cookbook:Hongshao Rou (Red Braised Pork Belly)",
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [
+    "Winter"
+   ],
+   "holidays": [
+    "Lunar New Year"
+   ],
+   "keywords": [
+    "pork belly",
+    "braised",
+    "soy sauce"
+   ]
+  },
+  {
+   "page": "Cookbook:Hot and Sour Soup",
+   "mealTypes": [
+    "Soup & Salad"
+   ],
+   "seasons": [
+    "Winter"
+   ],
+   "holidays": [],
+   "keywords": [
+    "soup",
+    "tofu",
+    "spicy",
+    "mushrooms"
+   ]
+  },
+  {
+   "page": "Cookbook:Steamed Buns with BBQ Pork",
+   "mealTypes": [
+    "Bread",
+    "Appetizer"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "bao",
+    "char siu",
+    "steamed",
+    "dim sum"
+   ]
+  },
+  {
+   "page": "Cookbook:Steamed Pork With Mustard Greens",
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "pork",
+    "steamed",
+    "mustard greens",
+    "hakka"
+   ]
+  },
+  {
+   "page": "Cookbook:Chili Oil",
+   "mealTypes": [
+    "Side Dish"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "chili",
+    "spicy",
+    "condiment",
+    "sichuan"
+   ]
+  },
+  {
+   "page": "Cookbook:Chinese Rice Porridge (Congee)",
+   "mealTypes": [
+    "Breakfast",
+    "Soup & Salad"
+   ],
+   "seasons": [
+    "Winter"
+   ],
+   "holidays": [],
+   "keywords": [
+    "congee",
+    "rice",
+    "porridge",
+    "comfort food"
+   ]
+  },
+  {
+   "page": "Cookbook:General Tso's Chicken",
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "chicken",
+    "fried",
+    "sweet",
+    "spicy"
+   ]
+  },
+  {
+   "page": "Cookbook:Taro Fish",
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "taro",
+    "vegetarian",
+    "mock fish",
+    "buddhist"
+   ]
+  },
+  {
+   "page": "Cookbook:Cantonese Roast Duck",
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [],
+   "holidays": [
+    "Lunar New Year"
+   ],
+   "keywords": [
+    "duck",
+    "roast",
+    "cantonese"
+   ]
+  },
+  {
+   "page": "Cookbook:Salted Mustard Greens and Shredded Meat Noodle Soup",
+   "mealTypes": [
+    "Soup & Salad",
+    "Entree"
+   ],
+   "seasons": [
+    "Winter"
+   ],
+   "holidays": [],
+   "keywords": [
+    "noodle soup",
+    "pork",
+    "mustard greens"
+   ]
+  },
+  {
+   "page": "Cookbook:Soy Sauce Chicken",
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "chicken",
+    "soy sauce",
+    "braised",
+    "cantonese"
+   ]
+  },
+  {
+   "page": "Cookbook:Wonton Wrappers",
+   "mealTypes": [
+    "Appetizer"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "wonton",
+    "wrappers",
+    "dough",
+    "dumplings"
+   ]
+  },
+  {
+   "page": "Cookbook:Sweet and Sour Chinese Pork",
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "pork",
+    "sweet and sour",
+    "fried"
+   ]
+  },
+  {
+   "page": "Cookbook:Mushroom Bao Buns",
+   "mealTypes": [
+    "Bread",
+    "Appetizer"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "bao",
+    "mushroom",
+    "steamed",
+    "vegetarian"
+   ]
+  },
+  {
+   "page": "Cookbook:Century Egg with Ham and Ginger",
+   "mealTypes": [
+    "Appetizer"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "century egg",
+    "ham",
+    "ginger",
+    "cold dish"
+   ]
+  },
+  {
+   "page": "Cookbook:Tea Eggs",
+   "mealTypes": [
+    "Appetizer",
+    "Breakfast"
+   ],
+   "seasons": [],
+   "holidays": [
+    "Lunar New Year"
+   ],
+   "keywords": [
+    "eggs",
+    "tea",
+    "soy sauce",
+    "snack"
+   ]
+  },
+  {
+   "page": "Cookbook:Stir-fried tomato and scrambled eggs",
+   "mealTypes": [
+    "Entree",
+    "Side Dish"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "eggs",
+    "tomato",
+    "home-style",
+    "vegetarian"
+   ]
+  },
+  {
+   "page": "Cookbook:Pan-Fried Shanghai Noodles",
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "noodles",
+    "bok choy",
+    "shiitake",
+    "vegan"
+   ]
+  },
+  {
+   "page": "Cookbook:Stir Fried Seafood with Noodles",
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "noodles",
+    "shrimp",
+    "hong kong",
+    "seafood"
+   ]
+  },
+  {
+   "page": "Cookbook:Stir-Fried Shrimp with Broccoli",
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "shrimp",
+    "broccoli",
+    "oyster sauce",
+    "stir-fry"
+   ]
+  },
+  {
+   "page": "Cookbook:Homemade Five-Spice Powder",
+   "mealTypes": [
+    "Side Dish"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "five-spice",
+    "spice blend",
+    "star anise"
+   ]
+  },
+  {
+   "page": "Cookbook:Sesame Shrimp Toast",
+   "mealTypes": [
+    "Appetizer"
+   ],
+   "seasons": [],
+   "holidays": [
+    "Game Day"
+   ],
+   "keywords": [
+    "shrimp",
+    "toast",
+    "sesame",
+    "dim sum"
+   ]
+  },
+  {
+   "page": "Cookbook:Bubble Tea",
+   "mealTypes": [
+    "Beverage"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "boba",
+    "tea",
+    "milk tea",
+    "taiwanese"
+   ]
+  }
+ ],
+ "original": [
+  {
+   "title": "Egg Drop Soup",
+   "description": "A quick, silky chicken broth soup with delicate ribbons of egg, lightly thickened and seasoned with ginger and white pepper.",
+   "servings": 4,
+   "prepMinutes": 5,
+   "cookMinutes": 10,
+   "ingredients": [
+    "4 cups chicken broth",
+    "1 tsp grated fresh ginger",
+    "1 tsp soy sauce",
+    "1/2 tsp sesame oil",
+    "1/4 tsp ground white pepper",
+    "1/2 tsp salt",
+    "2 tbsp cornstarch",
+    "3 tbsp cold water",
+    "3 eggs",
+    "2 green onions, thinly sliced"
+   ],
+   "steps": [
+    "Bring the chicken broth and ginger to a boil in a medium saucepan.",
+    "Stir in the soy sauce, sesame oil, white pepper, and salt.",
+    "Mix the cornstarch with the cold water until smooth, then stir it into the boiling broth and simmer for 1 minute until slightly thickened.",
+    "Beat the eggs well in a measuring cup with a spout.",
+    "Reduce the heat so the soup is barely simmering and stir it slowly in one direction to create a gentle whirlpool.",
+    "Pour the eggs in a thin, steady stream into the moving soup and let them set for 10 seconds before stirring gently to form ribbons.",
+    "Taste and adjust the salt, then ladle into bowls and garnish with green onions."
+   ],
+   "mealTypes": [
+    "Soup & Salad"
+   ],
+   "seasons": [
+    "Winter"
+   ],
+   "holidays": [],
+   "keywords": [
+    "soup",
+    "egg",
+    "quick",
+    "broth"
+   ],
+   "photoQuery": "Egg drop soup"
+  },
+  {
+   "title": "Beef and Broccoli",
+   "description": "Tender velveted flank steak and crisp-tender broccoli tossed in a glossy garlic, ginger, and oyster sauce.",
+   "servings": 4,
+   "prepMinutes": 25,
+   "cookMinutes": 12,
+   "ingredients": [
+    "# For the beef",
+    "1 lb flank steak, thinly sliced against the grain",
+    "1 tbsp soy sauce",
+    "1 tbsp Shaoxing wine or dry sherry",
+    "2 tsp cornstarch",
+    "1/4 tsp baking soda",
+    "# For the sauce",
+    "3 tbsp oyster sauce",
+    "1 tbsp soy sauce",
+    "1 tsp dark soy sauce",
+    "2 tsp sugar",
+    "1 tsp cornstarch",
+    "1/2 cup chicken broth",
+    "# For the stir-fry",
+    "3 tbsp vegetable oil",
+    "4 cups broccoli florets",
+    "3 cloves garlic, minced",
+    "1 tbsp minced fresh ginger",
+    "1 tsp sesame oil"
+   ],
+   "steps": [
+    "Toss the beef with the soy sauce, Shaoxing wine, cornstarch, and baking soda and let it marinate for 20 minutes.",
+    "Whisk the sauce ingredients together in a small bowl.",
+    "Blanch the broccoli in boiling water for 1 minute, then drain well.",
+    "Heat 2 tbsp oil in a wok or large skillet over high heat until shimmering.",
+    "Spread the beef in a single layer and sear for 1 minute without moving, then stir-fry for 1 minute until just browned; transfer to a plate.",
+    "Add the remaining 1 tbsp oil to the wok with the garlic and ginger and stir-fry for 20 seconds until fragrant.",
+    "Add the broccoli and stir-fry for 1 minute.",
+    "Return the beef to the wok, stir the sauce, and pour it in.",
+    "Toss for 1 to 2 minutes until the sauce thickens and coats everything, then drizzle with sesame oil and serve with rice."
+   ],
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "beef",
+    "broccoli",
+    "stir-fry",
+    "oyster sauce"
+   ],
+   "photoQuery": "Beef and broccoli"
+  },
+  {
+   "title": "Scallion Pancakes",
+   "description": "Flaky, chewy pan-fried flatbreads layered with sesame oil and green onions, served with a soy dipping sauce.",
+   "servings": 4,
+   "prepMinutes": 45,
+   "cookMinutes": 20,
+   "ingredients": [
+    "2 cups all-purpose flour",
+    "3/4 cup boiling water",
+    "1/4 cup cold water",
+    "3 tbsp toasted sesame oil",
+    "1 tsp kosher salt",
+    "1 cup thinly sliced green onions",
+    "4 tbsp vegetable oil, for frying",
+    "# For the dipping sauce",
+    "2 tbsp soy sauce",
+    "1 tbsp rice vinegar",
+    "1 tsp chili oil (optional)"
+   ],
+   "steps": [
+    "Place the flour in a bowl, pour in the boiling water while stirring with chopsticks, then add the cold water and mix into a shaggy dough.",
+    "Knead the dough on a lightly floured surface for 5 minutes until smooth, then cover and rest for 30 minutes.",
+    "Divide the dough into 4 pieces and roll one piece into a thin 8-inch circle.",
+    "Brush the circle with sesame oil, sprinkle with a pinch of salt and a quarter of the green onions.",
+    "Roll the circle up tightly like a cigar, then coil the rope into a spiral and tuck the end underneath.",
+    "Flatten the spiral and gently roll it out into a 7-inch pancake; repeat with the remaining dough.",
+    "Heat 1 tbsp vegetable oil in a skillet over medium heat and cook a pancake for 2 to 3 minutes per side until golden and crisp.",
+    "Squeeze the hot pancake from the sides with two spatulas to fluff up the layers, then repeat with the rest.",
+    "Mix the soy sauce, rice vinegar, and chili oil for dipping, cut the pancakes into wedges, and serve hot."
+   ],
+   "mealTypes": [
+    "Appetizer",
+    "Bread"
+   ],
+   "seasons": [],
+   "holidays": [
+    "Lunar New Year"
+   ],
+   "keywords": [
+    "green onion",
+    "flatbread",
+    "pan-fried",
+    "vegetarian"
+   ],
+   "photoQuery": "Scallion pancake"
+  },
+  {
+   "title": "Dan Dan Noodles",
+   "description": "Sichuan street noodles topped with crispy seasoned pork and a spicy, nutty sesame and chili oil sauce.",
+   "servings": 4,
+   "prepMinutes": 15,
+   "cookMinutes": 15,
+   "ingredients": [
+    "# For the pork",
+    "1 tbsp vegetable oil",
+    "8 oz ground pork",
+    "1 tbsp Shaoxing wine",
+    "1 tbsp soy sauce",
+    "2 tbsp chopped Sichuan preserved vegetable (ya cai), optional",
+    "# For the sauce",
+    "3 tbsp Chinese sesame paste or tahini",
+    "3 tbsp soy sauce",
+    "1 tbsp Chinkiang black vinegar",
+    "1 tbsp sugar",
+    "4 tbsp chili oil with sediment",
+    "1 tsp ground toasted Sichuan peppercorns",
+    "2 cloves garlic, minced",
+    "1/4 cup hot noodle cooking water",
+    "# For the noodles",
+    "1 lb fresh wheat noodles",
+    "4 baby bok choy, halved",
+    "2 green onions, thinly sliced",
+    "2 tbsp chopped roasted peanuts"
+   ],
+   "steps": [
+    "Heat the oil in a wok over medium-high heat and stir-fry the pork for 5 to 6 minutes, breaking it up, until browned and slightly crispy.",
+    "Add the Shaoxing wine, soy sauce, and preserved vegetable and cook for 1 minute more, then set aside.",
+    "Whisk the sesame paste, soy sauce, black vinegar, sugar, chili oil, Sichuan pepper, and garlic together in a bowl.",
+    "Bring a large pot of water to a boil and blanch the bok choy for 1 minute, then remove.",
+    "Cook the noodles in the same water according to the package until just tender, reserving 1/4 cup of the cooking water.",
+    "Thin the sauce with the hot noodle water and divide it among four bowls.",
+    "Add the drained noodles and bok choy to the bowls and top with the pork, green onions, and peanuts.",
+    "Toss everything together at the table before eating."
+   ],
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "noodles",
+    "pork",
+    "spicy",
+    "sichuan"
+   ],
+   "photoQuery": "Dan dan noodles"
+  },
+  {
+   "title": "Steamed Fish with Ginger and Scallion",
+   "description": "A whole fish steamed until just tender, then finished with sizzling oil poured over fresh ginger and scallions and a light soy sauce.",
+   "servings": 4,
+   "prepMinutes": 15,
+   "cookMinutes": 12,
+   "ingredients": [
+    "1 (1 1/2 to 2 lb) whole sea bass, cleaned and scaled",
+    "1/2 tsp salt",
+    "2-inch piece fresh ginger, half sliced and half finely julienned",
+    "4 green onions, half cut into 3-inch pieces and half finely julienned",
+    "1 tbsp Shaoxing wine",
+    "3 tbsp light soy sauce",
+    "1 tbsp water",
+    "1 tsp sugar",
+    "3 tbsp vegetable oil",
+    "1/4 cup fresh cilantro sprigs"
+   ],
+   "steps": [
+    "Pat the fish dry, make two diagonal slashes on each side, and rub lightly with salt inside and out.",
+    "Lay the ginger slices and green onion pieces on a heatproof plate, place the fish on top, and drizzle with the Shaoxing wine.",
+    "Bring water to a boil in a wok or steamer large enough to hold the plate.",
+    "Steam the fish covered over high heat for 10 to 12 minutes until the flesh flakes easily at the thickest part near the bone.",
+    "Meanwhile, warm the light soy sauce, water, and sugar in a small saucepan until the sugar dissolves.",
+    "Carefully remove the plate, pour off the steaming liquid, and discard the cooked ginger and onion.",
+    "Scatter the julienned ginger and green onions over the fish.",
+    "Heat the oil in a small pan until it just begins to smoke, then pour it over the ginger and green onions so they sizzle.",
+    "Pour the warm soy mixture around the fish, garnish with cilantro, and serve immediately."
+   ],
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [],
+   "holidays": [
+    "Lunar New Year"
+   ],
+   "keywords": [
+    "fish",
+    "steamed",
+    "ginger",
+    "cantonese"
+   ],
+   "photoQuery": "Chinese steamed fish"
+  },
+  {
+   "title": "Hong Kong Egg Tarts",
+   "description": "Buttery short-crust tart shells filled with a smooth, glossy, just-set egg custard, a dim sum bakery favorite.",
+   "servings": 12,
+   "prepMinutes": 30,
+   "cookMinutes": 25,
+   "ingredients": [
+    "# For the crust",
+    "1 1/2 cups all-purpose flour",
+    "1/4 cup powdered sugar",
+    "1/4 tsp salt",
+    "1/2 cup cold unsalted butter, cubed",
+    "1 egg yolk",
+    "2 tbsp cold water",
+    "# For the custard",
+    "1/3 cup sugar",
+    "2/3 cup hot water",
+    "3 eggs",
+    "1/3 cup evaporated milk",
+    "1/2 tsp vanilla extract"
+   ],
+   "steps": [
+    "Whisk the flour, powdered sugar, and salt together, then rub in the butter with your fingertips until it looks like coarse crumbs.",
+    "Mix in the egg yolk and cold water until the dough just comes together, then wrap and chill for 30 minutes.",
+    "Dissolve the sugar in the hot water and let it cool to room temperature.",
+    "Whisk the eggs gently with the evaporated milk and vanilla, stir in the cooled sugar syrup, and strain twice through a fine sieve.",
+    "Preheat the oven to 400°F (200°C).",
+    "Divide the dough into 12 pieces and press each into a greased 3-inch tart tin or standard muffin cup, bringing it just above the rim.",
+    "Fill each shell about 90 percent full with custard.",
+    "Bake for 10 minutes, then reduce the oven to 350°F (175°C) and bake for 12 to 15 minutes more until the custard is set but still jiggles slightly.",
+    "Cool in the tins for 10 minutes, then unmold and serve warm."
+   ],
+   "mealTypes": [
+    "Dessert",
+    "Breakfast"
+   ],
+   "seasons": [],
+   "holidays": [
+    "Lunar New Year"
+   ],
+   "keywords": [
+    "egg tart",
+    "custard",
+    "pastry",
+    "dim sum"
+   ],
+   "photoQuery": "Egg tart"
+  },
+  {
+   "title": "Wonton Soup",
+   "description": "Plump pork and shrimp wontons in a clear, gingery chicken broth with baby bok choy.",
+   "servings": 4,
+   "prepMinutes": 40,
+   "cookMinutes": 15,
+   "ingredients": [
+    "# For the wontons",
+    "8 oz ground pork",
+    "4 oz shrimp, peeled, deveined, and finely chopped",
+    "1 tbsp soy sauce",
+    "1 tsp Shaoxing wine",
+    "1 tsp sesame oil",
+    "1 tsp grated fresh ginger",
+    "1 green onion, minced",
+    "1/4 tsp ground white pepper",
+    "1 tsp cornstarch",
+    "30 square wonton wrappers",
+    "# For the soup",
+    "6 cups chicken broth",
+    "3 slices fresh ginger",
+    "1 tbsp light soy sauce",
+    "1/2 tsp sesame oil",
+    "4 baby bok choy, halved",
+    "2 green onions, thinly sliced"
+   ],
+   "steps": [
+    "Combine the pork, shrimp, soy sauce, Shaoxing wine, sesame oil, ginger, green onion, white pepper, and cornstarch and stir vigorously in one direction for 2 minutes until sticky.",
+    "Place 1 tsp filling in the center of a wrapper and moisten the edges with water.",
+    "Fold the wrapper into a triangle, press out the air and seal, then bring the two bottom corners together and pinch them to seal.",
+    "Repeat with the remaining wrappers, keeping the finished wontons covered with a damp towel.",
+    "Simmer the chicken broth with the ginger slices for 10 minutes, then remove the ginger and season with soy sauce and sesame oil.",
+    "Bring a large pot of water to a boil and cook the wontons in batches for 3 to 4 minutes until they float and the filling is cooked through.",
+    "Add the bok choy to the broth and simmer for 2 minutes.",
+    "Divide the wontons and bok choy among bowls, ladle the hot broth over them, and garnish with green onions."
+   ],
+   "mealTypes": [
+    "Soup & Salad",
+    "Entree"
+   ],
+   "seasons": [
+    "Winter"
+   ],
+   "holidays": [
+    "Lunar New Year"
+   ],
+   "keywords": [
+    "wonton",
+    "soup",
+    "pork",
+    "shrimp"
+   ],
+   "photoQuery": "Wonton soup"
+  },
+  {
+   "title": "Sichuan Dry-Fried Green Beans",
+   "description": "Green beans fried until blistered and wrinkled, then tossed with savory pork, garlic, and chilies.",
+   "servings": 4,
+   "prepMinutes": 10,
+   "cookMinutes": 15,
+   "ingredients": [
+    "1 lb green beans, trimmed and dried well",
+    "3 tbsp vegetable oil",
+    "4 oz ground pork",
+    "6 dried red chilies, snipped into pieces",
+    "1/2 tsp Sichuan peppercorns",
+    "3 cloves garlic, minced",
+    "1 tsp minced fresh ginger",
+    "1 tbsp soy sauce",
+    "1 tsp Shaoxing wine",
+    "1/2 tsp sugar",
+    "1/4 tsp salt"
+   ],
+   "steps": [
+    "Heat 2 tbsp oil in a wok over medium-high heat and add the green beans.",
+    "Fry for 8 to 10 minutes, tossing occasionally, until the beans are blistered, wrinkled, and tender; transfer to a plate.",
+    "Add the remaining 1 tbsp oil to the wok and stir-fry the pork for 2 to 3 minutes until browned and crisp.",
+    "Add the dried chilies and Sichuan peppercorns and stir-fry for 30 seconds until fragrant without burning.",
+    "Add the garlic and ginger and stir-fry for 20 seconds.",
+    "Return the green beans to the wok and add the soy sauce, Shaoxing wine, sugar, and salt.",
+    "Toss for 1 minute until everything is well coated, then serve hot."
+   ],
+   "mealTypes": [
+    "Side Dish"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "green beans",
+    "spicy",
+    "sichuan",
+    "pork"
+   ],
+   "photoQuery": "Dry-fried green beans"
+  },
+  {
+   "title": "Garlic Stir-Fried Bok Choy",
+   "description": "Baby bok choy quickly stir-fried with plenty of garlic and a splash of soy for a fast, bright green side dish.",
+   "servings": 4,
+   "prepMinutes": 10,
+   "cookMinutes": 5,
+   "ingredients": [
+    "1 1/2 lb baby bok choy",
+    "1 tbsp vegetable oil",
+    "4 cloves garlic, minced",
+    "1 tbsp soy sauce or oyster sauce",
+    "1 tsp Shaoxing wine",
+    "1/2 tsp sugar",
+    "2 tbsp water",
+    "1/2 tsp sesame oil"
+   ],
+   "steps": [
+    "Halve the bok choy lengthwise, rinse well to remove grit, and shake dry.",
+    "Heat the oil in a wok over high heat until shimmering.",
+    "Add the garlic and stir-fry for 15 seconds until fragrant.",
+    "Add the bok choy and stir-fry for 1 minute.",
+    "Add the soy sauce, Shaoxing wine, sugar, and water, cover, and cook for 1 to 2 minutes until the stems are crisp-tender.",
+    "Drizzle with sesame oil, toss, and serve immediately."
+   ],
+   "mealTypes": [
+    "Side Dish"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "bok choy",
+    "garlic",
+    "vegetarian",
+    "greens"
+   ],
+   "photoQuery": "Stir-fried bok choy"
+  },
+  {
+   "title": "Smashed Cucumber Salad",
+   "description": "Crunchy smashed cucumbers dressed with garlic, black vinegar, soy, and chili oil, a refreshing cold dish.",
+   "servings": 4,
+   "prepMinutes": 15,
+   "cookMinutes": 0,
+   "ingredients": [
+    "2 English cucumbers",
+    "1 tsp salt",
+    "1 tsp sugar",
+    "3 cloves garlic, minced",
+    "1 tbsp Chinkiang black vinegar",
+    "1 tbsp soy sauce",
+    "1 tsp sesame oil",
+    "1 tbsp chili oil",
+    "1 tsp toasted sesame seeds",
+    "2 tbsp chopped fresh cilantro"
+   ],
+   "steps": [
+    "Lay a cucumber on a cutting board and smash it firmly along its length with the flat side of a cleaver or a rolling pin until it cracks open.",
+    "Cut the smashed cucumbers into bite-size pieces.",
+    "Toss the cucumbers with the salt and sugar in a colander and let drain for 10 minutes.",
+    "Stir together the garlic, black vinegar, soy sauce, sesame oil, and chili oil.",
+    "Shake off the excess liquid from the cucumbers and toss them with the dressing.",
+    "Sprinkle with sesame seeds and cilantro and serve right away, cold."
+   ],
+   "mealTypes": [
+    "Soup & Salad",
+    "Side Dish"
+   ],
+   "seasons": [
+    "Summer"
+   ],
+   "holidays": [],
+   "keywords": [
+    "cucumber",
+    "salad",
+    "garlic",
+    "vegetarian"
+   ],
+   "photoQuery": "Smashed cucumber salad"
+  },
+  {
+   "title": "Orange Chicken",
+   "description": "Crispy fried chicken pieces tossed in a sticky, sweet and tangy orange sauce, a Chinese-American takeout classic.",
+   "servings": 4,
+   "prepMinutes": 20,
+   "cookMinutes": 25,
+   "ingredients": [
+    "# For the chicken",
+    "1 1/2 lb boneless skinless chicken thighs, cut into 1-inch pieces",
+    "1 egg",
+    "1 tbsp soy sauce",
+    "1/2 cup cornstarch",
+    "1/4 cup all-purpose flour",
+    "3 cups vegetable oil, for frying",
+    "# For the sauce",
+    "3/4 cup orange juice",
+    "1 tbsp orange zest",
+    "1/3 cup sugar",
+    "2 tbsp rice vinegar",
+    "2 tbsp soy sauce",
+    "2 cloves garlic, minced",
+    "1 tsp grated fresh ginger",
+    "1/4 tsp red pepper flakes",
+    "1 tbsp cornstarch mixed with 2 tbsp water",
+    "2 green onions, sliced",
+    "1 tsp toasted sesame seeds"
+   ],
+   "steps": [
+    "Toss the chicken with the egg and soy sauce.",
+    "Mix the cornstarch and flour in a bowl, then add the chicken and toss until each piece is well coated.",
+    "Heat the oil in a deep pot to 350°F (175°C).",
+    "Fry the chicken in batches for 5 to 6 minutes until golden, crisp, and cooked through, then drain on a wire rack.",
+    "Combine the orange juice, zest, sugar, rice vinegar, soy sauce, garlic, ginger, and red pepper flakes in a large skillet and bring to a boil.",
+    "Stir in the cornstarch slurry and simmer for 1 minute until thick and glossy.",
+    "Add the fried chicken to the sauce and toss until evenly coated.",
+    "Garnish with green onions and sesame seeds and serve with steamed rice."
+   ],
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [],
+   "holidays": [
+    "Game Day"
+   ],
+   "keywords": [
+    "chicken",
+    "orange",
+    "fried",
+    "takeout"
+   ],
+   "photoQuery": "Orange chicken"
+  },
+  {
+   "title": "Cumin Lamb Stir-Fry",
+   "description": "Xinjiang-style lamb stir-fried with whole and ground cumin, dried chilies, and onions for a bold, smoky dish.",
+   "servings": 4,
+   "prepMinutes": 20,
+   "cookMinutes": 10,
+   "ingredients": [
+    "1 lb boneless lamb shoulder or leg, thinly sliced",
+    "1 tbsp soy sauce",
+    "1 tbsp Shaoxing wine",
+    "1 tsp cornstarch",
+    "3 tbsp vegetable oil",
+    "1 tbsp cumin seeds, lightly crushed",
+    "1 tsp ground cumin",
+    "1 to 2 tsp red pepper flakes",
+    "6 dried red chilies, halved",
+    "1/2 tsp ground Sichuan peppercorns",
+    "1 medium onion, sliced",
+    "3 cloves garlic, minced",
+    "1/2 tsp salt",
+    "1/2 tsp sugar",
+    "1/2 cup chopped fresh cilantro"
+   ],
+   "steps": [
+    "Toss the lamb with the soy sauce, Shaoxing wine, and cornstarch and marinate for 15 minutes.",
+    "Heat 2 tbsp oil in a wok over high heat until it just begins to smoke.",
+    "Add the lamb in a single layer, sear for 1 minute, then stir-fry for 1 to 2 minutes until browned; remove to a plate.",
+    "Add the remaining oil, the cumin seeds, ground cumin, red pepper flakes, dried chilies, and Sichuan pepper and stir-fry for 20 seconds until fragrant.",
+    "Add the onion and garlic and stir-fry for 2 minutes until the onion is just softened.",
+    "Return the lamb to the wok, sprinkle with salt and sugar, and toss for 1 minute.",
+    "Turn off the heat, toss in the cilantro, and serve with rice or flatbread."
+   ],
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [
+    "Fall",
+    "Winter"
+   ],
+   "holidays": [],
+   "keywords": [
+    "lamb",
+    "cumin",
+    "spicy",
+    "stir-fry"
+   ],
+   "photoQuery": "Cumin lamb"
+  },
+  {
+   "title": "Sesame Balls (Jian Dui)",
+   "description": "Crisp, hollow glutinous rice balls coated in sesame seeds and filled with sweet red bean paste.",
+   "servings": 16,
+   "prepMinutes": 30,
+   "cookMinutes": 20,
+   "ingredients": [
+    "2 cups glutinous rice flour",
+    "1/3 cup brown sugar",
+    "3/4 cup hot water",
+    "1 cup sweet red bean paste",
+    "1/2 cup white sesame seeds",
+    "1/4 cup water, for rolling",
+    "4 cups vegetable oil, for frying"
+   ],
+   "steps": [
+    "Dissolve the brown sugar in the hot water.",
+    "Gradually stir the sugar water into the rice flour, then knead into a smooth, soft dough like play clay, adding a little more water or flour as needed.",
+    "Divide the dough into 16 pieces and the red bean paste into 16 small balls.",
+    "Flatten each piece of dough into a cup, place a ball of bean paste in the center, and pinch closed, rolling it into a smooth ball.",
+    "Dip each ball briefly in water and roll it in the sesame seeds, pressing gently so they stick.",
+    "Heat the oil in a deep pot to 320°F (160°C).",
+    "Fry the balls in batches for 8 to 10 minutes, gently pressing them against the side of the pot with a ladle as they float so they puff and expand.",
+    "Remove when golden brown and drain on paper towels; serve warm."
+   ],
+   "mealTypes": [
+    "Dessert"
+   ],
+   "seasons": [],
+   "holidays": [
+    "Lunar New Year"
+   ],
+   "keywords": [
+    "sesame",
+    "red bean",
+    "glutinous rice",
+    "dim sum"
+   ],
+   "photoQuery": "Jian dui"
+  },
+  {
+   "title": "Chinese Almond Cookies",
+   "description": "Crumbly, buttery almond cookies topped with a whole almond, traditionally shared for good fortune at Lunar New Year.",
+   "servings": 30,
+   "prepMinutes": 20,
+   "cookMinutes": 15,
+   "ingredients": [
+    "2 cups all-purpose flour",
+    "1/2 cup almond flour",
+    "1/2 tsp baking soda",
+    "1/2 tsp baking powder",
+    "1/4 tsp salt",
+    "1 cup unsalted butter, softened",
+    "3/4 cup sugar",
+    "1 egg, separated",
+    "1 1/2 tsp almond extract",
+    "30 whole blanched almonds"
+   ],
+   "steps": [
+    "Preheat the oven to 350°F (175°C) and line two baking sheets with parchment paper.",
+    "Whisk together the flour, almond flour, baking soda, baking powder, and salt.",
+    "Beat the butter and sugar until light and fluffy, about 3 minutes.",
+    "Beat in the egg yolk and almond extract.",
+    "Add the dry ingredients and mix on low until a soft dough forms.",
+    "Roll the dough into 1 1/4-inch balls, place them 2 inches apart on the sheets, and flatten slightly.",
+    "Press a whole almond into the center of each cookie and brush the tops with the lightly beaten egg white.",
+    "Bake for 13 to 15 minutes until the edges are lightly golden.",
+    "Cool on the sheets for 5 minutes, then transfer to a wire rack to cool completely."
+   ],
+   "mealTypes": [
+    "Dessert"
+   ],
+   "seasons": [],
+   "holidays": [
+    "Lunar New Year"
+   ],
+   "keywords": [
+    "cookies",
+    "almond",
+    "baking"
+   ],
+   "photoQuery": "Chinese almond cookie"
+  },
+  {
+   "title": "Tangyuan (Sweet Rice Balls in Ginger Syrup)",
+   "description": "Chewy glutinous rice dumplings filled with black sesame paste and served in a warm ginger syrup, eaten for family reunions.",
+   "servings": 4,
+   "prepMinutes": 30,
+   "cookMinutes": 15,
+   "ingredients": [
+    "# For the filling",
+    "1/2 cup black sesame seeds",
+    "1/4 cup sugar",
+    "3 tbsp unsalted butter or lard, softened",
+    "# For the dough",
+    "1 1/2 cups glutinous rice flour",
+    "2/3 cup warm water",
+    "# For the syrup",
+    "4 cups water",
+    "2-inch piece fresh ginger, sliced",
+    "1/3 cup brown sugar or rock sugar"
+   ],
+   "steps": [
+    "Toast the sesame seeds in a dry skillet over medium-low heat for 3 to 4 minutes until fragrant, then grind them finely with the sugar.",
+    "Mix the ground sesame with the softened butter into a paste, chill for 15 minutes, then roll into 16 small balls.",
+    "Gradually stir the warm water into the rice flour and knead into a smooth, soft dough.",
+    "Divide the dough into 16 pieces, flatten each into a cup, wrap around a sesame ball, and roll smooth.",
+    "Simmer the water, ginger, and brown sugar in a saucepan for 10 minutes to make the syrup.",
+    "Bring a separate pot of water to a boil and add the tangyuan, stirring gently so they don't stick.",
+    "Cook for 4 to 5 minutes until they float, then simmer 1 minute more.",
+    "Transfer the tangyuan to bowls and ladle the hot ginger syrup over them."
+   ],
+   "mealTypes": [
+    "Dessert"
+   ],
+   "seasons": [
+    "Winter"
+   ],
+   "holidays": [
+    "Lunar New Year"
+   ],
+   "keywords": [
+    "glutinous rice",
+    "black sesame",
+    "ginger",
+    "dumplings"
+   ],
+   "photoQuery": "Tangyuan"
+  },
+  {
+   "title": "Hong Kong Milk Tea",
+   "description": "Strong, smooth black tea brewed and pulled until silky, then mixed with evaporated and sweetened condensed milk.",
+   "servings": 2,
+   "prepMinutes": 5,
+   "cookMinutes": 10,
+   "ingredients": [
+    "2 1/2 cups water",
+    "3 tbsp loose-leaf Ceylon black tea",
+    "1/2 cup evaporated milk",
+    "2 tbsp sweetened condensed milk, or to taste"
+   ],
+   "steps": [
+    "Bring the water to a boil in a small saucepan.",
+    "Add the tea leaves, reduce the heat, and simmer for 5 minutes.",
+    "Pour the tea through a fine strainer or tea sock into a heatproof pitcher, then pour it back into the saucepan.",
+    "Repeat pouring the tea back and forth through the strainer 4 or 5 times to give it a smoother, richer body.",
+    "Simmer for 2 more minutes, then strain into two cups.",
+    "Stir in the evaporated milk and condensed milk and serve hot, or cool and pour over ice."
+   ],
+   "mealTypes": [
+    "Beverage"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "tea",
+    "milk tea",
+    "hong kong",
+    "drink"
+   ],
+   "photoQuery": "Hong Kong milk tea"
+  },
+  {
+   "title": "Lion's Head Meatballs",
+   "description": "Large, tender pork meatballs braised with napa cabbage in a light soy broth, a classic Shanghai family dish.",
+   "servings": 4,
+   "prepMinutes": 25,
+   "cookMinutes": 50,
+   "ingredients": [
+    "# For the meatballs",
+    "1 1/2 lb ground pork (not lean)",
+    "4 water chestnuts, finely chopped",
+    "2 green onions, minced",
+    "1 tbsp grated fresh ginger",
+    "2 tbsp soy sauce",
+    "1 tbsp Shaoxing wine",
+    "1 tsp sugar",
+    "1/2 tsp salt",
+    "1/4 tsp ground white pepper",
+    "1 egg",
+    "2 tbsp cornstarch",
+    "3 tbsp vegetable oil",
+    "# For the braise",
+    "1 lb napa cabbage, cut into large pieces",
+    "2 cups chicken broth",
+    "1 tbsp soy sauce",
+    "1 tsp sugar",
+    "3 slices fresh ginger"
+   ],
+   "steps": [
+    "Combine the pork, water chestnuts, green onions, ginger, soy sauce, Shaoxing wine, sugar, salt, white pepper, egg, and cornstarch.",
+    "Stir vigorously in one direction for 3 to 4 minutes until the mixture is sticky and springy.",
+    "With wet hands, shape the mixture into 4 to 6 large meatballs, slapping them between your palms to compact them.",
+    "Heat the oil in a Dutch oven over medium heat and brown the meatballs on all sides for 6 to 8 minutes, turning gently; remove them.",
+    "Add the cabbage stems to the pot and stir-fry for 2 minutes.",
+    "Lay the meatballs on the cabbage stems and cover them with the cabbage leaves.",
+    "Pour in the chicken broth, soy sauce, sugar, and ginger and bring to a boil.",
+    "Reduce the heat, cover, and simmer gently for 40 to 45 minutes until the meatballs are very tender and cooked through.",
+    "Serve the meatballs in bowls with the cabbage and plenty of broth."
+   ],
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [
+    "Winter"
+   ],
+   "holidays": [
+    "Lunar New Year"
+   ],
+   "keywords": [
+    "pork",
+    "meatballs",
+    "cabbage",
+    "braised"
+   ],
+   "photoQuery": "Lion's head meatballs"
+  }
+ ]
+}

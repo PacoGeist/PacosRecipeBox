@@ -1,0 +1,1846 @@
+{
+ "cuisine": "Slow Cooker",
+ "selected": [
+  {
+   "page": "Cookbook:Au Jus Sandwich",
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [],
+   "holidays": [
+    "Game Day"
+   ],
+   "keywords": [
+    "roast beef",
+    "sandwich",
+    "french dip"
+   ]
+  },
+  {
+   "page": "Cookbook:Sweet Beef",
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "beef",
+    "chili sauce",
+    "sweet"
+   ]
+  },
+  {
+   "page": "Cookbook:Crock Pot Beef Stew",
+   "mealTypes": [
+    "Entree",
+    "Soup & Salad"
+   ],
+   "seasons": [
+    "Fall",
+    "Winter"
+   ],
+   "holidays": [],
+   "keywords": [
+    "beef",
+    "stew",
+    "potatoes"
+   ]
+  },
+  {
+   "page": "Cookbook:Cherry Cobbler in a Crock Pot",
+   "mealTypes": [
+    "Dessert"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "cherry",
+    "cobbler",
+    "cake mix"
+   ]
+  },
+  {
+   "page": "Cookbook:Slow Cooker Baby Back Ribs",
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [],
+   "holidays": [
+    "Game Day",
+    "Fourth of July"
+   ],
+   "keywords": [
+    "ribs",
+    "pork"
+   ]
+  },
+  {
+   "page": "Cookbook:Spinach Artichoke Dip",
+   "mealTypes": [
+    "Appetizer"
+   ],
+   "seasons": [],
+   "holidays": [
+    "Game Day"
+   ],
+   "keywords": [
+    "dip",
+    "spinach",
+    "artichoke",
+    "cheese"
+   ]
+  },
+  {
+   "page": "Cookbook:Boilo (Hot Spiced Citrus Whiskey)",
+   "mealTypes": [
+    "Beverage"
+   ],
+   "seasons": [
+    "Winter"
+   ],
+   "holidays": [
+    "Christmas",
+    "New Year's"
+   ],
+   "keywords": [
+    "whiskey",
+    "citrus",
+    "hot drink"
+   ]
+  },
+  {
+   "page": "Cookbook:Chicken Cacciatore",
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "chicken",
+    "tomato",
+    "italian"
+   ]
+  },
+  {
+   "page": "Cookbook:Crock Pot Potato Soup",
+   "mealTypes": [
+    "Soup & Salad"
+   ],
+   "seasons": [
+    "Fall",
+    "Winter"
+   ],
+   "holidays": [],
+   "keywords": [
+    "potato",
+    "soup"
+   ]
+  },
+  {
+   "page": "Cookbook:Pork Burritos with Green Pepper Sauce",
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [],
+   "holidays": [
+    "Cinco de Mayo"
+   ],
+   "keywords": [
+    "pork",
+    "burritos",
+    "salsa verde"
+   ]
+  },
+  {
+   "page": "Cookbook:Slow Cooker Pork Chops",
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [
+    "Fall"
+   ],
+   "holidays": [],
+   "keywords": [
+    "pork chops",
+    "apple"
+   ]
+  },
+  {
+   "page": "Cookbook:Slow-Cooked Chicken in Cream Sauce",
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "chicken",
+    "creamy",
+    "easy"
+   ]
+  },
+  {
+   "page": "Cookbook:Tortilla Soup",
+   "mealTypes": [
+    "Soup & Salad"
+   ],
+   "seasons": [],
+   "holidays": [
+    "Cinco de Mayo"
+   ],
+   "keywords": [
+    "chicken",
+    "tortilla",
+    "mexican"
+   ]
+  },
+  {
+   "page": "Cookbook:Killer Queso Dip",
+   "mealTypes": [
+    "Appetizer"
+   ],
+   "seasons": [],
+   "holidays": [
+    "Game Day"
+   ],
+   "keywords": [
+    "queso",
+    "cheese dip",
+    "sausage"
+   ]
+  },
+  {
+   "page": "Cookbook:Baked Beans",
+   "mealTypes": [
+    "Side Dish"
+   ],
+   "seasons": [
+    "Summer"
+   ],
+   "holidays": [
+    "Fourth of July"
+   ],
+   "keywords": [
+    "beans",
+    "molasses",
+    "barbecue"
+   ]
+  }
+ ],
+ "original": [
+  {
+   "title": "Slow Cooker Pot Roast",
+   "description": "A classic Sunday pot roast with carrots and potatoes that cooks itself in the slow cooker until fork-tender.",
+   "servings": 6,
+   "prepMinutes": 20,
+   "cookMinutes": 480,
+   "ingredients": [
+    "3 to 4 lb boneless beef chuck roast",
+    "2 tsp salt",
+    "1 tsp black pepper",
+    "2 tbsp vegetable oil",
+    "1 1/2 lb small yellow potatoes, halved",
+    "4 carrots, cut into 2-inch pieces",
+    "1 large onion, cut into wedges",
+    "4 cloves garlic, smashed",
+    "1 cup beef broth",
+    "1/2 cup dry red wine or more broth",
+    "2 tbsp tomato paste",
+    "1 tbsp Worcestershire sauce",
+    "2 sprigs fresh thyme",
+    "2 sprigs fresh rosemary",
+    "2 tbsp cornstarch mixed with 2 tbsp cold water"
+   ],
+   "steps": [
+    "Pat the roast dry and season it all over with salt and pepper.",
+    "Heat the oil in a large skillet over medium-high heat and sear the roast for 4 to 5 minutes per side until deeply browned.",
+    "Arrange the potatoes, carrots, onion and garlic in the bottom of a 6-quart slow cooker and set the roast on top.",
+    "Whisk the broth, wine, tomato paste and Worcestershire in the hot skillet, scraping up the browned bits, and pour it over the roast.",
+    "Tuck in the thyme and rosemary, cover, and cook on LOW for 8 to 9 hours or on HIGH for 5 to 6 hours until the beef shreds easily.",
+    "Transfer the meat and vegetables to a platter and tent with foil.",
+    "Skim the fat from the cooking liquid and pour it into a saucepan, bring to a boil, and whisk in the cornstarch slurry until thickened.",
+    "Slice or shred the beef and serve with the vegetables and gravy."
+   ],
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [
+    "Fall",
+    "Winter"
+   ],
+   "holidays": [],
+   "keywords": [
+    "beef",
+    "pot roast",
+    "potatoes",
+    "carrots"
+   ],
+   "photoQuery": "Pot roast"
+  },
+  {
+   "title": "Slow Cooker Pulled Pork",
+   "description": "Smoky, spice-rubbed pork shoulder cooked low and slow, shredded and tossed with barbecue sauce for sandwiches.",
+   "servings": 10,
+   "prepMinutes": 15,
+   "cookMinutes": 600,
+   "ingredients": [
+    "4 lb boneless pork shoulder (Boston butt)",
+    "2 tbsp brown sugar",
+    "1 tbsp smoked paprika",
+    "2 tsp salt",
+    "1 tsp black pepper",
+    "1 tsp garlic powder",
+    "1 tsp onion powder",
+    "1/2 tsp ground cumin",
+    "1/4 tsp cayenne pepper",
+    "1 large onion, sliced",
+    "1/2 cup apple cider vinegar",
+    "1/2 cup chicken broth",
+    "1 1/2 cups barbecue sauce",
+    "10 hamburger buns",
+    "3 cups coleslaw, for serving"
+   ],
+   "steps": [
+    "Mix the brown sugar, paprika, salt, pepper, garlic powder, onion powder, cumin and cayenne and rub it all over the pork.",
+    "Scatter the onion in the bottom of a 6-quart slow cooker and set the pork on top.",
+    "Pour the vinegar and broth around the pork.",
+    "Cover and cook on LOW for 10 to 12 hours or on HIGH for 5 to 6 hours until the pork falls apart easily.",
+    "Transfer the pork to a cutting board, discard any fat, and shred it with two forks.",
+    "Skim the fat from the liquid in the slow cooker, then return the pork and stir in 1 cup of barbecue sauce and about 1/2 cup of the cooking liquid.",
+    "Keep warm on the LOW or WARM setting and serve on buns with coleslaw and the remaining sauce."
+   ],
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [
+    "Summer"
+   ],
+   "holidays": [
+    "Fourth of July",
+    "Game Day"
+   ],
+   "keywords": [
+    "pork",
+    "barbecue",
+    "sandwich",
+    "shredded"
+   ],
+   "photoQuery": "Pulled pork sandwich"
+  },
+  {
+   "title": "Slow Cooker Beef and Bean Chili",
+   "description": "A thick, hearty beef chili with two kinds of beans that simmers all day for deep flavor.",
+   "servings": 8,
+   "prepMinutes": 20,
+   "cookMinutes": 480,
+   "ingredients": [
+    "2 lb ground beef (85% lean)",
+    "1 large onion, diced",
+    "1 green bell pepper, diced",
+    "4 cloves garlic, minced",
+    "3 tbsp chili powder",
+    "1 tbsp ground cumin",
+    "1 tsp dried oregano",
+    "1 tsp smoked paprika",
+    "1 1/2 tsp salt",
+    "1/2 tsp black pepper",
+    "1 can (28 oz) crushed tomatoes",
+    "1 can (15 oz) diced tomatoes with green chiles",
+    "2 tbsp tomato paste",
+    "1 can (15 oz) kidney beans, drained and rinsed",
+    "1 can (15 oz) pinto beans, drained and rinsed",
+    "1 cup beef broth",
+    "# For serving",
+    "1 cup shredded cheddar cheese",
+    "1/2 cup sour cream",
+    "3 green onions, sliced"
+   ],
+   "steps": [
+    "Brown the ground beef with the onion and bell pepper in a large skillet over medium-high heat, breaking up the meat, about 8 minutes.",
+    "Add the garlic, chili powder, cumin, oregano and paprika and cook 1 minute until fragrant, then drain off excess fat.",
+    "Transfer the mixture to a 6-quart slow cooker.",
+    "Stir in the crushed tomatoes, diced tomatoes, tomato paste, beans, broth, salt and pepper.",
+    "Cover and cook on LOW for 8 hours or on HIGH for 4 hours.",
+    "Taste and adjust the seasoning, adding a pinch of cayenne for more heat.",
+    "Ladle into bowls and top with cheddar, sour cream and green onions."
+   ],
+   "mealTypes": [
+    "Entree",
+    "Soup & Salad"
+   ],
+   "seasons": [
+    "Fall",
+    "Winter"
+   ],
+   "holidays": [
+    "Game Day",
+    "Halloween"
+   ],
+   "keywords": [
+    "chili",
+    "beef",
+    "beans"
+   ],
+   "photoQuery": "Chili con carne"
+  },
+  {
+   "title": "Slow Cooker Apple Butter",
+   "description": "Smooth, deeply spiced apple butter made by cooking apples down overnight in the slow cooker — no constant stirring required.",
+   "servings": 48,
+   "prepMinutes": 30,
+   "cookMinutes": 660,
+   "ingredients": [
+    "5 lb apples (a mix such as Gala, Fuji and Granny Smith), peeled, cored and sliced",
+    "1 cup packed brown sugar",
+    "1/2 cup granulated sugar",
+    "1 tbsp ground cinnamon",
+    "1/2 tsp ground nutmeg",
+    "1/4 tsp ground cloves",
+    "1/4 tsp ground allspice",
+    "1/4 tsp salt",
+    "2 tbsp apple cider vinegar",
+    "1 tbsp vanilla extract"
+   ],
+   "steps": [
+    "Place the apples in a 6-quart slow cooker.",
+    "Mix the sugars, spices and salt, sprinkle over the apples, add the vinegar, and toss to coat.",
+    "Cover and cook on LOW for 10 hours, stirring once or twice if you can, until the apples are very dark and soft.",
+    "Stir in the vanilla and purée the mixture until smooth with an immersion blender.",
+    "Cook uncovered on LOW for 1 to 2 hours more, stirring occasionally, until thick enough to hold its shape on a spoon.",
+    "Spoon into clean jars, let cool, and refrigerate for up to 3 weeks or freeze for up to 1 year.",
+    "Serve on toast, biscuits or with pork chops (makes about 6 cups; 1 serving is 2 tablespoons)."
+   ],
+   "mealTypes": [
+    "Side Dish",
+    "Breakfast"
+   ],
+   "seasons": [
+    "Fall"
+   ],
+   "holidays": [
+    "Thanksgiving"
+   ],
+   "keywords": [
+    "apple",
+    "spread",
+    "preserves"
+   ],
+   "photoQuery": "Apple butter"
+  },
+  {
+   "title": "Slow Cooker Macaroni and Cheese",
+   "description": "Ultra-creamy mac and cheese that cooks right in the slow cooker with no boiling of the pasta.",
+   "servings": 8,
+   "prepMinutes": 10,
+   "cookMinutes": 150,
+   "ingredients": [
+    "1 lb uncooked elbow macaroni",
+    "4 tbsp butter, melted",
+    "1 can (12 oz) evaporated milk",
+    "2 1/2 cups whole milk",
+    "1 tsp salt",
+    "1/2 tsp dry mustard",
+    "1/4 tsp black pepper",
+    "1/4 tsp smoked paprika",
+    "4 oz cream cheese, cubed",
+    "3 cups shredded sharp cheddar cheese",
+    "1 cup shredded Monterey Jack or Gruyère cheese"
+   ],
+   "steps": [
+    "Grease the insert of a 6-quart slow cooker with butter or cooking spray.",
+    "Add the uncooked macaroni and melted butter and stir to coat.",
+    "Stir in the evaporated milk, whole milk, salt, mustard, pepper and paprika.",
+    "Add the cream cheese and 3 cups of the shredded cheese and stir well.",
+    "Cover and cook on LOW for 2 to 2 1/2 hours, stirring every 30 to 45 minutes, until the pasta is tender (do not cook on HIGH, which can make it grainy).",
+    "Stir in the remaining cheese and a splash of milk if the sauce is too thick.",
+    "Let sit, covered, for 10 minutes on WARM and serve."
+   ],
+   "mealTypes": [
+    "Side Dish",
+    "Entree"
+   ],
+   "seasons": [],
+   "holidays": [
+    "Thanksgiving",
+    "Game Day"
+   ],
+   "keywords": [
+    "pasta",
+    "cheese",
+    "comfort food",
+    "vegetarian"
+   ],
+   "photoQuery": "Macaroni and cheese"
+  },
+  {
+   "title": "Slow Cooker White Chicken Chili",
+   "description": "A creamy white chili with chicken, white beans and green chiles that practically makes itself.",
+   "servings": 8,
+   "prepMinutes": 15,
+   "cookMinutes": 360,
+   "ingredients": [
+    "2 lb boneless, skinless chicken breasts",
+    "1 medium onion, diced",
+    "3 cloves garlic, minced",
+    "2 cans (4 oz each) diced green chiles",
+    "3 cans (15 oz each) cannellini or great northern beans, drained and rinsed",
+    "4 cups chicken broth",
+    "2 tsp ground cumin",
+    "1 tsp dried oregano",
+    "1 tsp chili powder",
+    "1 tsp salt",
+    "1/2 tsp black pepper",
+    "4 oz cream cheese, cubed",
+    "1/2 cup sour cream",
+    "1 cup frozen corn",
+    "# For serving",
+    "1/4 cup chopped cilantro",
+    "1 avocado, diced",
+    "1 lime, cut into wedges",
+    "1 cup shredded Monterey Jack cheese"
+   ],
+   "steps": [
+    "Place the chicken in a 6-quart slow cooker and top with the onion, garlic, green chiles and beans.",
+    "Sprinkle in the cumin, oregano, chili powder, salt and pepper and pour in the broth.",
+    "Cover and cook on LOW for 6 to 7 hours or on HIGH for 3 to 4 hours until the chicken is tender.",
+    "Remove the chicken and shred it with two forks.",
+    "Mash about 1 cup of the beans against the side of the pot to thicken the chili.",
+    "Return the chicken and stir in the cream cheese, sour cream and corn.",
+    "Cover and cook on HIGH for 20 to 30 minutes more until the cheese melts and the corn is hot.",
+    "Serve topped with cilantro, avocado, Monterey Jack and a squeeze of lime."
+   ],
+   "mealTypes": [
+    "Entree",
+    "Soup & Salad"
+   ],
+   "seasons": [
+    "Fall",
+    "Winter"
+   ],
+   "holidays": [
+    "Game Day"
+   ],
+   "keywords": [
+    "chicken",
+    "white beans",
+    "green chiles",
+    "chili"
+   ],
+   "photoQuery": "White chicken chili"
+  },
+  {
+   "title": "Slow Cooker Swedish Meatballs",
+   "description": "Tender homemade meatballs in a rich, creamy beef gravy with a hint of allspice, cooked hands-off in the slow cooker.",
+   "servings": 6,
+   "prepMinutes": 30,
+   "cookMinutes": 300,
+   "ingredients": [
+    "# For the meatballs",
+    "1/2 cup dry breadcrumbs",
+    "1/3 cup milk",
+    "1 lb ground beef",
+    "1/2 lb ground pork",
+    "1 small onion, grated",
+    "1 large egg",
+    "1 tsp salt",
+    "1/2 tsp black pepper",
+    "1/2 tsp ground allspice",
+    "1/4 tsp ground nutmeg",
+    "# For the sauce",
+    "3 cups beef broth",
+    "1 tbsp Worcestershire sauce",
+    "1 tsp Dijon mustard",
+    "1/4 cup all-purpose flour",
+    "1 cup sour cream or heavy cream",
+    "2 tbsp chopped parsley"
+   ],
+   "steps": [
+    "Soak the breadcrumbs in the milk for 5 minutes in a large bowl.",
+    "Add the beef, pork, onion, egg, salt, pepper, allspice and nutmeg and mix gently until combined.",
+    "Roll into 1 1/2-inch meatballs and brown them in batches in a lightly oiled skillet, or bake them at 400°F (200°C) for 12 minutes.",
+    "Whisk the broth, Worcestershire, mustard and flour together until smooth and pour into a 6-quart slow cooker.",
+    "Add the browned meatballs and gently stir to coat.",
+    "Cover and cook on LOW for 4 to 5 hours or on HIGH for 2 to 3 hours.",
+    "Stir in the sour cream and cook on LOW for 15 minutes more until heated through; do not let it boil.",
+    "Sprinkle with parsley and serve over egg noodles or mashed potatoes with lingonberry jam."
+   ],
+   "mealTypes": [
+    "Entree",
+    "Appetizer"
+   ],
+   "seasons": [
+    "Winter"
+   ],
+   "holidays": [
+    "Christmas"
+   ],
+   "keywords": [
+    "meatballs",
+    "gravy",
+    "beef",
+    "pork"
+   ],
+   "photoQuery": "Swedish meatballs"
+  },
+  {
+   "title": "Slow Cooker Honey Garlic Chicken",
+   "description": "Chicken thighs braised in a sweet and savory honey, soy and garlic sauce, thickened into a sticky glaze.",
+   "servings": 6,
+   "prepMinutes": 10,
+   "cookMinutes": 300,
+   "ingredients": [
+    "2 1/2 lb boneless, skinless chicken thighs",
+    "1/2 cup honey",
+    "1/2 cup low-sodium soy sauce",
+    "1/4 cup ketchup",
+    "6 cloves garlic, minced",
+    "1 tbsp grated fresh ginger",
+    "1 tbsp rice vinegar",
+    "1 tsp sesame oil",
+    "1/4 tsp red pepper flakes",
+    "2 tbsp cornstarch mixed with 3 tbsp cold water",
+    "1 tbsp toasted sesame seeds",
+    "3 green onions, sliced"
+   ],
+   "steps": [
+    "Arrange the chicken thighs in a single layer in a 6-quart slow cooker.",
+    "Whisk together the honey, soy sauce, ketchup, garlic, ginger, vinegar, sesame oil and red pepper flakes and pour over the chicken.",
+    "Cover and cook on LOW for 5 to 6 hours or on HIGH for 3 hours until the chicken reaches 165°F (74°C) and is tender.",
+    "Transfer the chicken to a plate.",
+    "Stir the cornstarch slurry into the sauce, cover and cook on HIGH for 15 minutes until thickened.",
+    "Return the chicken to the sauce, turning to coat.",
+    "Sprinkle with sesame seeds and green onions and serve over steamed rice."
+   ],
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "chicken",
+    "honey",
+    "garlic",
+    "soy sauce"
+   ],
+   "photoQuery": "Honey garlic chicken"
+  },
+  {
+   "title": "Slow Cooker Split Pea Soup with Ham",
+   "description": "Thick, smoky split pea soup made with a meaty ham bone and vegetables, simmered all day.",
+   "servings": 8,
+   "prepMinutes": 15,
+   "cookMinutes": 480,
+   "ingredients": [
+    "1 lb dried green split peas, rinsed",
+    "1 meaty ham bone or 2 smoked ham hocks",
+    "2 cups diced cooked ham",
+    "1 medium onion, diced",
+    "3 carrots, diced",
+    "3 celery stalks, diced",
+    "3 cloves garlic, minced",
+    "2 bay leaves",
+    "1 tsp dried thyme",
+    "1/2 tsp black pepper",
+    "8 cups low-sodium chicken broth or water",
+    "1 tsp salt, or to taste"
+   ],
+   "steps": [
+    "Place the split peas in a 6-quart slow cooker.",
+    "Add the onion, carrots, celery, garlic, bay leaves, thyme and pepper.",
+    "Nestle the ham bone in the center and add the diced ham.",
+    "Pour in the broth, cover, and cook on LOW for 8 to 10 hours or on HIGH for 4 to 5 hours until the peas have broken down.",
+    "Remove the ham bone and bay leaves, pull any meat from the bone, chop it and return it to the soup.",
+    "Stir vigorously or blend part of the soup for a smoother texture, adding water if it is too thick.",
+    "Season with salt to taste (the ham adds plenty) and serve with crusty bread."
+   ],
+   "mealTypes": [
+    "Soup & Salad"
+   ],
+   "seasons": [
+    "Winter"
+   ],
+   "holidays": [],
+   "keywords": [
+    "split peas",
+    "ham",
+    "soup"
+   ],
+   "photoQuery": "Split pea soup"
+  },
+  {
+   "title": "Slow Cooker Pork Carnitas",
+   "description": "Citrus- and cumin-scented pork shoulder slow cooked until meltingly tender, then crisped under the broiler for tacos.",
+   "servings": 10,
+   "prepMinutes": 15,
+   "cookMinutes": 540,
+   "ingredients": [
+    "4 lb boneless pork shoulder, cut into 3-inch chunks",
+    "2 tsp salt",
+    "1 tsp black pepper",
+    "2 tsp ground cumin",
+    "2 tsp dried oregano (preferably Mexican)",
+    "1 tsp chili powder",
+    "1 medium onion, chopped",
+    "5 cloves garlic, minced",
+    "1 jalapeño, seeded and chopped",
+    "2/3 cup orange juice",
+    "1/4 cup lime juice",
+    "2 bay leaves",
+    "# For serving",
+    "20 corn tortillas, warmed",
+    "1/2 cup chopped white onion",
+    "1/2 cup chopped cilantro",
+    "2 limes, cut into wedges",
+    "1 cup salsa verde"
+   ],
+   "steps": [
+    "Mix the salt, pepper, cumin, oregano and chili powder and rub it all over the pork.",
+    "Place the onion, garlic and jalapeño in a 6-quart slow cooker and set the pork on top.",
+    "Pour the orange and lime juice over the pork and add the bay leaves.",
+    "Cover and cook on LOW for 9 to 10 hours or on HIGH for 5 to 6 hours until the pork falls apart.",
+    "Remove the pork, shred it with two forks, and toss it with about 1/2 cup of the strained cooking juices.",
+    "Spread the pork on a large rimmed baking sheet and broil 4 inches from the heat for 4 to 6 minutes until the edges are browned and crisp.",
+    "Drizzle with a little more of the juices and serve in warm tortillas with onion, cilantro, lime and salsa verde."
+   ],
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [],
+   "holidays": [
+    "Cinco de Mayo",
+    "Game Day"
+   ],
+   "keywords": [
+    "pork",
+    "tacos",
+    "mexican",
+    "citrus"
+   ],
+   "photoQuery": "Carnitas tacos"
+  },
+  {
+   "title": "Slow Cooker Butter Chicken",
+   "description": "A mild, creamy Indian-style tomato curry with tender chicken, rich with butter, garam masala and cream.",
+   "servings": 6,
+   "prepMinutes": 15,
+   "cookMinutes": 300,
+   "ingredients": [
+    "2 lb boneless, skinless chicken thighs, cut into bite-size pieces",
+    "1 medium onion, finely chopped",
+    "4 cloves garlic, minced",
+    "1 tbsp grated fresh ginger",
+    "1 can (15 oz) tomato sauce",
+    "2 tbsp tomato paste",
+    "2 tsp garam masala",
+    "1 tsp ground cumin",
+    "1 tsp ground turmeric",
+    "1 tsp paprika",
+    "1/2 tsp chili powder",
+    "1 1/2 tsp salt",
+    "4 tbsp butter, cubed",
+    "3/4 cup heavy cream",
+    "1/2 cup plain whole-milk yogurt",
+    "1/4 cup chopped cilantro",
+    "4 cups cooked basmati rice, for serving"
+   ],
+   "steps": [
+    "Place the chicken, onion, garlic and ginger in a 6-quart slow cooker.",
+    "Stir together the tomato sauce, tomato paste, garam masala, cumin, turmeric, paprika, chili powder and salt and pour over the chicken.",
+    "Dot the top with the butter.",
+    "Cover and cook on LOW for 5 to 6 hours or on HIGH for 3 hours until the chicken is cooked through and tender.",
+    "Whisk the cream and yogurt together and stir into the curry.",
+    "Cover and cook on HIGH for 15 to 20 minutes more until heated through.",
+    "Taste for salt, sprinkle with cilantro, and serve over basmati rice with naan."
+   ],
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [],
+   "holidays": [
+    "Diwali"
+   ],
+   "keywords": [
+    "chicken",
+    "curry",
+    "indian",
+    "creamy"
+   ],
+   "photoQuery": "Butter chicken"
+  },
+  {
+   "title": "Slow Cooker Hot Cocoa",
+   "description": "Rich, creamy hot chocolate made in the slow cooker and kept warm for a crowd.",
+   "servings": 10,
+   "prepMinutes": 5,
+   "cookMinutes": 120,
+   "ingredients": [
+    "6 cups whole milk",
+    "1 can (14 oz) sweetened condensed milk",
+    "1 1/2 cups heavy cream",
+    "1/2 cup unsweetened cocoa powder",
+    "1 1/2 cups semisweet chocolate chips",
+    "1 tsp vanilla extract",
+    "1/8 tsp salt",
+    "1 cup mini marshmallows or whipped cream, for serving"
+   ],
+   "steps": [
+    "Whisk the cocoa powder with 1 cup of the milk in a 4- to 6-quart slow cooker until no lumps remain.",
+    "Add the remaining milk, condensed milk, cream, chocolate chips and salt and stir well.",
+    "Cover and cook on LOW for 2 hours, whisking every 30 minutes, until the chocolate is melted and the cocoa is hot.",
+    "Whisk in the vanilla just before serving.",
+    "Switch the slow cooker to WARM to keep the cocoa hot for up to 2 hours, whisking occasionally.",
+    "Ladle into mugs and top with marshmallows or whipped cream."
+   ],
+   "mealTypes": [
+    "Beverage"
+   ],
+   "seasons": [
+    "Winter"
+   ],
+   "holidays": [
+    "Christmas",
+    "Halloween"
+   ],
+   "keywords": [
+    "chocolate",
+    "hot drink",
+    "crowd"
+   ],
+   "photoQuery": "Hot chocolate"
+  },
+  {
+   "title": "Slow Cooker Cinnamon Apples",
+   "description": "Tender, buttery cinnamon apples that make a warm side dish or a topping for ice cream, oatmeal or pancakes.",
+   "servings": 6,
+   "prepMinutes": 15,
+   "cookMinutes": 180,
+   "ingredients": [
+    "6 large apples (such as Honeycrisp or Gala), peeled, cored and sliced",
+    "1/3 cup packed brown sugar",
+    "2 tbsp granulated sugar",
+    "1 1/2 tsp ground cinnamon",
+    "1/4 tsp ground nutmeg",
+    "1 pinch salt",
+    "2 tbsp lemon juice",
+    "1 tbsp cornstarch",
+    "3 tbsp butter, cubed",
+    "1 tsp vanilla extract"
+   ],
+   "steps": [
+    "Toss the apples with the lemon juice in a 4- to 6-quart slow cooker.",
+    "Mix the sugars, cinnamon, nutmeg, salt and cornstarch and sprinkle over the apples, then toss to coat.",
+    "Scatter the butter over the top.",
+    "Cover and cook on LOW for 3 to 4 hours or on HIGH for 1 1/2 to 2 hours, stirring once halfway, until the apples are tender but not mushy.",
+    "Stir in the vanilla.",
+    "Serve warm as a side with pork, or spoon over vanilla ice cream, oatmeal or pancakes."
+   ],
+   "mealTypes": [
+    "Dessert",
+    "Side Dish"
+   ],
+   "seasons": [
+    "Fall"
+   ],
+   "holidays": [
+    "Thanksgiving"
+   ],
+   "keywords": [
+    "apple",
+    "cinnamon",
+    "vegetarian"
+   ],
+   "photoQuery": "Cinnamon apples"
+  },
+  {
+   "title": "Slow Cooker Lasagna",
+   "description": "Layers of meat sauce, ricotta and mozzarella with uncooked noodles that cook right in the slow cooker.",
+   "servings": 8,
+   "prepMinutes": 25,
+   "cookMinutes": 300,
+   "ingredients": [
+    "1 lb ground beef or Italian sausage",
+    "1 medium onion, diced",
+    "3 cloves garlic, minced",
+    "1 jar (24 oz) marinara sauce",
+    "1 can (15 oz) crushed tomatoes",
+    "1 tsp dried basil",
+    "1 tsp dried oregano",
+    "1/2 tsp salt",
+    "15 oz ricotta cheese",
+    "1 large egg",
+    "1/2 cup grated Parmesan cheese",
+    "2 tbsp chopped parsley",
+    "12 uncooked regular lasagna noodles",
+    "3 cups shredded mozzarella cheese"
+   ],
+   "steps": [
+    "Brown the beef with the onion in a skillet over medium-high heat, then add the garlic, drain the fat, and stir in the marinara, crushed tomatoes, basil, oregano and salt.",
+    "Mix the ricotta, egg, Parmesan and parsley in a bowl.",
+    "Grease a 6-quart oval slow cooker and spread 1 cup of meat sauce over the bottom.",
+    "Layer 4 noodles on top, breaking them to fit, then spread with one third of the ricotta mixture, one third of the remaining sauce and 1 cup of mozzarella.",
+    "Repeat the layers twice more, making sure the top noodles are completely covered with sauce and ending with mozzarella.",
+    "Cover and cook on LOW for 4 to 5 hours until the noodles are tender (avoid HIGH, which can scorch the edges).",
+    "Turn off the slow cooker, remove the lid and let the lasagna rest for 20 to 30 minutes so it firms up before slicing."
+   ],
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "lasagna",
+    "pasta",
+    "beef",
+    "cheese"
+   ],
+   "photoQuery": "Lasagna"
+  },
+  {
+   "title": "Slow Cooker Jambalaya",
+   "description": "A Creole jambalaya of chicken, andouille sausage, the holy trinity and spices, with shrimp and rice added near the end.",
+   "servings": 8,
+   "prepMinutes": 20,
+   "cookMinutes": 330,
+   "ingredients": [
+    "1 1/2 lb boneless, skinless chicken thighs, cut into 1-inch pieces",
+    "12 oz andouille sausage, sliced",
+    "1 medium onion, diced",
+    "1 green bell pepper, diced",
+    "3 celery stalks, diced",
+    "4 cloves garlic, minced",
+    "1 can (28 oz) diced tomatoes",
+    "2 cups chicken broth",
+    "1 tbsp Cajun or Creole seasoning",
+    "1 tsp dried thyme",
+    "1 tsp dried oregano",
+    "2 bay leaves",
+    "1/2 tsp cayenne pepper",
+    "1 lb large shrimp, peeled and deveined",
+    "3 cups cooked long-grain white rice",
+    "3 green onions, sliced",
+    "2 tbsp chopped parsley"
+   ],
+   "steps": [
+    "Place the chicken, sausage, onion, bell pepper, celery and garlic in a 6-quart slow cooker.",
+    "Add the tomatoes with their juice, broth, Creole seasoning, thyme, oregano, bay leaves and cayenne and stir.",
+    "Cover and cook on LOW for 6 to 7 hours or on HIGH for 3 to 4 hours.",
+    "Stir in the shrimp, cover, and cook on HIGH for 15 to 20 minutes until the shrimp are pink and opaque.",
+    "Remove the bay leaves and stir in the cooked rice, letting it absorb some of the liquid for 5 minutes.",
+    "Taste for seasoning, adding hot sauce if you like.",
+    "Serve sprinkled with green onions and parsley."
+   ],
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [],
+   "holidays": [
+    "Game Day"
+   ],
+   "keywords": [
+    "cajun",
+    "sausage",
+    "shrimp",
+    "rice"
+   ],
+   "photoQuery": "Jambalaya"
+  },
+  {
+   "title": "Overnight Slow Cooker Steel-Cut Oats",
+   "description": "Creamy steel-cut oatmeal that cooks overnight so breakfast is ready when you wake up.",
+   "servings": 6,
+   "prepMinutes": 5,
+   "cookMinutes": 420,
+   "ingredients": [
+    "1 1/2 cups steel-cut oats",
+    "4 cups water",
+    "2 cups milk",
+    "2 tbsp maple syrup or brown sugar",
+    "1 tsp ground cinnamon",
+    "1/2 tsp salt",
+    "1 tsp vanilla extract",
+    "1 apple, peeled and diced (optional)",
+    "# For serving",
+    "1/2 cup chopped walnuts or pecans",
+    "1 cup fresh berries",
+    "2 tbsp maple syrup"
+   ],
+   "steps": [
+    "Generously grease the insert of a 4- to 6-quart slow cooker with butter or cooking spray to prevent sticking.",
+    "Add the oats, water, milk, maple syrup, cinnamon, salt, vanilla and apple and stir.",
+    "Cover and cook on LOW for 7 to 8 hours (overnight), or on HIGH for 3 to 4 hours.",
+    "Stir well in the morning; add a splash of milk if the oats are too thick.",
+    "Spoon into bowls and top with nuts, berries and a drizzle of maple syrup.",
+    "Refrigerate leftovers for up to 5 days and reheat with a little milk."
+   ],
+   "mealTypes": [
+    "Breakfast"
+   ],
+   "seasons": [
+    "Fall",
+    "Winter"
+   ],
+   "holidays": [],
+   "keywords": [
+    "oatmeal",
+    "breakfast",
+    "vegetarian",
+    "overnight"
+   ],
+   "photoQuery": "Steel-cut oatmeal"
+  },
+  {
+   "title": "Slow Cooker Breakfast Casserole",
+   "description": "A hearty hash brown, sausage, egg and cheese casserole that cooks overnight for holiday mornings and brunches.",
+   "servings": 10,
+   "prepMinutes": 20,
+   "cookMinutes": 420,
+   "ingredients": [
+    "1 lb breakfast sausage",
+    "1 bag (30 oz) frozen shredded hash browns, partially thawed",
+    "1 medium onion, diced",
+    "1 red bell pepper, diced",
+    "2 cups shredded cheddar cheese",
+    "12 large eggs",
+    "1 cup milk",
+    "1 tsp salt",
+    "1/2 tsp black pepper",
+    "1/2 tsp dry mustard",
+    "1/4 tsp garlic powder",
+    "2 green onions, sliced"
+   ],
+   "steps": [
+    "Brown the sausage in a skillet over medium-high heat, breaking it up, then drain it on paper towels.",
+    "Grease a 6-quart slow cooker well.",
+    "Layer one third of the hash browns, then one third each of the sausage, onion, bell pepper and cheese; repeat twice more.",
+    "Whisk the eggs, milk, salt, pepper, dry mustard and garlic powder and pour evenly over the layers.",
+    "Cover and cook on LOW for 7 to 8 hours or on HIGH for 3 to 4 hours until the eggs are set in the center.",
+    "Sprinkle with green onions, cut into squares and serve with salsa or hot sauce."
+   ],
+   "mealTypes": [
+    "Breakfast"
+   ],
+   "seasons": [],
+   "holidays": [
+    "Christmas",
+    "Easter"
+   ],
+   "keywords": [
+    "eggs",
+    "sausage",
+    "hash browns",
+    "brunch"
+   ],
+   "photoQuery": "Breakfast casserole"
+  },
+  {
+   "title": "Slow Cooker Chicken Noodle Soup",
+   "description": "Comforting homemade chicken noodle soup with tender vegetables and egg noodles, slow cooked from raw chicken.",
+   "servings": 8,
+   "prepMinutes": 15,
+   "cookMinutes": 420,
+   "ingredients": [
+    "2 lb boneless, skinless chicken breasts or thighs",
+    "1 medium onion, diced",
+    "3 carrots, sliced",
+    "3 celery stalks, sliced",
+    "3 cloves garlic, minced",
+    "8 cups chicken broth",
+    "2 bay leaves",
+    "1 tsp dried thyme",
+    "1/2 tsp dried rosemary",
+    "1 tsp salt",
+    "1/2 tsp black pepper",
+    "3 cups wide egg noodles",
+    "2 tbsp chopped parsley",
+    "1 tbsp lemon juice"
+   ],
+   "steps": [
+    "Place the chicken, onion, carrots, celery and garlic in a 6-quart slow cooker.",
+    "Add the broth, bay leaves, thyme, rosemary, salt and pepper.",
+    "Cover and cook on LOW for 6 to 7 hours or on HIGH for 3 to 4 hours until the chicken is tender.",
+    "Remove the chicken and shred it with two forks, then discard the bay leaves.",
+    "Stir in the egg noodles, cover and cook on HIGH for 20 to 30 minutes until tender.",
+    "Return the chicken to the pot and stir in the parsley and lemon juice.",
+    "Taste for salt and pepper and serve hot."
+   ],
+   "mealTypes": [
+    "Soup & Salad"
+   ],
+   "seasons": [
+    "Fall",
+    "Winter"
+   ],
+   "holidays": [],
+   "keywords": [
+    "chicken",
+    "noodles",
+    "soup"
+   ],
+   "photoQuery": "Chicken noodle soup"
+  },
+  {
+   "title": "Slow Cooker Beef Stroganoff",
+   "description": "Tender strips of beef and mushrooms in a creamy, tangy sauce, served over buttered egg noodles.",
+   "servings": 6,
+   "prepMinutes": 20,
+   "cookMinutes": 420,
+   "ingredients": [
+    "2 lb beef chuck roast, cut into thin strips",
+    "1 tsp salt",
+    "1/2 tsp black pepper",
+    "3 tbsp all-purpose flour",
+    "1 medium onion, sliced",
+    "8 oz cremini mushrooms, sliced",
+    "3 cloves garlic, minced",
+    "1 1/2 cups beef broth",
+    "2 tbsp Worcestershire sauce",
+    "1 tsp Dijon mustard",
+    "1 tsp paprika",
+    "4 oz cream cheese, softened",
+    "3/4 cup sour cream",
+    "12 oz egg noodles, cooked and buttered",
+    "2 tbsp chopped parsley"
+   ],
+   "steps": [
+    "Toss the beef with the salt, pepper and flour.",
+    "Place the onion, mushrooms and garlic in a 6-quart slow cooker and add the beef on top.",
+    "Whisk the broth, Worcestershire, mustard and paprika and pour over the beef.",
+    "Cover and cook on LOW for 7 to 8 hours or on HIGH for 4 to 5 hours until the beef is tender.",
+    "Stir in the cream cheese until melted, then stir in the sour cream.",
+    "Cover and cook on LOW for 10 minutes more until heated through.",
+    "Serve over hot buttered egg noodles and sprinkle with parsley."
+   ],
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [
+    "Fall",
+    "Winter"
+   ],
+   "holidays": [],
+   "keywords": [
+    "beef",
+    "mushrooms",
+    "creamy",
+    "noodles"
+   ],
+   "photoQuery": "Beef Stroganoff"
+  },
+  {
+   "title": "Slow Cooker Corned Beef and Cabbage",
+   "description": "Spiced corned beef simmered with potatoes, carrots and cabbage for an easy St. Patrick's Day feast.",
+   "servings": 6,
+   "prepMinutes": 15,
+   "cookMinutes": 540,
+   "ingredients": [
+    "3 to 4 lb corned beef brisket with spice packet",
+    "1 lb small red potatoes, halved",
+    "4 carrots, cut into 2-inch pieces",
+    "1 medium onion, quartered",
+    "4 cloves garlic, smashed",
+    "1 bottle (12 oz) Irish stout or 1 1/2 cups beef broth",
+    "2 cups water",
+    "1 small head green cabbage, cut into 8 wedges",
+    "2 tbsp butter",
+    "2 tbsp chopped parsley",
+    "1/4 cup grainy mustard, for serving"
+   ],
+   "steps": [
+    "Rinse the corned beef and pat it dry.",
+    "Place the potatoes, carrots, onion and garlic in the bottom of a 6-quart slow cooker.",
+    "Set the corned beef fat side up on the vegetables and sprinkle with the spice packet.",
+    "Pour the stout and water over the top.",
+    "Cover and cook on LOW for 8 to 9 hours or on HIGH for 5 to 6 hours until the beef is fork-tender.",
+    "Add the cabbage wedges around the beef, cover and cook on HIGH for 45 minutes to 1 hour until tender.",
+    "Transfer the beef to a cutting board, rest 10 minutes, and slice thinly against the grain.",
+    "Toss the vegetables with butter and parsley and serve with the beef and grainy mustard."
+   ],
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [
+    "Spring"
+   ],
+   "holidays": [
+    "St. Patrick's Day"
+   ],
+   "keywords": [
+    "corned beef",
+    "cabbage",
+    "irish"
+   ],
+   "photoQuery": "Corned beef and cabbage"
+  },
+  {
+   "title": "Slow Cooker Bolognese Sauce",
+   "description": "A rich, meaty Italian ragù that simmers gently for hours, perfect for pasta or lasagna.",
+   "servings": 8,
+   "prepMinutes": 25,
+   "cookMinutes": 480,
+   "ingredients": [
+    "2 tbsp olive oil",
+    "1 medium onion, finely diced",
+    "2 carrots, finely diced",
+    "2 celery stalks, finely diced",
+    "4 cloves garlic, minced",
+    "1 lb ground beef",
+    "1/2 lb ground pork",
+    "1/2 cup dry red or white wine",
+    "1 can (28 oz) crushed tomatoes",
+    "3 tbsp tomato paste",
+    "1 cup beef broth",
+    "1 bay leaf",
+    "1 tsp dried oregano",
+    "1 1/2 tsp salt",
+    "1/2 tsp black pepper",
+    "1/2 cup whole milk or heavy cream",
+    "1 1/2 lb pasta (tagliatelle or rigatoni)",
+    "1/2 cup grated Parmesan cheese"
+   ],
+   "steps": [
+    "Heat the oil in a large skillet and cook the onion, carrots and celery for 6 to 8 minutes until soft, then add the garlic for 1 minute.",
+    "Add the beef and pork and cook, breaking it up, until no longer pink.",
+    "Pour in the wine and simmer for 2 minutes, scraping the pan, then transfer everything to a 6-quart slow cooker.",
+    "Stir in the tomatoes, tomato paste, broth, bay leaf, oregano, salt and pepper.",
+    "Cover and cook on LOW for 8 hours or on HIGH for 4 hours.",
+    "Remove the bay leaf, stir in the milk and cook uncovered on HIGH for 20 minutes to thicken slightly.",
+    "Toss with cooked pasta and serve topped with Parmesan."
+   ],
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "pasta sauce",
+    "beef",
+    "pork",
+    "italian"
+   ],
+   "photoQuery": "Bolognese sauce"
+  },
+  {
+   "title": "Slow Cooker Mulled Apple Cider",
+   "description": "Fragrant hot apple cider infused with orange, cinnamon and cloves that fills the house with the smell of fall.",
+   "servings": 12,
+   "prepMinutes": 10,
+   "cookMinutes": 180,
+   "ingredients": [
+    "1 gallon apple cider",
+    "1 orange, sliced into rounds",
+    "4 cinnamon sticks",
+    "1 tsp whole cloves",
+    "1 tsp whole allspice berries",
+    "2 star anise",
+    "1 piece (1 inch) fresh ginger, sliced",
+    "1/4 cup brown sugar or maple syrup (optional)",
+    "1 cup bourbon or spiced rum (optional, for adults)"
+   ],
+   "steps": [
+    "Pour the cider into a 6-quart slow cooker.",
+    "Add the orange slices, cinnamon sticks, cloves, allspice, star anise and ginger (put the small spices in a tea ball or cheesecloth for easy removal).",
+    "Stir in the brown sugar if you like it sweeter.",
+    "Cover and cook on LOW for 3 to 4 hours or on HIGH for 1 1/2 to 2 hours until hot and fragrant.",
+    "Remove the spice bundle and switch to WARM to keep the cider hot for serving.",
+    "Ladle into mugs, adding a shot of bourbon or rum to individual cups if desired."
+   ],
+   "mealTypes": [
+    "Beverage"
+   ],
+   "seasons": [
+    "Fall",
+    "Winter"
+   ],
+   "holidays": [
+    "Halloween",
+    "Thanksgiving",
+    "Christmas"
+   ],
+   "keywords": [
+    "apple cider",
+    "spiced",
+    "hot drink"
+   ],
+   "photoQuery": "Mulled cider"
+  },
+  {
+   "title": "Slow Cooker Beef Barbacoa",
+   "description": "Mexican-style shredded beef braised with chipotles, garlic, lime and spices until tender, for tacos, burritos and bowls.",
+   "servings": 10,
+   "prepMinutes": 15,
+   "cookMinutes": 540,
+   "ingredients": [
+    "3 lb beef chuck roast, cut into 4 pieces",
+    "1 1/2 tsp salt",
+    "1/2 tsp black pepper",
+    "1 small onion, chopped",
+    "5 cloves garlic",
+    "3 chipotle peppers in adobo, plus 2 tbsp adobo sauce",
+    "1/4 cup lime juice",
+    "2 tbsp apple cider vinegar",
+    "1/2 cup beef broth",
+    "1 tbsp ground cumin",
+    "1 tbsp dried oregano",
+    "1/4 tsp ground cloves",
+    "3 bay leaves",
+    "20 small corn tortillas, warmed",
+    "1/2 cup chopped cilantro",
+    "1/2 cup diced white onion"
+   ],
+   "steps": [
+    "Season the beef all over with salt and pepper and place it in a 6-quart slow cooker.",
+    "Blend the onion, garlic, chipotles with adobo sauce, lime juice, vinegar, broth, cumin, oregano and cloves until smooth.",
+    "Pour the sauce over the beef and tuck in the bay leaves.",
+    "Cover and cook on LOW for 8 to 10 hours or on HIGH for 5 to 6 hours until the beef shreds easily.",
+    "Remove the bay leaves, shred the beef with two forks right in the slow cooker, and stir it into the juices.",
+    "Let it soak in the juices on WARM for 10 minutes, then taste for salt.",
+    "Serve in warm tortillas topped with cilantro and onion, or over rice for burrito bowls."
+   ],
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [],
+   "holidays": [
+    "Cinco de Mayo"
+   ],
+   "keywords": [
+    "beef",
+    "chipotle",
+    "tacos",
+    "mexican"
+   ],
+   "photoQuery": "Barbacoa"
+  },
+  {
+   "title": "Slow Cooker Brown Sugar Glazed Ham",
+   "description": "A spiral-cut ham glazed with brown sugar, honey and Dijon, slow cooked to stay moist and free up the oven.",
+   "servings": 14,
+   "prepMinutes": 10,
+   "cookMinutes": 270,
+   "ingredients": [
+    "1 fully cooked bone-in spiral-cut ham (7 to 8 lb)",
+    "1 cup packed brown sugar",
+    "1/3 cup honey",
+    "1/4 cup pineapple or orange juice",
+    "2 tbsp Dijon mustard",
+    "1/2 tsp ground cinnamon",
+    "1/4 tsp ground cloves"
+   ],
+   "steps": [
+    "Place the ham cut side down in a 6- or 7-quart oval slow cooker, trimming it if needed so the lid closes.",
+    "Stir together the brown sugar, honey, juice, mustard, cinnamon and cloves.",
+    "Spread about two thirds of the glaze over the ham and between the slices.",
+    "Cover and cook on LOW for 4 to 5 hours until heated through to 140°F (60°C).",
+    "Brush the ham with the remaining glaze and the juices in the pot halfway through and again at the end.",
+    "Transfer to a platter, spoon the pan juices over the slices, and serve."
+   ],
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [
+    "Spring",
+    "Winter"
+   ],
+   "holidays": [
+    "Easter",
+    "Christmas"
+   ],
+   "keywords": [
+    "ham",
+    "brown sugar",
+    "holiday"
+   ],
+   "photoQuery": "Glazed ham"
+  },
+  {
+   "title": "Slow Cooker Herb Turkey Breast",
+   "description": "A juicy bone-in turkey breast rubbed with garlic herb butter and cooked in the slow cooker — ideal for small Thanksgiving gatherings.",
+   "servings": 8,
+   "prepMinutes": 15,
+   "cookMinutes": 330,
+   "ingredients": [
+    "1 bone-in, skin-on turkey breast (6 to 7 lb), thawed",
+    "4 tbsp butter, softened",
+    "3 cloves garlic, minced",
+    "1 tbsp chopped fresh rosemary",
+    "1 tbsp chopped fresh thyme",
+    "1 tbsp chopped fresh sage",
+    "1 1/2 tsp salt",
+    "1/2 tsp black pepper",
+    "1 medium onion, quartered",
+    "2 celery stalks, cut into chunks",
+    "1/2 cup chicken broth",
+    "2 tbsp cornstarch mixed with 2 tbsp cold water"
+   ],
+   "steps": [
+    "Mix the butter, garlic, rosemary, thyme, sage, salt and pepper.",
+    "Loosen the skin of the turkey breast and rub half of the herb butter underneath it and the rest over the outside.",
+    "Place the onion and celery in a 6- or 7-quart slow cooker, pour in the broth, and set the turkey on top, skin side up.",
+    "Cover and cook on LOW for 5 to 6 hours or on HIGH for 3 to 4 hours until the thickest part reaches 165°F (74°C).",
+    "For crisp skin, transfer the turkey to a baking sheet and broil for 3 to 5 minutes until golden, then rest for 15 minutes.",
+    "Strain the cooking juices into a saucepan, bring to a boil, and whisk in the cornstarch slurry to make gravy.",
+    "Slice the turkey and serve with the gravy."
+   ],
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [
+    "Fall"
+   ],
+   "holidays": [
+    "Thanksgiving",
+    "Christmas"
+   ],
+   "keywords": [
+    "turkey",
+    "herb butter",
+    "holiday"
+   ],
+   "photoQuery": "Roast turkey breast"
+  },
+  {
+   "title": "Slow Cooker Garlic Mashed Potatoes",
+   "description": "Creamy garlic mashed potatoes cooked and mashed right in the slow cooker, freeing up the stovetop for holiday meals.",
+   "servings": 10,
+   "prepMinutes": 15,
+   "cookMinutes": 240,
+   "ingredients": [
+    "5 lb Yukon Gold potatoes, peeled and cut into 2-inch chunks",
+    "6 cloves garlic, peeled",
+    "1 1/2 cups chicken or vegetable broth",
+    "2 tsp salt",
+    "1/2 cup butter",
+    "1 cup sour cream or heavy cream, warmed",
+    "4 oz cream cheese, softened",
+    "1/2 tsp black pepper",
+    "2 tbsp chopped chives"
+   ],
+   "steps": [
+    "Place the potatoes and garlic in a 6-quart slow cooker.",
+    "Pour the broth over the potatoes and sprinkle with the salt.",
+    "Cover and cook on HIGH for 4 hours or on LOW for 7 to 8 hours until the potatoes are very tender.",
+    "Add the butter, sour cream, cream cheese and pepper and mash with a potato masher until smooth.",
+    "Add a splash of warm milk if they are too thick and taste for salt.",
+    "Keep warm on the WARM setting for up to 2 hours and sprinkle with chives before serving."
+   ],
+   "mealTypes": [
+    "Side Dish"
+   ],
+   "seasons": [
+    "Fall",
+    "Winter"
+   ],
+   "holidays": [
+    "Thanksgiving",
+    "Christmas"
+   ],
+   "keywords": [
+    "potatoes",
+    "garlic",
+    "mashed",
+    "vegetarian"
+   ],
+   "photoQuery": "Mashed potatoes"
+  },
+  {
+   "title": "Slow Cooker Party Meatballs",
+   "description": "Sweet and tangy cocktail meatballs in a grape jelly and chili sauce glaze — a guaranteed hit at any party.",
+   "servings": 12,
+   "prepMinutes": 5,
+   "cookMinutes": 240,
+   "ingredients": [
+    "2 lb frozen fully cooked meatballs (about 64 small meatballs)",
+    "1 jar (18 oz) grape jelly",
+    "1 bottle (12 oz) chili sauce",
+    "1 tbsp Worcestershire sauce",
+    "1 tsp Dijon mustard",
+    "1/4 tsp red pepper flakes"
+   ],
+   "steps": [
+    "Whisk together the grape jelly, chili sauce, Worcestershire, mustard and red pepper flakes in a 4- to 6-quart slow cooker.",
+    "Add the frozen meatballs and stir to coat them evenly in the sauce.",
+    "Cover and cook on LOW for 4 to 5 hours or on HIGH for 2 to 3 hours, stirring once or twice, until the meatballs are hot through.",
+    "Switch to the WARM setting for serving.",
+    "Serve from the slow cooker with toothpicks."
+   ],
+   "mealTypes": [
+    "Appetizer"
+   ],
+   "seasons": [],
+   "holidays": [
+    "Game Day",
+    "New Year's",
+    "Christmas"
+   ],
+   "keywords": [
+    "meatballs",
+    "party",
+    "sweet and sour"
+   ],
+   "photoQuery": "Cocktail meatballs"
+  },
+  {
+   "title": "Slow Cooker Buffalo Chicken Dip",
+   "description": "A creamy, spicy hot dip of shredded chicken, cream cheese, ranch and hot sauce, served warm from the slow cooker.",
+   "servings": 12,
+   "prepMinutes": 10,
+   "cookMinutes": 120,
+   "ingredients": [
+    "3 cups shredded cooked chicken",
+    "8 oz cream cheese, cubed",
+    "1/2 cup ranch or blue cheese dressing",
+    "1/2 cup Buffalo-style hot sauce",
+    "1 1/2 cups shredded cheddar cheese",
+    "1/4 cup crumbled blue cheese (optional)",
+    "2 green onions, sliced",
+    "4 cups tortilla chips, celery sticks or crackers, for serving"
+   ],
+   "steps": [
+    "Place the chicken, cream cheese, dressing, hot sauce and 1 cup of the cheddar in a 3- to 4-quart slow cooker and stir.",
+    "Cover and cook on LOW for 2 to 3 hours or on HIGH for 1 to 1 1/2 hours, stirring once or twice, until hot and melted.",
+    "Stir well, then sprinkle with the remaining cheddar and the blue cheese.",
+    "Cover and cook 10 minutes more until the cheese on top melts.",
+    "Garnish with green onions and keep on WARM for serving with chips, celery and crackers."
+   ],
+   "mealTypes": [
+    "Appetizer"
+   ],
+   "seasons": [],
+   "holidays": [
+    "Game Day"
+   ],
+   "keywords": [
+    "chicken",
+    "dip",
+    "spicy",
+    "cheese"
+   ],
+   "photoQuery": "Buffalo chicken dip"
+  },
+  {
+   "title": "Slow Cooker Chocolate Lava Cake",
+   "description": "A gooey chocolate pudding cake that forms its own rich fudge sauce underneath as it cooks in the slow cooker.",
+   "servings": 8,
+   "prepMinutes": 15,
+   "cookMinutes": 150,
+   "ingredients": [
+    "1 cup all-purpose flour",
+    "3/4 cup granulated sugar",
+    "1/4 cup unsweetened cocoa powder",
+    "2 tsp baking powder",
+    "1/2 tsp salt",
+    "1/2 cup milk",
+    "3 tbsp butter, melted",
+    "1 tsp vanilla extract",
+    "1/2 cup semisweet chocolate chips",
+    "# For the topping",
+    "3/4 cup packed brown sugar",
+    "1/4 cup unsweetened cocoa powder",
+    "1 1/2 cups very hot water",
+    "2 cups vanilla ice cream, for serving"
+   ],
+   "steps": [
+    "Grease the insert of a 4- to 6-quart slow cooker.",
+    "Whisk the flour, sugar, 1/4 cup cocoa, baking powder and salt in a bowl, then stir in the milk, melted butter and vanilla to make a thick batter.",
+    "Fold in the chocolate chips and spread the batter evenly in the slow cooker.",
+    "Mix the brown sugar and 1/4 cup cocoa and sprinkle it evenly over the batter.",
+    "Pour the hot water gently over the top; do not stir.",
+    "Place a clean kitchen towel under the lid to catch condensation, cover, and cook on HIGH for 2 to 2 1/2 hours until the top is set but the edges are bubbly.",
+    "Turn off the slow cooker and let stand for 15 minutes, then scoop into bowls, spooning the sauce from the bottom over the cake, and serve with ice cream."
+   ],
+   "mealTypes": [
+    "Dessert"
+   ],
+   "seasons": [
+    "Winter"
+   ],
+   "holidays": [
+    "Valentine's Day"
+   ],
+   "keywords": [
+    "chocolate",
+    "pudding cake",
+    "fudge"
+   ],
+   "photoQuery": "Chocolate lava cake"
+  },
+  {
+   "title": "Slow Cooker Rice Pudding",
+   "description": "Old-fashioned creamy rice pudding with cinnamon and raisins, cooked gently in the slow cooker.",
+   "servings": 8,
+   "prepMinutes": 10,
+   "cookMinutes": 180,
+   "ingredients": [
+    "1 cup long-grain white rice (not instant), rinsed",
+    "5 cups whole milk",
+    "1 can (12 oz) evaporated milk",
+    "2/3 cup sugar",
+    "2 tbsp butter",
+    "1/4 tsp salt",
+    "1 cinnamon stick",
+    "1/2 cup raisins",
+    "2 tsp vanilla extract",
+    "1/2 tsp ground cinnamon, for sprinkling"
+   ],
+   "steps": [
+    "Grease the insert of a 4- to 6-quart slow cooker with the butter.",
+    "Add the rice, milk, evaporated milk, sugar, salt and cinnamon stick and stir well.",
+    "Cover and cook on LOW for 3 to 4 hours or on HIGH for 2 to 2 1/2 hours, stirring every hour, until the rice is tender and creamy.",
+    "Stir in the raisins and vanilla during the last 30 minutes.",
+    "Remove the cinnamon stick; the pudding will thicken as it cools.",
+    "Serve warm or chilled, sprinkled with ground cinnamon."
+   ],
+   "mealTypes": [
+    "Dessert"
+   ],
+   "seasons": [
+    "Winter"
+   ],
+   "holidays": [],
+   "keywords": [
+    "rice",
+    "pudding",
+    "cinnamon",
+    "vegetarian"
+   ],
+   "photoQuery": "Rice pudding"
+  },
+  {
+   "title": "Slow Cooker Braised Short Ribs",
+   "description": "Meltingly tender beef short ribs braised in red wine with garlic and herbs, finished in a glossy sauce.",
+   "servings": 6,
+   "prepMinutes": 25,
+   "cookMinutes": 480,
+   "ingredients": [
+    "4 lb bone-in beef short ribs",
+    "2 tsp salt",
+    "1 tsp black pepper",
+    "2 tbsp vegetable oil",
+    "1 medium onion, chopped",
+    "2 carrots, chopped",
+    "2 celery stalks, chopped",
+    "5 cloves garlic, smashed",
+    "2 tbsp tomato paste",
+    "1 1/2 cups dry red wine",
+    "1 cup beef broth",
+    "1 tbsp balsamic vinegar",
+    "3 sprigs fresh thyme",
+    "1 sprig fresh rosemary",
+    "2 bay leaves",
+    "2 tbsp cornstarch mixed with 2 tbsp cold water"
+   ],
+   "steps": [
+    "Season the short ribs with salt and pepper and brown them in the oil in a large skillet over medium-high heat, in batches, about 8 minutes per batch.",
+    "Transfer the ribs to a 6-quart slow cooker.",
+    "Pour off all but 1 tablespoon of fat, add the onion, carrots and celery to the skillet and cook for 5 minutes, then stir in the garlic and tomato paste for 1 minute.",
+    "Add the wine and simmer for 3 minutes, scraping up the browned bits, then pour over the ribs.",
+    "Add the broth, vinegar, thyme, rosemary and bay leaves.",
+    "Cover and cook on LOW for 8 hours or on HIGH for 5 to 6 hours until the meat is falling off the bone.",
+    "Transfer the ribs to a platter, strain and skim the fat from the liquid, then boil it in a saucepan and whisk in the cornstarch slurry until glossy.",
+    "Spoon the sauce over the short ribs and serve with mashed potatoes or polenta."
+   ],
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [
+    "Winter"
+   ],
+   "holidays": [
+    "Valentine's Day",
+    "Christmas"
+   ],
+   "keywords": [
+    "beef",
+    "short ribs",
+    "red wine",
+    "braised"
+   ],
+   "photoQuery": "Braised short ribs"
+  },
+  {
+   "title": "Slow Cooker Minestrone",
+   "description": "A hearty Italian vegetable soup with beans, tomatoes and pasta, full of garden vegetables.",
+   "servings": 8,
+   "prepMinutes": 20,
+   "cookMinutes": 420,
+   "ingredients": [
+    "1 medium onion, diced",
+    "2 carrots, diced",
+    "2 celery stalks, diced",
+    "3 cloves garlic, minced",
+    "1 medium zucchini, diced",
+    "1 cup green beans, cut into 1-inch pieces",
+    "1 can (28 oz) diced tomatoes",
+    "1 can (15 oz) cannellini beans, drained and rinsed",
+    "1 can (15 oz) kidney beans, drained and rinsed",
+    "6 cups vegetable broth",
+    "1 Parmesan rind (optional)",
+    "2 tsp Italian seasoning",
+    "1 bay leaf",
+    "1 1/2 tsp salt",
+    "1/2 tsp black pepper",
+    "1 cup small pasta (ditalini or small shells)",
+    "3 cups fresh baby spinach",
+    "1/2 cup grated Parmesan cheese",
+    "2 tbsp chopped fresh basil"
+   ],
+   "steps": [
+    "Place the onion, carrots, celery, garlic, zucchini and green beans in a 6-quart slow cooker.",
+    "Add the tomatoes, both beans, broth, Parmesan rind, Italian seasoning, bay leaf, salt and pepper.",
+    "Cover and cook on LOW for 7 to 8 hours or on HIGH for 3 to 4 hours until the vegetables are tender.",
+    "Stir in the pasta, cover and cook on HIGH for 20 to 30 minutes until the pasta is tender.",
+    "Remove the Parmesan rind and bay leaf and stir in the spinach until wilted.",
+    "Serve topped with grated Parmesan and fresh basil."
+   ],
+   "mealTypes": [
+    "Soup & Salad"
+   ],
+   "seasons": [
+    "Fall"
+   ],
+   "holidays": [],
+   "keywords": [
+    "vegetable soup",
+    "beans",
+    "pasta",
+    "vegetarian"
+   ],
+   "photoQuery": "Minestrone"
+  },
+  {
+   "title": "Slow Cooker Black-Eyed Peas with Ham",
+   "description": "Southern black-eyed peas simmered with smoked ham and spices, eaten on New Year's Day for good luck.",
+   "servings": 8,
+   "prepMinutes": 15,
+   "cookMinutes": 480,
+   "ingredients": [
+    "1 lb dried black-eyed peas, rinsed and picked over",
+    "1 smoked ham hock or 1 1/2 cups diced ham",
+    "1 medium onion, diced",
+    "1 green bell pepper, diced",
+    "2 celery stalks, diced",
+    "3 cloves garlic, minced",
+    "6 cups chicken broth",
+    "1 bay leaf",
+    "1 tsp dried thyme",
+    "1/2 tsp smoked paprika",
+    "1/4 tsp cayenne pepper",
+    "1 tsp salt, or to taste",
+    "1/2 tsp black pepper",
+    "1 tsp hot sauce, or to taste",
+    "4 cups cooked white rice, for serving"
+   ],
+   "steps": [
+    "Place the black-eyed peas in a 6-quart slow cooker.",
+    "Add the ham hock, onion, bell pepper, celery and garlic.",
+    "Pour in the broth and add the bay leaf, thyme, paprika, cayenne and black pepper.",
+    "Cover and cook on LOW for 7 to 8 hours or on HIGH for 4 to 5 hours until the peas are tender.",
+    "Remove the ham hock, chop the meat and return it to the pot, discarding the bone and bay leaf.",
+    "Season with salt to taste and serve over rice with hot sauce and cornbread."
+   ],
+   "mealTypes": [
+    "Entree",
+    "Side Dish"
+   ],
+   "seasons": [
+    "Winter"
+   ],
+   "holidays": [
+    "New Year's"
+   ],
+   "keywords": [
+    "black-eyed peas",
+    "ham",
+    "southern"
+   ],
+   "photoQuery": "Black-eyed peas"
+  },
+  {
+   "title": "Slow Cooker Beef and Broccoli",
+   "description": "Takeout-style beef and broccoli with a savory soy-garlic sauce, made easy in the slow cooker.",
+   "servings": 4,
+   "prepMinutes": 15,
+   "cookMinutes": 300,
+   "ingredients": [
+    "1 1/2 lb flank steak or chuck, thinly sliced against the grain",
+    "1 cup beef broth",
+    "1/2 cup low-sodium soy sauce",
+    "1/3 cup packed brown sugar",
+    "1 tbsp sesame oil",
+    "4 cloves garlic, minced",
+    "1 tsp grated fresh ginger",
+    "3 tbsp cornstarch mixed with 3 tbsp cold water",
+    "4 cups broccoli florets",
+    "1 tsp toasted sesame seeds",
+    "3 cups cooked white rice, for serving"
+   ],
+   "steps": [
+    "Place the sliced beef in a 4- to 6-quart slow cooker.",
+    "Whisk together the broth, soy sauce, brown sugar, sesame oil, garlic and ginger and pour over the beef.",
+    "Cover and cook on LOW for 5 to 6 hours or on HIGH for 2 1/2 to 3 hours until the beef is tender.",
+    "Stir in the cornstarch slurry and add the broccoli.",
+    "Cover and cook on HIGH for 20 to 30 minutes until the sauce thickens and the broccoli is crisp-tender.",
+    "Sprinkle with sesame seeds and serve over rice."
+   ],
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [],
+   "holidays": [
+    "Lunar New Year"
+   ],
+   "keywords": [
+    "beef",
+    "broccoli",
+    "soy sauce"
+   ],
+   "photoQuery": "Beef and broccoli"
+  },
+  {
+   "title": "Slow Cooker Sausage Stuffing",
+   "description": "Savory bread stuffing with sausage, celery, onion and herbs cooked in the slow cooker to save oven space on Thanksgiving.",
+   "servings": 12,
+   "prepMinutes": 25,
+   "cookMinutes": 240,
+   "ingredients": [
+    "1 lb bulk pork sausage",
+    "1/2 cup butter",
+    "2 medium onions, diced",
+    "4 celery stalks, diced",
+    "1 loaf (16 oz) day-old white or French bread, cut into 1-inch cubes and dried",
+    "1/4 cup chopped parsley",
+    "1 tbsp chopped fresh sage",
+    "2 tsp dried thyme",
+    "1 tsp salt",
+    "1/2 tsp black pepper",
+    "2 large eggs, beaten",
+    "2 to 2 1/2 cups chicken broth"
+   ],
+   "steps": [
+    "Brown the sausage in a large skillet over medium-high heat, breaking it up, then transfer it to a very large bowl.",
+    "Melt the butter in the same skillet and cook the onions and celery for 8 to 10 minutes until soft.",
+    "Add the vegetables and butter to the bowl with the sausage, then add the bread cubes, parsley, sage, thyme, salt and pepper and toss well.",
+    "Whisk the eggs with 2 cups of broth and pour over the bread, tossing until evenly moistened, adding more broth if it seems dry.",
+    "Grease a 6-quart slow cooker and pile the stuffing in loosely.",
+    "Cover and cook on LOW for 4 to 5 hours or on HIGH for 2 hours until hot and set, removing the lid for the last 30 minutes to let the top dry slightly.",
+    "Keep warm on the WARM setting until serving."
+   ],
+   "mealTypes": [
+    "Side Dish"
+   ],
+   "seasons": [
+    "Fall"
+   ],
+   "holidays": [
+    "Thanksgiving",
+    "Christmas"
+   ],
+   "keywords": [
+    "stuffing",
+    "sausage",
+    "bread",
+    "holiday"
+   ],
+   "photoQuery": "Bread stuffing"
+  }
+ ]
+}

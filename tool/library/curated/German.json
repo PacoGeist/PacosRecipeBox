@@ -1,0 +1,1687 @@
+{
+ "cuisine": "German",
+ "selected": [
+  {
+   "page": "Cookbook:Spritzgeback (German Spritz Butter Cookies)",
+   "mealTypes": [
+    "Dessert"
+   ],
+   "seasons": [
+    "Winter"
+   ],
+   "holidays": [
+    "Christmas"
+   ],
+   "keywords": [
+    "cookies",
+    "butter",
+    "spritz"
+   ]
+  },
+  {
+   "page": "Cookbook:Frittaten Soup",
+   "mealTypes": [
+    "Soup & Salad"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "pancake",
+    "beef broth",
+    "soup"
+   ]
+  },
+  {
+   "page": "Cookbook:Black Forest Cake",
+   "mealTypes": [
+    "Dessert"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "chocolate",
+    "cherry",
+    "cake",
+    "cream"
+   ]
+  },
+  {
+   "page": "Cookbook:Nuremberg Gingerbread",
+   "mealTypes": [
+    "Dessert"
+   ],
+   "seasons": [
+    "Winter"
+   ],
+   "holidays": [
+    "Christmas"
+   ],
+   "keywords": [
+    "lebkuchen",
+    "gingerbread",
+    "spice"
+   ]
+  },
+  {
+   "page": "Cookbook:Zimtsterne (German Cinnamon Star Cookies)",
+   "mealTypes": [
+    "Dessert"
+   ],
+   "seasons": [
+    "Winter"
+   ],
+   "holidays": [
+    "Christmas"
+   ],
+   "keywords": [
+    "cinnamon",
+    "almond",
+    "cookies"
+   ]
+  },
+  {
+   "page": "Cookbook:East Frisian Tea",
+   "mealTypes": [
+    "Beverage"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "tea",
+    "cream",
+    "rock sugar"
+   ]
+  },
+  {
+   "page": "Cookbook:Feuerzangenbowle (German Wine Punch)",
+   "mealTypes": [
+    "Beverage"
+   ],
+   "seasons": [
+    "Winter"
+   ],
+   "holidays": [
+    "Christmas",
+    "New Year's"
+   ],
+   "keywords": [
+    "punch",
+    "red wine",
+    "rum"
+   ]
+  },
+  {
+   "page": "Cookbook:Spaetzle",
+   "mealTypes": [
+    "Side Dish"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "egg noodles",
+    "dumplings",
+    "swabian"
+   ]
+  },
+  {
+   "page": "Cookbook:Herrencreme (German Custard Dessert)",
+   "mealTypes": [
+    "Dessert"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "custard",
+    "cream",
+    "rum"
+   ]
+  },
+  {
+   "page": "Cookbook:Lentil and Sausage Stew",
+   "mealTypes": [
+    "Entree",
+    "Soup & Salad"
+   ],
+   "seasons": [
+    "Fall",
+    "Winter"
+   ],
+   "holidays": [],
+   "keywords": [
+    "lentils",
+    "sausage",
+    "swabian"
+   ]
+  },
+  {
+   "page": "Cookbook:Springerle",
+   "mealTypes": [
+    "Dessert"
+   ],
+   "seasons": [
+    "Winter"
+   ],
+   "holidays": [
+    "Christmas"
+   ],
+   "keywords": [
+    "anise",
+    "cookies",
+    "embossed"
+   ]
+  },
+  {
+   "page": "Cookbook:German Potato Salad",
+   "mealTypes": [
+    "Side Dish",
+    "Soup & Salad"
+   ],
+   "seasons": [
+    "Summer"
+   ],
+   "holidays": [
+    "Oktoberfest"
+   ],
+   "keywords": [
+    "potato",
+    "bacon",
+    "vinegar"
+   ]
+  },
+  {
+   "page": "Cookbook:Eierpunsch (German Egg Punch)",
+   "mealTypes": [
+    "Beverage"
+   ],
+   "seasons": [
+    "Winter"
+   ],
+   "holidays": [
+    "Christmas"
+   ],
+   "keywords": [
+    "egg",
+    "white wine",
+    "punch"
+   ]
+  },
+  {
+   "page": "Cookbook:German Style Sweet Mustard (Senf)",
+   "mealTypes": [
+    "Side Dish"
+   ],
+   "seasons": [],
+   "holidays": [
+    "Oktoberfest"
+   ],
+   "keywords": [
+    "mustard",
+    "bavarian",
+    "condiment"
+   ]
+  },
+  {
+   "page": "Cookbook:Pickert (German Potato Dumpling)",
+   "mealTypes": [
+    "Breakfast",
+    "Side Dish"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "potato",
+    "raisins",
+    "yeast"
+   ]
+  },
+  {
+   "page": "Cookbook:Potatoes with Green Sauce",
+   "mealTypes": [
+    "Entree",
+    "Side Dish"
+   ],
+   "seasons": [
+    "Spring"
+   ],
+   "holidays": [
+    "Easter"
+   ],
+   "keywords": [
+    "herbs",
+    "frankfurt",
+    "potato",
+    "vegetarian"
+   ]
+  },
+  {
+   "page": "Cookbook:Sauerkraut I",
+   "mealTypes": [
+    "Side Dish"
+   ],
+   "seasons": [
+    "Fall"
+   ],
+   "holidays": [],
+   "keywords": [
+    "cabbage",
+    "fermented"
+   ]
+  },
+  {
+   "page": "Cookbook:Semmelknoedel (Bavarian Bread Dumplings)",
+   "mealTypes": [
+    "Side Dish"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "bread dumplings",
+    "bavarian"
+   ]
+  },
+  {
+   "page": "Cookbook:Pork Stomach Filled with Meat and Vegetables (Saumagen)",
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [
+    "Fall",
+    "Winter"
+   ],
+   "holidays": [],
+   "keywords": [
+    "pork",
+    "palatinate",
+    "potato"
+   ]
+  },
+  {
+   "page": "Cookbook:Pretzels (Soft)",
+   "mealTypes": [
+    "Bread",
+    "Appetizer"
+   ],
+   "seasons": [],
+   "holidays": [
+    "Oktoberfest"
+   ],
+   "keywords": [
+    "pretzel",
+    "bread",
+    "salt"
+   ]
+  },
+  {
+   "page": "Cookbook:Roasted Pork with Potatoes and Onions (Schweinsbraten)",
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [
+    "Fall",
+    "Winter"
+   ],
+   "holidays": [
+    "Oktoberfest"
+   ],
+   "keywords": [
+    "pork roast",
+    "beer",
+    "caraway",
+    "bavarian"
+   ]
+  }
+ ],
+ "original": [
+  {
+   "title": "Sauerbraten",
+   "description": "Germany's famous sweet-and-sour pot roast: beef marinated for several days in spiced vinegar and wine, then braised and served with a gingersnap gravy.",
+   "servings": 6,
+   "prepMinutes": 30,
+   "cookMinutes": 210,
+   "ingredients": [
+    "3 1/2 lb beef bottom round or chuck roast",
+    "# For the marinade",
+    "1 1/2 cups red wine vinegar",
+    "1 cup dry red wine",
+    "1 cup water",
+    "1 large onion, sliced",
+    "1 carrot, sliced",
+    "2 bay leaves",
+    "10 whole black peppercorns",
+    "6 whole cloves",
+    "6 juniper berries, lightly crushed",
+    "1 tbsp sugar",
+    "2 tsp salt",
+    "# For cooking",
+    "2 tbsp vegetable oil or lard",
+    "1/2 cup crushed gingersnap cookies",
+    "2 tbsp raisins (optional)",
+    "1 tbsp brown sugar"
+   ],
+   "steps": [
+    "Combine the vinegar, wine, water, onion, carrot, bay leaves, peppercorns, cloves, juniper, sugar and salt in a saucepan and bring to a boil, then let cool completely.",
+    "Place the beef in a deep glass or ceramic dish or zip-top bag, pour the cooled marinade over it, cover and refrigerate for 3 to 5 days, turning the meat once a day.",
+    "Remove the beef from the marinade, pat it dry with paper towels, and strain the marinade, reserving both the liquid and the vegetables.",
+    "Heat the oil in a Dutch oven over medium-high heat and brown the beef well on all sides, about 10 minutes.",
+    "Add the reserved vegetables and 2 cups of the strained marinade, bring to a simmer, then cover and cook over low heat (or in a 325°F (165°C) oven) for 3 to 3 1/2 hours until very tender.",
+    "Transfer the meat to a cutting board and tent it with foil to rest.",
+    "Strain the cooking liquid into a saucepan, pressing on the vegetables, and add water or more marinade to make about 2 1/2 cups.",
+    "Bring the liquid to a simmer and whisk in the gingersnaps, brown sugar and raisins, cooking for 5 to 8 minutes until the gravy is smooth and thickened.",
+    "Slice the beef against the grain and serve with the gravy, red cabbage and potato dumplings or spaetzle."
+   ],
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [
+    "Fall",
+    "Winter"
+   ],
+   "holidays": [
+    "Oktoberfest"
+   ],
+   "keywords": [
+    "beef",
+    "pot roast",
+    "marinated",
+    "gingersnap"
+   ],
+   "photoQuery": "Sauerbraten"
+  },
+  {
+   "title": "Rinderrouladen (Beef Rolls)",
+   "description": "Thin slices of beef spread with mustard and rolled around bacon, onion and pickle, then braised in a rich brown gravy — a German Sunday dinner classic.",
+   "servings": 4,
+   "prepMinutes": 30,
+   "cookMinutes": 105,
+   "ingredients": [
+    "8 thin slices beef top round (about 2 lb total), pounded to 1/4 inch",
+    "8 tsp German or Dijon mustard",
+    "8 slices bacon",
+    "1 medium onion, finely chopped",
+    "4 dill pickles, quartered lengthwise",
+    "1 tsp salt",
+    "1/2 tsp black pepper",
+    "2 tbsp vegetable oil",
+    "1 carrot, diced",
+    "1 celery stalk, diced",
+    "1 tbsp tomato paste",
+    "1 cup dry red wine",
+    "2 cups beef broth",
+    "1 bay leaf",
+    "2 tbsp cornstarch mixed with 3 tbsp cold water"
+   ],
+   "steps": [
+    "Lay the beef slices flat, season with salt and pepper, and spread each one with 1 teaspoon of mustard.",
+    "Place a slice of bacon, a spoonful of chopped onion and a pickle spear at the short end of each slice.",
+    "Roll the beef up tightly, tucking in the sides, and secure each roll with toothpicks or kitchen twine.",
+    "Heat the oil in a Dutch oven over medium-high heat and brown the rolls on all sides, then remove them to a plate.",
+    "Add the carrot, celery and any remaining onion to the pot and cook for 5 minutes, then stir in the tomato paste and cook 1 minute more.",
+    "Pour in the wine, scraping up the browned bits, and simmer until reduced by half.",
+    "Add the broth and bay leaf, return the rolls to the pot, cover and simmer gently for 1 1/2 hours until the beef is tender.",
+    "Remove the rolls and strain or purée the sauce, then bring it to a boil and whisk in the cornstarch slurry to thicken.",
+    "Remove the toothpicks or twine and serve the rouladen with the gravy, red cabbage and boiled potatoes or dumplings."
+   ],
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [
+    "Fall",
+    "Winter"
+   ],
+   "holidays": [
+    "Christmas"
+   ],
+   "keywords": [
+    "beef",
+    "rolled",
+    "braised",
+    "pickle"
+   ],
+   "photoQuery": "Rinderrouladen"
+  },
+  {
+   "title": "Käsespätzle (Cheese Spaetzle)",
+   "description": "Swabian and Allgäu comfort food: homemade egg spaetzle layered with melted mountain cheese and topped with crisp fried onions.",
+   "servings": 4,
+   "prepMinutes": 20,
+   "cookMinutes": 30,
+   "ingredients": [
+    "# For the spaetzle",
+    "3 cups all-purpose flour",
+    "5 large eggs",
+    "1/2 cup water or milk, as needed",
+    "1 tsp salt",
+    "1/4 tsp ground nutmeg",
+    "# For assembling",
+    "3 tbsp butter",
+    "2 large onions, thinly sliced",
+    "8 oz Emmental cheese, grated",
+    "4 oz Gruyère or Bergkäse, grated",
+    "1/2 tsp black pepper",
+    "2 tbsp chopped chives"
+   ],
+   "steps": [
+    "Whisk the flour, salt and nutmeg in a bowl, then beat in the eggs and enough water to make a thick, sticky batter, and beat with a wooden spoon until bubbles form; let rest 10 minutes.",
+    "Melt 2 tablespoons of butter in a skillet over medium heat and cook the onions slowly, stirring often, for 15 to 20 minutes until deep golden and crisp.",
+    "Preheat the oven to 350°F (175°C) and butter a baking dish.",
+    "Bring a large pot of salted water to a boil and press the batter through a spaetzle maker or the holes of a colander into the water in batches.",
+    "When the spaetzle float to the surface (1 to 2 minutes), lift them out with a slotted spoon and drain well.",
+    "Layer one third of the hot spaetzle in the baking dish, sprinkle with one third of the cheese and some pepper, and repeat twice.",
+    "Dot with the remaining butter and bake for 10 to 12 minutes until the cheese is melted and bubbling.",
+    "Top with the fried onions and chives and serve immediately with a green salad."
+   ],
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [
+    "Winter"
+   ],
+   "holidays": [],
+   "keywords": [
+    "cheese",
+    "noodles",
+    "onions",
+    "vegetarian"
+   ],
+   "photoQuery": "Käsespätzle"
+  },
+  {
+   "title": "Apfelstrudel (Apple Strudel)",
+   "description": "Paper-thin layers of buttery pastry wrapped around cinnamon apples, raisins and toasted breadcrumbs, dusted with powdered sugar.",
+   "servings": 8,
+   "prepMinutes": 30,
+   "cookMinutes": 40,
+   "ingredients": [
+    "10 sheets phyllo dough, thawed",
+    "1/2 cup unsalted butter, melted",
+    "1/2 cup dry breadcrumbs",
+    "2 lb tart apples (such as Granny Smith), peeled, cored and thinly sliced",
+    "1/2 cup sugar",
+    "1/3 cup raisins, soaked in 2 tbsp rum or warm water",
+    "1/3 cup chopped walnuts or almonds",
+    "1 1/2 tsp ground cinnamon",
+    "1 tbsp lemon juice",
+    "2 tbsp powdered sugar, for dusting"
+   ],
+   "steps": [
+    "Preheat the oven to 375°F (190°C) and line a baking sheet with parchment paper.",
+    "Toast the breadcrumbs in 2 tablespoons of the melted butter in a skillet over medium heat until golden, then set aside.",
+    "Toss the apples with the sugar, drained raisins, nuts, cinnamon and lemon juice in a large bowl.",
+    "Lay one sheet of phyllo on a clean kitchen towel, brush it with butter, and repeat with the remaining sheets, stacking them.",
+    "Sprinkle the toasted breadcrumbs over the lower two thirds of the stack, leaving a 2-inch border on the sides.",
+    "Spread the apple filling over the breadcrumbs, fold in the sides, and use the towel to help roll the pastry up into a tight log.",
+    "Transfer the strudel seam side down to the baking sheet and brush it generously with the remaining butter.",
+    "Bake for 35 to 40 minutes until deep golden brown, then let cool for 15 minutes.",
+    "Dust with powdered sugar and serve warm with vanilla sauce, whipped cream or ice cream."
+   ],
+   "mealTypes": [
+    "Dessert"
+   ],
+   "seasons": [
+    "Fall"
+   ],
+   "holidays": [],
+   "keywords": [
+    "apple",
+    "pastry",
+    "cinnamon"
+   ],
+   "photoQuery": "Apfelstrudel"
+  },
+  {
+   "title": "Bienenstich (Bee Sting Cake)",
+   "description": "A soft yeast cake topped with a crunchy honey-almond caramel and filled with vanilla pastry cream.",
+   "servings": 12,
+   "prepMinutes": 45,
+   "cookMinutes": 30,
+   "ingredients": [
+    "# For the dough",
+    "2 1/2 cups all-purpose flour",
+    "2 1/4 tsp instant yeast",
+    "1/4 cup sugar",
+    "1/2 tsp salt",
+    "2/3 cup warm milk",
+    "1 large egg",
+    "4 tbsp butter, softened",
+    "# For the topping",
+    "4 tbsp butter",
+    "1/3 cup sugar",
+    "2 tbsp honey",
+    "2 tbsp heavy cream",
+    "1 cup sliced almonds",
+    "# For the filling",
+    "2 cups whole milk",
+    "1/2 cup sugar",
+    "3 tbsp cornstarch",
+    "3 egg yolks",
+    "1 tsp vanilla extract",
+    "1 cup heavy cream, whipped"
+   ],
+   "steps": [
+    "Mix the flour, yeast, sugar and salt, then add the warm milk, egg and softened butter and knead for 8 minutes until smooth and elastic.",
+    "Cover the dough and let it rise in a warm place for 1 hour until doubled.",
+    "Press the dough evenly into a greased 9 x 13-inch pan or 10-inch springform pan, cover and let rise 20 minutes.",
+    "For the topping, melt the butter, sugar, honey and cream in a saucepan, simmer for 3 minutes, stir in the almonds and let cool slightly.",
+    "Preheat the oven to 350°F (175°C), spread the almond topping over the dough, and bake for 25 to 30 minutes until golden.",
+    "For the filling, heat 1 1/2 cups of milk with the sugar, whisk the remaining milk with the cornstarch and yolks, then whisk this into the hot milk and cook until very thick.",
+    "Stir the vanilla into the pastry cream, cover the surface with plastic wrap and chill completely.",
+    "Cool the cake, then split it horizontally into two layers, cutting the top layer into 12 pieces.",
+    "Fold the whipped cream into the cold pastry cream, spread it over the bottom layer, set the topping pieces on top and chill for 1 hour before serving."
+   ],
+   "mealTypes": [
+    "Dessert"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "almond",
+    "honey",
+    "cream",
+    "yeast cake"
+   ],
+   "photoQuery": "Bienenstich"
+  },
+  {
+   "title": "Rote Grütze (Red Berry Pudding)",
+   "description": "A northern German summer dessert of red berries and currants simmered with juice and lightly thickened, served cold with vanilla sauce or cream.",
+   "servings": 6,
+   "prepMinutes": 15,
+   "cookMinutes": 10,
+   "ingredients": [
+    "4 cups mixed red berries (raspberries, red currants, strawberries, cherries), fresh or frozen",
+    "1 1/2 cups red berry or cherry juice",
+    "1/3 cup sugar",
+    "3 tbsp cornstarch",
+    "1 tsp lemon juice",
+    "1/2 tsp vanilla extract",
+    "1 cup heavy cream or vanilla sauce, for serving"
+   ],
+   "steps": [
+    "Halve any large strawberries and pit the cherries if using fresh.",
+    "Whisk 1/4 cup of the juice with the cornstarch until smooth.",
+    "Bring the remaining juice and the sugar to a boil in a saucepan.",
+    "Add the cornstarch mixture and stir constantly until the juice thickens and turns glossy, about 1 minute.",
+    "Stir in the berries, lemon juice and vanilla and simmer for just 1 to 2 minutes so the fruit keeps its shape.",
+    "Pour into a serving bowl or individual glasses and let cool, then refrigerate for at least 3 hours.",
+    "Serve cold with pouring cream, vanilla sauce or vanilla ice cream."
+   ],
+   "mealTypes": [
+    "Dessert"
+   ],
+   "seasons": [
+    "Summer"
+   ],
+   "holidays": [],
+   "keywords": [
+    "berries",
+    "currants",
+    "pudding"
+   ],
+   "photoQuery": "Rote Grütze"
+  },
+  {
+   "title": "Kartoffelpuffer (Potato Pancakes)",
+   "description": "Crisp, lacy fried potato pancakes served with applesauce — a favorite at German Christmas markets and fairs.",
+   "servings": 4,
+   "prepMinutes": 20,
+   "cookMinutes": 25,
+   "ingredients": [
+    "2 lb russet potatoes, peeled",
+    "1 small onion",
+    "2 large eggs",
+    "3 tbsp all-purpose flour",
+    "1 tsp salt",
+    "1/4 tsp black pepper",
+    "1/8 tsp ground nutmeg",
+    "1/2 cup vegetable oil, for frying",
+    "1 1/2 cups applesauce, for serving"
+   ],
+   "steps": [
+    "Grate the potatoes and onion on the coarse side of a box grater.",
+    "Place the grated mixture in a clean kitchen towel and squeeze out as much liquid as possible.",
+    "Transfer to a bowl and mix in the eggs, flour, salt, pepper and nutmeg.",
+    "Heat about 1/4 inch of oil in a large skillet over medium-high heat until shimmering.",
+    "Drop 1/4-cup portions of the batter into the oil and flatten them into thin 4-inch rounds.",
+    "Fry for 3 to 4 minutes per side until deep golden brown and crisp at the edges.",
+    "Drain on paper towels and keep warm in a 200°F (95°C) oven while frying the rest, adding oil as needed.",
+    "Serve hot with applesauce, or with sour cream and smoked salmon for a savory version."
+   ],
+   "mealTypes": [
+    "Side Dish",
+    "Entree"
+   ],
+   "seasons": [
+    "Winter"
+   ],
+   "holidays": [
+    "Christmas",
+    "Hanukkah"
+   ],
+   "keywords": [
+    "potato",
+    "fried",
+    "applesauce"
+   ],
+   "photoQuery": "Kartoffelpuffer"
+  },
+  {
+   "title": "Königsberger Klopse (Meatballs in Caper Sauce)",
+   "description": "Tender poached veal and pork meatballs in a creamy white sauce sharpened with capers and lemon, a beloved dish from old East Prussia.",
+   "servings": 4,
+   "prepMinutes": 25,
+   "cookMinutes": 30,
+   "ingredients": [
+    "1 stale white roll or 2 slices white bread",
+    "1/2 cup milk",
+    "1 lb ground veal or beef",
+    "1/2 lb ground pork",
+    "1 small onion, finely chopped",
+    "1 large egg",
+    "2 anchovy fillets, finely minced",
+    "1 tsp salt",
+    "1/2 tsp white pepper",
+    "6 cups water",
+    "1 bay leaf",
+    "1 small onion, halved",
+    "# For the sauce",
+    "3 tbsp butter",
+    "3 tbsp all-purpose flour",
+    "1/2 cup heavy cream",
+    "3 tbsp capers, drained",
+    "2 tbsp lemon juice",
+    "1 egg yolk",
+    "1 tsp sugar"
+   ],
+   "steps": [
+    "Soak the bread in the milk for 10 minutes, then squeeze it out and crumble it into a bowl.",
+    "Add the ground meats, chopped onion, egg, anchovies, salt and pepper and mix well.",
+    "With wet hands, shape the mixture into 12 to 16 meatballs about 2 inches across.",
+    "Bring the water to a boil with the bay leaf, halved onion and 1 teaspoon salt, then reduce to a gentle simmer.",
+    "Add the meatballs and poach for 15 minutes, then remove them with a slotted spoon and strain and reserve 3 cups of the broth.",
+    "Melt the butter in a saucepan, whisk in the flour and cook for 1 minute, then gradually whisk in the reserved broth and simmer for 5 minutes.",
+    "Stir in the cream, capers, lemon juice and sugar, then remove from the heat and whisk a little sauce into the egg yolk before stirring it back in.",
+    "Return the meatballs to the sauce to warm through without boiling, then season to taste.",
+    "Serve with boiled potatoes and pickled beets."
+   ],
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "meatballs",
+    "capers",
+    "veal",
+    "cream sauce"
+   ],
+   "photoQuery": "Königsberger Klopse"
+  },
+  {
+   "title": "Bratkartoffeln (German Fried Potatoes)",
+   "description": "Sliced boiled potatoes fried in a cast-iron pan with bacon and onions until crisp and golden.",
+   "servings": 4,
+   "prepMinutes": 15,
+   "cookMinutes": 40,
+   "ingredients": [
+    "2 lb waxy potatoes (such as Yukon Gold)",
+    "4 slices thick-cut bacon, diced",
+    "1 medium onion, diced",
+    "2 tbsp butter or lard",
+    "1 tsp salt",
+    "1/2 tsp black pepper",
+    "1/2 tsp caraway seeds (optional)",
+    "2 tbsp chopped parsley"
+   ],
+   "steps": [
+    "Boil the potatoes in their skins in salted water for 20 minutes until just tender, then drain and let cool completely, ideally overnight.",
+    "Peel the potatoes and slice them about 1/4 inch thick.",
+    "Cook the bacon in a large cast-iron skillet over medium heat until crisp, then remove it, leaving the fat in the pan.",
+    "Add the butter to the pan, then add the potatoes in a single layer and fry without stirring for 5 to 7 minutes until golden on the bottom.",
+    "Turn the potatoes and continue frying, turning occasionally, for another 10 minutes until crisp all over.",
+    "Add the onion and caraway and fry for 5 minutes more until the onion is soft and browned.",
+    "Return the bacon to the pan, season with salt and pepper, sprinkle with parsley and serve with fried eggs or bratwurst."
+   ],
+   "mealTypes": [
+    "Side Dish",
+    "Breakfast"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "potato",
+    "bacon",
+    "fried",
+    "onions"
+   ],
+   "photoQuery": "Bratkartoffeln"
+  },
+  {
+   "title": "Rotkohl (Braised Red Cabbage)",
+   "description": "Sweet-and-sour red cabbage slowly braised with apples, onion and warm spices — the essential side for roasts and holiday dinners.",
+   "servings": 8,
+   "prepMinutes": 20,
+   "cookMinutes": 75,
+   "ingredients": [
+    "1 medium head red cabbage (about 2 1/2 lb), cored and thinly sliced",
+    "2 tbsp butter or bacon fat",
+    "1 medium onion, thinly sliced",
+    "2 tart apples, peeled, cored and diced",
+    "1/3 cup red wine vinegar",
+    "1/2 cup water or red wine",
+    "3 tbsp brown sugar or red currant jelly",
+    "1 bay leaf",
+    "4 whole cloves",
+    "3 juniper berries",
+    "1 tsp salt",
+    "1/4 tsp black pepper"
+   ],
+   "steps": [
+    "Melt the butter in a large heavy pot over medium heat and cook the onion for 5 minutes until soft.",
+    "Add the apples and cook for 2 minutes more.",
+    "Add the cabbage, vinegar, water, brown sugar, salt and pepper and toss well.",
+    "Tie the bay leaf, cloves and juniper in a piece of cheesecloth, or add them loose, and tuck them into the cabbage.",
+    "Bring to a simmer, cover and cook over low heat for 1 to 1 1/4 hours, stirring occasionally and adding a splash of water if it gets dry.",
+    "Remove the spices and adjust the balance of sugar, vinegar and salt to taste.",
+    "Serve hot with roast pork, sauerbraten, duck or goose; it tastes even better reheated the next day."
+   ],
+   "mealTypes": [
+    "Side Dish"
+   ],
+   "seasons": [
+    "Fall",
+    "Winter"
+   ],
+   "holidays": [
+    "Christmas",
+    "Thanksgiving"
+   ],
+   "keywords": [
+    "red cabbage",
+    "apple",
+    "sweet and sour",
+    "vegetarian"
+   ],
+   "photoQuery": "Rotkohl"
+  },
+  {
+   "title": "Käsekuchen (German Cheesecake)",
+   "description": "A light, tangy German cheesecake made with quark on a simple shortcrust base, less dense than the American style.",
+   "servings": 12,
+   "prepMinutes": 30,
+   "cookMinutes": 75,
+   "ingredients": [
+    "# For the crust",
+    "1 1/4 cups all-purpose flour",
+    "1/3 cup sugar",
+    "1/2 cup cold butter, cubed",
+    "1 large egg yolk",
+    "1 pinch salt",
+    "# For the filling",
+    "2 lb quark (or 1 1/2 lb whole-milk ricotta plus 8 oz cream cheese, blended smooth)",
+    "1 cup sugar",
+    "4 large eggs, separated",
+    "1/2 cup butter, melted",
+    "1/2 cup sour cream",
+    "3 tbsp cornstarch",
+    "1 tbsp lemon juice",
+    "1 tsp grated lemon zest",
+    "1 tsp vanilla extract"
+   ],
+   "steps": [
+    "Rub the flour, sugar, salt and butter together until crumbly, then mix in the egg yolk and knead briefly into a dough.",
+    "Press the dough into the bottom and 1 1/2 inches up the sides of a greased 9-inch springform pan and chill for 20 minutes.",
+    "Preheat the oven to 350°F (175°C).",
+    "Beat the quark, sugar, egg yolks, melted butter, sour cream, cornstarch, lemon juice, zest and vanilla until smooth.",
+    "Whip the egg whites to stiff peaks and gently fold them into the cheese mixture.",
+    "Pour the filling into the crust and smooth the top.",
+    "Bake for 65 to 75 minutes until the top is golden and the center is just set, covering loosely with foil if it browns too fast.",
+    "Turn off the oven, prop the door open and let the cake cool inside for 1 hour to prevent cracking, then chill for at least 4 hours before slicing."
+   ],
+   "mealTypes": [
+    "Dessert"
+   ],
+   "seasons": [],
+   "holidays": [
+    "Easter"
+   ],
+   "keywords": [
+    "quark",
+    "cheesecake",
+    "lemon"
+   ],
+   "photoQuery": "Käsekuchen"
+  },
+  {
+   "title": "Glühwein (Mulled Wine)",
+   "description": "The warming spiced red wine sold at every German Christmas market, scented with orange, cinnamon, cloves and star anise.",
+   "servings": 6,
+   "prepMinutes": 10,
+   "cookMinutes": 25,
+   "ingredients": [
+    "1 bottle (750 ml) dry red wine",
+    "1 cup water",
+    "1/3 cup sugar or honey",
+    "1 orange, sliced",
+    "1 lemon, sliced",
+    "2 cinnamon sticks",
+    "6 whole cloves",
+    "2 star anise",
+    "3 cardamom pods, lightly crushed",
+    "1/4 cup rum or brandy (optional)"
+   ],
+   "steps": [
+    "Combine the water, sugar, orange and lemon slices and all of the spices in a saucepan.",
+    "Bring to a simmer and cook for 5 minutes to dissolve the sugar and release the flavors.",
+    "Pour in the wine and heat gently over low heat for 15 to 20 minutes, never letting it boil.",
+    "Taste and add more sugar if you like it sweeter.",
+    "Stir in the rum or brandy just before serving, if using.",
+    "Strain into mugs and garnish each with a fresh orange slice."
+   ],
+   "mealTypes": [
+    "Beverage"
+   ],
+   "seasons": [
+    "Winter"
+   ],
+   "holidays": [
+    "Christmas",
+    "New Year's"
+   ],
+   "keywords": [
+    "wine",
+    "spiced",
+    "hot drink"
+   ],
+   "photoQuery": "Glühwein"
+  },
+  {
+   "title": "Jägerschnitzel (Hunter's Schnitzel)",
+   "description": "Pan-fried pork cutlets smothered in a creamy mushroom and onion gravy.",
+   "servings": 4,
+   "prepMinutes": 20,
+   "cookMinutes": 25,
+   "ingredients": [
+    "4 boneless pork loin cutlets (about 5 oz each)",
+    "1 tsp salt",
+    "1/2 tsp black pepper",
+    "1/2 cup all-purpose flour",
+    "2 large eggs, beaten",
+    "1 cup dry breadcrumbs",
+    "1/2 cup vegetable oil",
+    "# For the mushroom sauce",
+    "2 tbsp butter",
+    "4 slices bacon, diced",
+    "1 small onion, finely chopped",
+    "12 oz cremini mushrooms, sliced",
+    "1 tbsp all-purpose flour",
+    "1 cup beef broth",
+    "1/2 cup heavy cream",
+    "1 tbsp chopped parsley"
+   ],
+   "steps": [
+    "Pound the cutlets between sheets of plastic wrap to 1/4 inch thick and season with salt and pepper.",
+    "Set up three shallow dishes with flour, beaten eggs and breadcrumbs, and dredge each cutlet in the flour, then egg, then breadcrumbs.",
+    "Heat the oil in a large skillet over medium-high heat and fry the cutlets for 3 to 4 minutes per side until golden, then drain and keep warm.",
+    "In another skillet, cook the bacon until crisp, then add the butter and onion and cook for 3 minutes.",
+    "Add the mushrooms and cook for 6 to 8 minutes until browned and their liquid has evaporated.",
+    "Sprinkle in the flour and stir for 1 minute, then add the broth and simmer until thickened.",
+    "Stir in the cream, simmer for 2 minutes and season with salt, pepper and parsley.",
+    "Spoon the sauce over the schnitzel and serve with spaetzle, fries or Bratkartoffeln."
+   ],
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [
+    "Fall"
+   ],
+   "holidays": [
+    "Oktoberfest"
+   ],
+   "keywords": [
+    "pork",
+    "schnitzel",
+    "mushroom",
+    "gravy"
+   ],
+   "photoQuery": "Jägerschnitzel"
+  },
+  {
+   "title": "Christstollen (Christmas Stollen)",
+   "description": "A rich, buttery fruit bread studded with rum-soaked raisins, candied peel and almonds, coated in powdered sugar.",
+   "servings": 16,
+   "prepMinutes": 45,
+   "cookMinutes": 50,
+   "ingredients": [
+    "3/4 cup raisins",
+    "1/2 cup chopped candied citrus peel",
+    "1/4 cup dark rum",
+    "4 cups all-purpose flour",
+    "2 1/4 tsp instant yeast",
+    "1/3 cup sugar",
+    "1/2 tsp salt",
+    "1/2 tsp ground cardamom",
+    "1/4 tsp ground nutmeg",
+    "1 tsp grated lemon zest",
+    "3/4 cup warm milk",
+    "1 large egg",
+    "3/4 cup unsalted butter, softened",
+    "1/2 cup slivered almonds",
+    "7 oz marzipan (optional)",
+    "# For the coating",
+    "1/2 cup butter, melted",
+    "1 cup powdered sugar"
+   ],
+   "steps": [
+    "Soak the raisins and candied peel in the rum overnight or for at least 2 hours.",
+    "Mix the flour, yeast, sugar, salt, spices and lemon zest, then add the milk, egg and softened butter and knead for 8 to 10 minutes into a smooth dough.",
+    "Knead in the drained fruit and the almonds, cover and let rise in a warm place for 1 1/2 hours.",
+    "Divide the dough in half and roll each piece into an oval about 10 x 8 inches.",
+    "If using marzipan, roll it into two logs and lay one down the center of each oval.",
+    "Fold one long side over past the center to form the classic stollen shape and press the edge lightly.",
+    "Place the loaves on a lined baking sheet, cover and let rise for 45 minutes while you preheat the oven to 350°F (175°C).",
+    "Bake for 40 to 50 minutes until deep golden and the internal temperature reaches 190°F (88°C).",
+    "Brush the hot loaves generously with melted butter, dust heavily with powdered sugar, and repeat once they cool.",
+    "Wrap tightly and let the stollen mature for at least 3 days and up to 3 weeks before slicing."
+   ],
+   "mealTypes": [
+    "Bread",
+    "Dessert"
+   ],
+   "seasons": [
+    "Winter"
+   ],
+   "holidays": [
+    "Christmas"
+   ],
+   "keywords": [
+    "fruit bread",
+    "marzipan",
+    "rum",
+    "almond"
+   ],
+   "photoQuery": "Stollen"
+  },
+  {
+   "title": "Beer-Braised Bratwurst with Onions",
+   "description": "Bratwurst simmered in lager with onions, then browned and served on crusty rolls with mustard — perfect for Oktoberfest.",
+   "servings": 6,
+   "prepMinutes": 10,
+   "cookMinutes": 35,
+   "ingredients": [
+    "6 fresh (uncooked) bratwurst sausages",
+    "2 tbsp butter",
+    "2 large onions, thinly sliced",
+    "2 bottles (12 oz each) German lager or Märzen beer",
+    "1 tsp caraway seeds",
+    "1/2 tsp black pepper",
+    "6 crusty rolls",
+    "6 tbsp German mustard",
+    "2 cups sauerkraut, warmed (optional)"
+   ],
+   "steps": [
+    "Melt the butter in a large skillet over medium heat and cook the onions for 8 to 10 minutes until soft and lightly golden.",
+    "Add the beer, caraway and pepper and bring to a gentle simmer.",
+    "Add the bratwurst, cover and simmer for 15 minutes, turning once, until cooked through to 160°F (71°C).",
+    "Remove the sausages and continue simmering the onions until the beer has reduced to a thick glaze.",
+    "Meanwhile brown the bratwurst on a hot grill or in a skillet for 5 to 6 minutes, turning, until well browned.",
+    "Split the rolls, add a bratwurst to each, and top with the beer onions, mustard and sauerkraut."
+   ],
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [
+    "Summer",
+    "Fall"
+   ],
+   "holidays": [
+    "Oktoberfest",
+    "Game Day"
+   ],
+   "keywords": [
+    "sausage",
+    "beer",
+    "onions",
+    "grilled"
+   ],
+   "photoQuery": "Bratwurst with onions"
+  },
+  {
+   "title": "Currywurst",
+   "description": "Berlin's iconic street food: sliced fried sausage drenched in a sweet, tangy curry-ketchup sauce and dusted with curry powder.",
+   "servings": 4,
+   "prepMinutes": 10,
+   "cookMinutes": 20,
+   "ingredients": [
+    "4 bratwurst or bockwurst sausages",
+    "1 tbsp vegetable oil",
+    "# For the sauce",
+    "1 tbsp butter",
+    "1 small onion, finely chopped",
+    "2 tsp curry powder, plus more for sprinkling",
+    "1 tsp sweet paprika",
+    "1 cup ketchup",
+    "1/2 cup tomato sauce",
+    "2 tbsp apple cider vinegar",
+    "1 tbsp Worcestershire sauce",
+    "1 tbsp honey or brown sugar",
+    "1/4 cup water"
+   ],
+   "steps": [
+    "Melt the butter in a saucepan over medium heat and cook the onion for 4 minutes until soft.",
+    "Stir in the curry powder and paprika and cook for 30 seconds until fragrant.",
+    "Add the ketchup, tomato sauce, vinegar, Worcestershire, honey and water and simmer for 10 minutes.",
+    "Blend the sauce smooth with an immersion blender if you like and keep it warm.",
+    "Heat the oil in a skillet and fry the sausages for 8 to 10 minutes, turning, until browned and heated through.",
+    "Slice the sausages into thick coins, pour the warm sauce over them and dust with more curry powder.",
+    "Serve with French fries or a crusty roll."
+   ],
+   "mealTypes": [
+    "Entree",
+    "Appetizer"
+   ],
+   "seasons": [],
+   "holidays": [
+    "Game Day"
+   ],
+   "keywords": [
+    "sausage",
+    "curry",
+    "street food",
+    "berlin"
+   ],
+   "photoQuery": "Currywurst"
+  },
+  {
+   "title": "Kartoffelsuppe (German Potato Soup)",
+   "description": "A hearty, rustic potato soup with leeks, root vegetables and marjoram, finished with sliced wieners.",
+   "servings": 6,
+   "prepMinutes": 20,
+   "cookMinutes": 35,
+   "ingredients": [
+    "2 tbsp butter",
+    "4 slices bacon, diced",
+    "1 medium onion, diced",
+    "1 leek, white and light green parts, sliced",
+    "2 carrots, diced",
+    "1 celery root (about 8 oz), peeled and diced",
+    "2 lb starchy potatoes, peeled and diced",
+    "6 cups chicken or vegetable broth",
+    "1 bay leaf",
+    "1 tsp dried marjoram",
+    "1 tsp salt",
+    "1/2 tsp black pepper",
+    "1/8 tsp ground nutmeg",
+    "1/2 cup heavy cream",
+    "4 wieners or frankfurters, sliced",
+    "2 tbsp chopped parsley"
+   ],
+   "steps": [
+    "Cook the bacon in a large pot over medium heat until it renders its fat.",
+    "Add the butter, onion and leek and cook for 5 minutes until soft.",
+    "Add the carrots, celery root and potatoes and stir for 2 minutes.",
+    "Pour in the broth, add the bay leaf, marjoram, salt and pepper, and bring to a boil.",
+    "Reduce the heat and simmer for 25 minutes until the vegetables are very tender.",
+    "Remove the bay leaf and mash or blend about half of the soup to thicken it, leaving some chunks.",
+    "Stir in the cream, nutmeg and sliced wieners and heat for 5 minutes until the sausages are hot.",
+    "Adjust the seasoning and serve sprinkled with parsley and with dark bread on the side."
+   ],
+   "mealTypes": [
+    "Soup & Salad"
+   ],
+   "seasons": [
+    "Fall",
+    "Winter"
+   ],
+   "holidays": [],
+   "keywords": [
+    "potato",
+    "soup",
+    "sausage",
+    "leek"
+   ],
+   "photoQuery": "Kartoffelsuppe"
+  },
+  {
+   "title": "Erbsensuppe (Split Pea Soup with Smoked Sausage)",
+   "description": "A thick German split pea stew with smoked pork and vegetables, traditional at field kitchens and winter festivals.",
+   "servings": 6,
+   "prepMinutes": 15,
+   "cookMinutes": 90,
+   "ingredients": [
+    "1 lb dried green split peas, rinsed",
+    "8 cups water or chicken broth",
+    "1 smoked ham hock or 8 oz smoked pork belly",
+    "1 tbsp butter",
+    "1 medium onion, diced",
+    "2 carrots, diced",
+    "1 leek, sliced",
+    "2 medium potatoes, peeled and diced",
+    "1 bay leaf",
+    "1 tsp dried marjoram",
+    "1 tsp salt",
+    "1/2 tsp black pepper",
+    "4 smoked sausages (such as Mettwurst or kielbasa), sliced"
+   ],
+   "steps": [
+    "Melt the butter in a large pot and cook the onion for 4 minutes until soft.",
+    "Add the split peas, water, ham hock and bay leaf and bring to a boil, skimming off any foam.",
+    "Reduce the heat, cover partially and simmer for 45 minutes, stirring occasionally.",
+    "Add the carrots, leek, potatoes and marjoram and simmer for another 30 minutes until the peas have broken down.",
+    "Remove the ham hock, pull the meat from the bone, chop it and return it to the pot.",
+    "Add the sliced sausage and simmer for 10 minutes more, adding water if the soup is too thick.",
+    "Season with salt and pepper and serve with crusty bread and a little mustard."
+   ],
+   "mealTypes": [
+    "Soup & Salad",
+    "Entree"
+   ],
+   "seasons": [
+    "Winter"
+   ],
+   "holidays": [],
+   "keywords": [
+    "split peas",
+    "smoked sausage",
+    "soup"
+   ],
+   "photoQuery": "Erbsensuppe"
+  },
+  {
+   "title": "Zwetschgenkuchen (Plum Sheet Cake)",
+   "description": "A late-summer yeast sheet cake covered in rows of halved Italian plums and finished with cinnamon sugar or streusel.",
+   "servings": 16,
+   "prepMinutes": 40,
+   "cookMinutes": 35,
+   "ingredients": [
+    "# For the dough",
+    "3 cups all-purpose flour",
+    "2 1/4 tsp instant yeast",
+    "1/4 cup sugar",
+    "1/2 tsp salt",
+    "3/4 cup warm milk",
+    "1 large egg",
+    "4 tbsp butter, softened",
+    "# For the topping",
+    "3 lb Italian prune plums, halved and pitted",
+    "3 tbsp sugar",
+    "1 tsp ground cinnamon",
+    "2 tbsp butter, melted"
+   ],
+   "steps": [
+    "Combine the flour, yeast, sugar and salt, add the milk, egg and butter, and knead for 8 minutes until smooth.",
+    "Cover and let the dough rise in a warm place for 1 hour until doubled.",
+    "Grease a 12 x 17-inch rimmed baking sheet and roll or press the dough evenly into it.",
+    "Cut a small slit into the top of each plum half so it fans open slightly.",
+    "Arrange the plums cut side up in tight overlapping rows over the dough.",
+    "Let rise for 20 minutes while you preheat the oven to 375°F (190°C).",
+    "Bake for 30 to 35 minutes until the dough is golden and the plums are juicy.",
+    "Brush with melted butter, sprinkle with the mixed cinnamon and sugar, and serve warm or cool with whipped cream."
+   ],
+   "mealTypes": [
+    "Dessert"
+   ],
+   "seasons": [
+    "Summer",
+    "Fall"
+   ],
+   "holidays": [],
+   "keywords": [
+    "plum",
+    "sheet cake",
+    "yeast"
+   ],
+   "photoQuery": "Zwetschgenkuchen"
+  },
+  {
+   "title": "Obatzda (Bavarian Beer Cheese Spread)",
+   "description": "A tangy Bavarian beer-garden spread of ripe Camembert, butter, paprika and beer, served with pretzels and radishes.",
+   "servings": 6,
+   "prepMinutes": 15,
+   "cookMinutes": 0,
+   "ingredients": [
+    "8 oz ripe Camembert or Brie, rind on, chopped",
+    "4 tbsp butter, softened",
+    "3 oz cream cheese, softened",
+    "1 small onion, very finely chopped",
+    "2 tsp sweet paprika",
+    "1/2 tsp caraway seeds, lightly crushed",
+    "1/4 tsp salt",
+    "1/4 tsp black pepper",
+    "3 tbsp German lager",
+    "1 tbsp chopped chives"
+   ],
+   "steps": [
+    "Mash the Camembert with a fork in a bowl until mostly smooth with a few small chunks.",
+    "Add the softened butter and cream cheese and mash until well combined.",
+    "Stir in the onion, paprika, caraway, salt and pepper.",
+    "Add the beer a little at a time until the spread is creamy but not runny.",
+    "Cover and refrigerate for at least 1 hour so the flavors blend.",
+    "Mound the obatzda on a plate, dust with a little more paprika, sprinkle with chives and serve with soft pretzels, rye bread and radishes."
+   ],
+   "mealTypes": [
+    "Appetizer"
+   ],
+   "seasons": [],
+   "holidays": [
+    "Oktoberfest",
+    "Game Day"
+   ],
+   "keywords": [
+    "cheese",
+    "dip",
+    "beer",
+    "bavarian"
+   ],
+   "photoQuery": "Obatzda"
+  },
+  {
+   "title": "Maultaschen (Swabian Filled Pasta)",
+   "description": "Large Swabian pasta pockets filled with meat, spinach and herbs, served in broth or pan-fried with onions.",
+   "servings": 6,
+   "prepMinutes": 60,
+   "cookMinutes": 20,
+   "ingredients": [
+    "# For the pasta",
+    "3 cups all-purpose flour",
+    "4 large eggs",
+    "1/2 tsp salt",
+    "1 to 2 tbsp water",
+    "# For the filling",
+    "1 tbsp butter",
+    "1 medium onion, finely chopped",
+    "10 oz frozen chopped spinach, thawed and squeezed dry",
+    "8 oz ground pork",
+    "4 oz smoked ham or bratwurst meat, finely chopped",
+    "1 stale roll, soaked in water and squeezed",
+    "1 large egg",
+    "2 tbsp chopped parsley",
+    "1 tsp salt",
+    "1/2 tsp black pepper",
+    "1/4 tsp ground nutmeg",
+    "# For serving",
+    "8 cups beef broth",
+    "2 tbsp chopped chives"
+   ],
+   "steps": [
+    "Mix the flour, eggs, salt and water into a firm dough, knead for 8 minutes until smooth, then wrap and rest for 30 minutes.",
+    "Melt the butter and cook the onion for 5 minutes until soft, then let cool.",
+    "Combine the onion with the spinach, ground pork, ham, soaked roll, egg, parsley, salt, pepper and nutmeg and mix well.",
+    "Divide the dough in half and roll each piece into a thin rectangle about 12 x 16 inches.",
+    "Spread half of the filling over the lower half of each sheet, leaving a border, then fold the top half over.",
+    "Press firmly with the handle of a wooden spoon at 3-inch intervals to seal, then cut into squares along the pressed lines.",
+    "Bring the broth to a gentle simmer and cook the Maultaschen for 12 to 15 minutes until the filling is cooked through.",
+    "Serve them in bowls of hot broth sprinkled with chives, or slice leftovers and fry them in butter with onions and egg."
+   ],
+   "mealTypes": [
+    "Entree",
+    "Soup & Salad"
+   ],
+   "seasons": [],
+   "holidays": [
+    "Easter"
+   ],
+   "keywords": [
+    "dumplings",
+    "pasta",
+    "spinach",
+    "pork"
+   ],
+   "photoQuery": "Maultaschen"
+  },
+  {
+   "title": "Frikadellen (German Pan-Fried Meat Patties)",
+   "description": "Juicy pan-fried patties of beef and pork with onion, mustard and marjoram, eaten hot or cold with potato salad.",
+   "servings": 4,
+   "prepMinutes": 15,
+   "cookMinutes": 15,
+   "ingredients": [
+    "1 stale roll or 2 slices white bread",
+    "1/2 cup milk",
+    "1/2 lb ground beef",
+    "1/2 lb ground pork",
+    "1 medium onion, finely chopped",
+    "1 large egg",
+    "1 tbsp medium-hot German mustard",
+    "1 tsp dried marjoram",
+    "2 tbsp chopped parsley",
+    "1 tsp salt",
+    "1/2 tsp black pepper",
+    "1 tsp sweet paprika",
+    "3 tbsp vegetable oil or lard"
+   ],
+   "steps": [
+    "Soak the roll in the milk for 10 minutes, then squeeze it out well.",
+    "Combine the bread with the ground beef, pork, onion, egg, mustard, marjoram, parsley, salt, pepper and paprika and knead until evenly mixed.",
+    "Shape the mixture into 8 slightly flattened patties about 3/4 inch thick.",
+    "Heat the oil in a large skillet over medium heat.",
+    "Fry the patties for 5 to 7 minutes per side until well browned and cooked through to 160°F (71°C).",
+    "Drain briefly on paper towels and serve hot with potatoes and gravy, or cold with mustard and potato salad."
+   ],
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "meat patties",
+    "pork",
+    "beef"
+   ],
+   "photoQuery": "Frikadellen"
+  },
+  {
+   "title": "Himmel und Erde (Heaven and Earth)",
+   "description": "A Rhineland dish of mashed potatoes and apples ('earth' and 'heaven') topped with fried blood sausage or bratwurst and crisp onions.",
+   "servings": 4,
+   "prepMinutes": 20,
+   "cookMinutes": 30,
+   "ingredients": [
+    "2 lb starchy potatoes, peeled and cubed",
+    "2 tart apples, peeled, cored and chopped",
+    "1 tbsp sugar",
+    "1 tbsp lemon juice",
+    "4 tbsp butter",
+    "1/2 cup warm milk",
+    "1 tsp salt",
+    "1/4 tsp ground nutmeg",
+    "4 slices bacon, diced",
+    "2 onions, sliced into rings",
+    "1 lb blood sausage (Blutwurst) or bratwurst, sliced thick"
+   ],
+   "steps": [
+    "Boil the potatoes in salted water for 15 to 20 minutes until tender.",
+    "Meanwhile simmer the apples with the sugar, lemon juice and 2 tablespoons of water for 10 minutes until soft.",
+    "Drain the potatoes and mash them with 2 tablespoons of butter, the warm milk, salt and nutmeg.",
+    "Fold the cooked apples into the mashed potatoes, keeping some texture.",
+    "Fry the bacon in a skillet until crisp, then add the onions and cook until golden and caramelized; remove and keep warm.",
+    "In the same pan, melt the remaining butter and fry the sausage slices for 2 to 3 minutes per side until crisp.",
+    "Spoon the potato-apple mash onto plates and top with the sausage, onions and bacon."
+   ],
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [
+    "Fall"
+   ],
+   "holidays": [],
+   "keywords": [
+    "potato",
+    "apple",
+    "sausage"
+   ],
+   "photoQuery": "Himmel und Erde"
+  },
+  {
+   "title": "Gurkensalat (German Cucumber Salad)",
+   "description": "Thinly sliced cucumbers in a light dill and sour cream dressing — a cool side for schnitzel and summer meals.",
+   "servings": 4,
+   "prepMinutes": 15,
+   "cookMinutes": 0,
+   "ingredients": [
+    "2 English cucumbers, very thinly sliced",
+    "1 tsp salt",
+    "1/2 small onion, very thinly sliced",
+    "1/2 cup sour cream",
+    "2 tbsp white wine vinegar",
+    "1 tsp sugar",
+    "1/4 tsp white pepper",
+    "3 tbsp chopped fresh dill"
+   ],
+   "steps": [
+    "Toss the cucumber slices with the salt in a colander and let them drain for 20 minutes.",
+    "Squeeze the cucumbers gently to remove excess liquid.",
+    "Whisk together the sour cream, vinegar, sugar, pepper and dill in a bowl.",
+    "Add the cucumbers and onion and toss to coat.",
+    "Chill for 30 minutes before serving and taste for salt."
+   ],
+   "mealTypes": [
+    "Side Dish",
+    "Soup & Salad"
+   ],
+   "seasons": [
+    "Summer"
+   ],
+   "holidays": [],
+   "keywords": [
+    "cucumber",
+    "dill",
+    "salad",
+    "vegetarian"
+   ],
+   "photoQuery": "Gurkensalat"
+  },
+  {
+   "title": "Versunkener Apfelkuchen (Sunken Apple Cake)",
+   "description": "A simple buttery sponge cake baked with scored apple halves that sink into the batter as it bakes.",
+   "servings": 10,
+   "prepMinutes": 20,
+   "cookMinutes": 45,
+   "ingredients": [
+    "1/2 cup plus 2 tbsp unsalted butter, softened",
+    "2/3 cup sugar",
+    "1 tsp vanilla extract",
+    "1 tsp grated lemon zest",
+    "3 large eggs",
+    "1 1/2 cups all-purpose flour",
+    "2 tsp baking powder",
+    "1/4 tsp salt",
+    "3 tbsp milk",
+    "4 small apples, peeled, halved and cored",
+    "1 tbsp lemon juice",
+    "2 tbsp apricot jam, warmed",
+    "1 tbsp powdered sugar"
+   ],
+   "steps": [
+    "Preheat the oven to 350°F (175°C) and grease a 9-inch springform pan.",
+    "Cut several shallow parallel slits into the rounded side of each apple half and brush with lemon juice.",
+    "Beat the butter, sugar, vanilla and lemon zest until light and fluffy, then beat in the eggs one at a time.",
+    "Whisk the flour, baking powder and salt together and fold into the batter alternately with the milk.",
+    "Spread the batter into the pan and press the apple halves, scored side up, lightly into the surface.",
+    "Bake for 40 to 45 minutes until golden and a skewer inserted in the cake comes out clean.",
+    "Brush the warm apples with apricot jam, let cool in the pan, then dust with powdered sugar before serving."
+   ],
+   "mealTypes": [
+    "Dessert"
+   ],
+   "seasons": [
+    "Fall"
+   ],
+   "holidays": [],
+   "keywords": [
+    "apple",
+    "cake",
+    "coffee cake"
+   ],
+   "photoQuery": "Versunkener Apfelkuchen"
+  },
+  {
+   "title": "Pfeffernüsse (Spice Cookies)",
+   "description": "Small, round Christmas cookies spiced with pepper, cinnamon, cloves and anise and glazed with powdered sugar.",
+   "servings": 36,
+   "prepMinutes": 25,
+   "cookMinutes": 12,
+   "ingredients": [
+    "1/2 cup honey",
+    "1/3 cup brown sugar",
+    "4 tbsp butter",
+    "1 large egg",
+    "2 1/2 cups all-purpose flour",
+    "1/4 cup finely ground almonds",
+    "1 tsp baking soda",
+    "1 1/2 tsp ground cinnamon",
+    "1/2 tsp ground cloves",
+    "1/2 tsp ground nutmeg",
+    "1/2 tsp ground anise",
+    "1/2 tsp ground black pepper",
+    "1/4 tsp salt",
+    "# For the glaze",
+    "1 1/2 cups powdered sugar",
+    "3 tbsp milk or lemon juice"
+   ],
+   "steps": [
+    "Warm the honey, brown sugar and butter in a saucepan until melted, then let cool to lukewarm.",
+    "Beat the egg into the honey mixture.",
+    "Whisk together the flour, almonds, baking soda, spices and salt, then stir in the honey mixture to form a stiff dough.",
+    "Cover and chill the dough for at least 2 hours or overnight.",
+    "Preheat the oven to 350°F (175°C) and line baking sheets with parchment.",
+    "Roll the dough into 1-inch balls and place them 1 inch apart on the sheets.",
+    "Bake for 10 to 12 minutes until firm and lightly browned on the bottom, then cool completely.",
+    "Whisk the powdered sugar and milk into a thin glaze, dip each cookie, and let the glaze set on a rack."
+   ],
+   "mealTypes": [
+    "Dessert"
+   ],
+   "seasons": [
+    "Winter"
+   ],
+   "holidays": [
+    "Christmas"
+   ],
+   "keywords": [
+    "spice cookies",
+    "honey",
+    "anise"
+   ],
+   "photoQuery": "Pfeffernüsse"
+  },
+  {
+   "title": "Dampfnudeln (Steamed Yeast Dumplings)",
+   "description": "Fluffy yeast buns steamed in a covered pan with milk and butter until they form a golden caramel crust on the bottom, served with vanilla sauce.",
+   "servings": 6,
+   "prepMinutes": 30,
+   "cookMinutes": 30,
+   "ingredients": [
+    "3 1/2 cups all-purpose flour",
+    "2 1/4 tsp instant yeast",
+    "1/4 cup sugar",
+    "1/2 tsp salt",
+    "1 cup warm milk",
+    "1 large egg",
+    "4 tbsp butter, softened",
+    "# For steaming",
+    "3/4 cup milk",
+    "3 tbsp butter",
+    "2 tbsp sugar",
+    "# For the vanilla sauce",
+    "2 cups milk",
+    "3 tbsp sugar",
+    "2 tbsp cornstarch",
+    "2 egg yolks",
+    "1 tsp vanilla extract"
+   ],
+   "steps": [
+    "Mix the flour, yeast, sugar and salt, add the warm milk, egg and butter, and knead for 8 minutes into a soft, smooth dough.",
+    "Cover and let rise for 1 hour until doubled.",
+    "Divide the dough into 12 pieces, shape them into smooth balls, cover and let rise for 20 minutes.",
+    "In a wide heavy pan with a tight-fitting glass lid, heat the milk, butter and sugar until the butter melts.",
+    "Place the dough balls in the pan, cover tightly, and cook over medium-low heat for 25 to 30 minutes without lifting the lid, until the liquid is absorbed and you hear crackling.",
+    "Meanwhile, whisk 1/2 cup milk with the cornstarch and yolks, heat the remaining milk and sugar, whisk in the cornstarch mixture and cook until thickened, then add the vanilla.",
+    "Remove the lid, loosen the dumplings and serve them caramel side up with the warm vanilla sauce or stewed plums."
+   ],
+   "mealTypes": [
+    "Dessert",
+    "Entree"
+   ],
+   "seasons": [
+    "Winter"
+   ],
+   "holidays": [],
+   "keywords": [
+    "yeast dumplings",
+    "vanilla sauce",
+    "sweet"
+   ],
+   "photoQuery": "Dampfnudeln"
+  },
+  {
+   "title": "Brötchen (German Bread Rolls)",
+   "description": "Crusty, airy German breakfast rolls with a crackly crust, perfect for butter, jam, cheese and cold cuts.",
+   "servings": 12,
+   "prepMinutes": 30,
+   "cookMinutes": 20,
+   "ingredients": [
+    "4 cups bread flour",
+    "2 tsp instant yeast",
+    "1 1/2 tsp salt",
+    "1 tsp sugar",
+    "1 1/2 cups warm water",
+    "1 tbsp vegetable oil",
+    "1 egg white beaten with 1 tbsp water",
+    "2 tbsp sesame or poppy seeds (optional)"
+   ],
+   "steps": [
+    "Combine the flour, yeast, salt and sugar, then add the water and oil and knead for 10 minutes until smooth and elastic.",
+    "Cover and let the dough rise for 1 1/2 hours until doubled.",
+    "Divide the dough into 12 pieces, shape each into a tight ball, and place on a parchment-lined baking sheet.",
+    "Cover and let rise for 30 to 40 minutes until puffy.",
+    "Place an empty metal pan on the bottom rack and preheat the oven to 450°F (230°C).",
+    "Brush the rolls with egg white, sprinkle with seeds if desired, and cut a deep slash across the top of each with a sharp knife.",
+    "Put the rolls in the oven, pour 1 cup of hot water into the empty pan to create steam, and quickly close the door.",
+    "Bake for 18 to 20 minutes until deep golden and hollow-sounding when tapped, then cool on a rack."
+   ],
+   "mealTypes": [
+    "Bread",
+    "Breakfast"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "bread rolls",
+    "crusty",
+    "breakfast"
+   ],
+   "photoQuery": "Brötchen"
+  },
+  {
+   "title": "Zwiebelkuchen (Onion Tart)",
+   "description": "A savory autumn tart of slow-cooked onions, bacon and caraway in a creamy custard, traditionally served with new wine (Federweißer).",
+   "servings": 8,
+   "prepMinutes": 40,
+   "cookMinutes": 45,
+   "ingredients": [
+    "# For the crust",
+    "2 cups all-purpose flour",
+    "1 1/2 tsp instant yeast",
+    "1/2 tsp salt",
+    "2/3 cup warm milk",
+    "3 tbsp butter, softened",
+    "# For the filling",
+    "6 slices bacon, diced",
+    "2 lb yellow onions, thinly sliced",
+    "1 tbsp butter",
+    "1 cup sour cream",
+    "3 large eggs",
+    "1 tsp caraway seeds",
+    "1 tsp salt",
+    "1/2 tsp black pepper"
+   ],
+   "steps": [
+    "Mix the flour, yeast and salt, add the milk and butter, and knead into a soft dough; cover and let rise for 45 minutes.",
+    "Cook the bacon in a large skillet until it renders its fat, then add the butter and onions.",
+    "Cook the onions over medium-low heat for 20 to 25 minutes, stirring often, until very soft and golden; let cool slightly.",
+    "Preheat the oven to 375°F (190°C) and grease a 10 x 15-inch rimmed baking sheet or a 12-inch tart pan.",
+    "Roll the dough out and press it into the pan, forming a small rim.",
+    "Whisk the sour cream, eggs, caraway, salt and pepper, then stir in the onion mixture.",
+    "Spread the filling evenly over the dough.",
+    "Bake for 40 to 45 minutes until the filling is set and golden brown, then let rest 10 minutes before cutting into squares."
+   ],
+   "mealTypes": [
+    "Entree",
+    "Appetizer"
+   ],
+   "seasons": [
+    "Fall"
+   ],
+   "holidays": [
+    "Oktoberfest"
+   ],
+   "keywords": [
+    "onion",
+    "tart",
+    "bacon",
+    "caraway"
+   ],
+   "photoQuery": "Zwiebelkuchen"
+  }
+ ]
+}

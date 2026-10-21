@@ -1,0 +1,848 @@
+{
+ "cuisine": "American",
+ "selected": [
+  {
+   "page": "Cookbook:Pancakes (North American)",
+   "mealTypes": [
+    "Breakfast"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "pancakes",
+    "buttermilk",
+    "griddle"
+   ]
+  },
+  {
+   "page": "Cookbook:French Toast",
+   "mealTypes": [
+    "Breakfast"
+   ],
+   "seasons": [],
+   "holidays": [
+    "Christmas"
+   ],
+   "keywords": [
+    "french toast",
+    "bread",
+    "eggs"
+   ]
+  },
+  {
+   "page": "Cookbook:Hash Browns",
+   "mealTypes": [
+    "Breakfast",
+    "Side Dish"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "potato",
+    "fried",
+    "diner"
+   ]
+  },
+  {
+   "page": "Cookbook:Biscuits and Gravy",
+   "mealTypes": [
+    "Breakfast"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "sausage gravy",
+    "biscuits",
+    "southern"
+   ]
+  },
+  {
+   "page": "Cookbook:Denver Omelet",
+   "mealTypes": [
+    "Breakfast"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "omelet",
+    "ham",
+    "eggs",
+    "peppers"
+   ]
+  },
+  {
+   "page": "Cookbook:Fried Pickle",
+   "mealTypes": [
+    "Appetizer"
+   ],
+   "seasons": [
+    "Summer"
+   ],
+   "holidays": [
+    "Game Day"
+   ],
+   "keywords": [
+    "pickles",
+    "deep fried",
+    "southern"
+   ]
+  },
+  {
+   "page": "Cookbook:Hot Wings",
+   "mealTypes": [
+    "Appetizer"
+   ],
+   "seasons": [],
+   "holidays": [
+    "Game Day"
+   ],
+   "keywords": [
+    "chicken wings",
+    "buffalo",
+    "spicy"
+   ]
+  },
+  {
+   "page": "Cookbook:Crab Cakes",
+   "mealTypes": [
+    "Appetizer",
+    "Entree"
+   ],
+   "seasons": [
+    "Summer"
+   ],
+   "holidays": [],
+   "keywords": [
+    "crab",
+    "seafood",
+    "maryland"
+   ]
+  },
+  {
+   "page": "Cookbook:Spinach Artichoke Dip",
+   "mealTypes": [
+    "Appetizer"
+   ],
+   "seasons": [],
+   "holidays": [
+    "Game Day"
+   ],
+   "keywords": [
+    "dip",
+    "spinach",
+    "artichoke",
+    "cheese"
+   ]
+  },
+  {
+   "page": "Cookbook:Jambalaya I",
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "rice",
+    "cajun",
+    "creole",
+    "chicken"
+   ]
+  },
+  {
+   "page": "Cookbook:Deep Dish Pizza",
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [],
+   "holidays": [
+    "Game Day"
+   ],
+   "keywords": [
+    "pizza",
+    "chicago",
+    "cheese"
+   ]
+  },
+  {
+   "page": "Cookbook:Reuben Sandwich",
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [],
+   "holidays": [
+    "St. Patrick's Day"
+   ],
+   "keywords": [
+    "sandwich",
+    "corned beef",
+    "sauerkraut",
+    "deli"
+   ]
+  },
+  {
+   "page": "Cookbook:Grilled Cheese Sandwich",
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "sandwich",
+    "cheese",
+    "kid-friendly"
+   ]
+  },
+  {
+   "page": "Cookbook:Roast Turkey with Stuffing",
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [
+    "Fall"
+   ],
+   "holidays": [
+    "Thanksgiving",
+    "Christmas"
+   ],
+   "keywords": [
+    "turkey",
+    "stuffing",
+    "cornbread",
+    "roast"
+   ]
+  },
+  {
+   "page": "Cookbook:Buttermilk Fried Chicken with Pan Gravy",
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "fried chicken",
+    "buttermilk",
+    "gravy",
+    "southern"
+   ]
+  },
+  {
+   "page": "Cookbook:Texas Style Chicken Fried Steak",
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "steak",
+    "cream gravy",
+    "texas",
+    "fried"
+   ]
+  },
+  {
+   "page": "Cookbook:Sloppy Joes",
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [],
+   "holidays": [
+    "Game Day"
+   ],
+   "keywords": [
+    "ground beef",
+    "sandwich",
+    "kid-friendly"
+   ]
+  },
+  {
+   "page": "Cookbook:Macaroni and Cheese (Baked)",
+   "mealTypes": [
+    "Entree",
+    "Side Dish"
+   ],
+   "seasons": [],
+   "holidays": [
+    "Thanksgiving"
+   ],
+   "keywords": [
+    "macaroni",
+    "cheddar",
+    "baked",
+    "comfort food"
+   ]
+  },
+  {
+   "page": "Cookbook:Classic Pot Roast",
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [
+    "Fall",
+    "Winter"
+   ],
+   "holidays": [],
+   "keywords": [
+    "beef",
+    "braised",
+    "potatoes",
+    "comfort food"
+   ]
+  },
+  {
+   "page": "Cookbook:Chicken and Dumplings",
+   "mealTypes": [
+    "Entree",
+    "Soup & Salad"
+   ],
+   "seasons": [
+    "Fall",
+    "Winter"
+   ],
+   "holidays": [],
+   "keywords": [
+    "chicken",
+    "dumplings",
+    "stew",
+    "comfort food"
+   ]
+  },
+  {
+   "page": "Cookbook:Chicken Pot Pie II",
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [
+    "Fall",
+    "Winter"
+   ],
+   "holidays": [],
+   "keywords": [
+    "chicken",
+    "pie",
+    "peas",
+    "comfort food"
+   ]
+  },
+  {
+   "page": "Cookbook:Pulled Pork Sandwiches",
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [
+    "Summer"
+   ],
+   "holidays": [
+    "Fourth of July"
+   ],
+   "keywords": [
+    "pork",
+    "smoked",
+    "barbecue",
+    "sandwich"
+   ]
+  },
+  {
+   "page": "Cookbook:Low Country Shrimp and Grits",
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "shrimp",
+    "grits",
+    "bacon",
+    "southern"
+   ]
+  },
+  {
+   "page": "Cookbook:Cajun Red Beans and Rice",
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "red beans",
+    "rice",
+    "ham hock",
+    "cajun"
+   ]
+  },
+  {
+   "page": "Cookbook:Original Texas-Style Chili",
+   "mealTypes": [
+    "Entree",
+    "Soup & Salad"
+   ],
+   "seasons": [
+    "Fall",
+    "Winter"
+   ],
+   "holidays": [
+    "Game Day"
+   ],
+   "keywords": [
+    "chili",
+    "beef",
+    "texas",
+    "spicy"
+   ]
+  },
+  {
+   "page": "Cookbook:Cincinnati-Style Chili",
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [
+    "Fall",
+    "Winter"
+   ],
+   "holidays": [
+    "Game Day"
+   ],
+   "keywords": [
+    "chili",
+    "beef",
+    "cinnamon",
+    "ohio"
+   ]
+  },
+  {
+   "page": "Cookbook:Memphis-Style BBQ Ribs",
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [
+    "Summer"
+   ],
+   "holidays": [
+    "Fourth of July"
+   ],
+   "keywords": [
+    "ribs",
+    "pork",
+    "smoked",
+    "barbecue"
+   ]
+  },
+  {
+   "page": "Cookbook:Seafood Gumbo",
+   "mealTypes": [
+    "Entree",
+    "Soup & Salad"
+   ],
+   "seasons": [
+    "Fall",
+    "Winter"
+   ],
+   "holidays": [],
+   "keywords": [
+    "gumbo",
+    "shrimp",
+    "andouille",
+    "louisiana"
+   ]
+  },
+  {
+   "page": "Cookbook:New England Clam Chowder",
+   "mealTypes": [
+    "Soup & Salad"
+   ],
+   "seasons": [
+    "Fall",
+    "Winter"
+   ],
+   "holidays": [],
+   "keywords": [
+    "clams",
+    "chowder",
+    "soup",
+    "potato"
+   ]
+  },
+  {
+   "page": "Cookbook:Corn Chowder I",
+   "mealTypes": [
+    "Soup & Salad"
+   ],
+   "seasons": [
+    "Summer",
+    "Fall"
+   ],
+   "holidays": [],
+   "keywords": [
+    "corn",
+    "chowder",
+    "soup",
+    "potato"
+   ]
+  },
+  {
+   "page": "Cookbook:Cioppino (Italian Seafood Stew)",
+   "mealTypes": [
+    "Soup & Salad",
+    "Entree"
+   ],
+   "seasons": [],
+   "holidays": [
+    "Christmas"
+   ],
+   "keywords": [
+    "seafood",
+    "stew",
+    "san francisco",
+    "tomato"
+   ]
+  },
+  {
+   "page": "Cookbook:Waldorf Salad",
+   "mealTypes": [
+    "Soup & Salad"
+   ],
+   "seasons": [
+    "Fall"
+   ],
+   "holidays": [],
+   "keywords": [
+    "apple",
+    "walnut",
+    "salad",
+    "celery"
+   ]
+  },
+  {
+   "page": "Cookbook:Coleslaw I",
+   "mealTypes": [
+    "Side Dish",
+    "Soup & Salad"
+   ],
+   "seasons": [
+    "Summer"
+   ],
+   "holidays": [
+    "Fourth of July"
+   ],
+   "keywords": [
+    "cabbage",
+    "slaw",
+    "picnic"
+   ]
+  },
+  {
+   "page": "Cookbook:New England Potato Salad",
+   "mealTypes": [
+    "Side Dish",
+    "Soup & Salad"
+   ],
+   "seasons": [
+    "Summer"
+   ],
+   "holidays": [
+    "Fourth of July"
+   ],
+   "keywords": [
+    "potato",
+    "salad",
+    "picnic",
+    "eggs"
+   ]
+  },
+  {
+   "page": "Cookbook:Twice-Baked Potatoes I",
+   "mealTypes": [
+    "Side Dish"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "potato",
+    "cheddar",
+    "baked"
+   ]
+  },
+  {
+   "page": "Cookbook:Fried Green Tomatoes",
+   "mealTypes": [
+    "Side Dish",
+    "Appetizer"
+   ],
+   "seasons": [
+    "Summer"
+   ],
+   "holidays": [],
+   "keywords": [
+    "green tomatoes",
+    "cornmeal",
+    "fried",
+    "southern"
+   ]
+  },
+  {
+   "page": "Cookbook:Hush Puppies",
+   "mealTypes": [
+    "Side Dish",
+    "Appetizer"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "cornmeal",
+    "fried",
+    "southern"
+   ]
+  },
+  {
+   "page": "Cookbook:Cornbread I",
+   "mealTypes": [
+    "Bread"
+   ],
+   "seasons": [],
+   "holidays": [
+    "Thanksgiving"
+   ],
+   "keywords": [
+    "cornbread",
+    "cornmeal",
+    "quick bread"
+   ]
+  },
+  {
+   "page": "Cookbook:Pumpkin Bread I",
+   "mealTypes": [
+    "Bread"
+   ],
+   "seasons": [
+    "Fall"
+   ],
+   "holidays": [
+    "Thanksgiving",
+    "Halloween"
+   ],
+   "keywords": [
+    "pumpkin",
+    "quick bread",
+    "spiced"
+   ]
+  },
+  {
+   "page": "Cookbook:Classic American Apple Pie",
+   "mealTypes": [
+    "Dessert"
+   ],
+   "seasons": [
+    "Fall"
+   ],
+   "holidays": [
+    "Thanksgiving",
+    "Fourth of July"
+   ],
+   "keywords": [
+    "apple",
+    "pie",
+    "baking"
+   ]
+  },
+  {
+   "page": "Cookbook:Pecan Pie",
+   "mealTypes": [
+    "Dessert"
+   ],
+   "seasons": [
+    "Fall"
+   ],
+   "holidays": [
+    "Thanksgiving",
+    "Christmas"
+   ],
+   "keywords": [
+    "pecan",
+    "pie",
+    "southern"
+   ]
+  },
+  {
+   "page": "Cookbook:Key Lime Meringue Pie",
+   "mealTypes": [
+    "Dessert"
+   ],
+   "seasons": [
+    "Summer"
+   ],
+   "holidays": [],
+   "keywords": [
+    "key lime",
+    "pie",
+    "meringue",
+    "florida"
+   ]
+  },
+  {
+   "page": "Cookbook:New York Cheesecake",
+   "mealTypes": [
+    "Dessert"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "cheesecake",
+    "cream cheese",
+    "new york"
+   ]
+  },
+  {
+   "page": "Cookbook:Chocolate Chip Cookies II",
+   "mealTypes": [
+    "Dessert"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "cookies",
+    "chocolate chip",
+    "baking"
+   ]
+  },
+  {
+   "page": "Cookbook:Banana Pudding",
+   "mealTypes": [
+    "Dessert"
+   ],
+   "seasons": [
+    "Summer"
+   ],
+   "holidays": [],
+   "keywords": [
+    "banana",
+    "pudding",
+    "vanilla wafers",
+    "southern"
+   ]
+  },
+  {
+   "page": "Cookbook:Pumpkin Pie I",
+   "mealTypes": [
+    "Dessert"
+   ],
+   "seasons": [
+    "Fall"
+   ],
+   "holidays": [
+    "Thanksgiving",
+    "Halloween"
+   ],
+   "keywords": [
+    "pumpkin",
+    "pie",
+    "maple"
+   ]
+  },
+  {
+   "page": "Cookbook:S'mores",
+   "mealTypes": [
+    "Dessert"
+   ],
+   "seasons": [
+    "Summer"
+   ],
+   "holidays": [
+    "Fourth of July"
+   ],
+   "keywords": [
+    "marshmallow",
+    "chocolate",
+    "campfire"
+   ]
+  },
+  {
+   "page": "Cookbook:Lemonade",
+   "mealTypes": [
+    "Beverage"
+   ],
+   "seasons": [
+    "Summer"
+   ],
+   "holidays": [
+    "Fourth of July"
+   ],
+   "keywords": [
+    "lemon",
+    "drink",
+    "summer"
+   ]
+  },
+  {
+   "page": "Cookbook:Eggnog",
+   "mealTypes": [
+    "Beverage"
+   ],
+   "seasons": [
+    "Winter"
+   ],
+   "holidays": [
+    "Christmas",
+    "New Year's"
+   ],
+   "keywords": [
+    "eggnog",
+    "holiday",
+    "drink"
+   ]
+  }
+ ],
+ "original": [
+  {
+   "title": "Classic Glazed Meatloaf",
+   "description": "An old-fashioned American meatloaf made with beef, onion and milk-soaked breadcrumbs, baked under a sweet and tangy ketchup glaze.",
+   "servings": 6,
+   "prepMinutes": 20,
+   "cookMinutes": 60,
+   "ingredients": [
+    "# For the meatloaf",
+    "1 tbsp vegetable oil",
+    "1 medium onion, finely chopped",
+    "2 cloves garlic, minced",
+    "3/4 cup plain dry breadcrumbs",
+    "1/2 cup milk",
+    "2 large eggs",
+    "2 lb ground beef (80/20)",
+    "2 tbsp ketchup",
+    "1 tbsp Worcestershire sauce",
+    "1 tsp dried thyme",
+    "2 tbsp chopped fresh parsley",
+    "1 1/2 tsp salt",
+    "1/2 tsp black pepper",
+    "# For the glaze",
+    "1/2 cup ketchup",
+    "2 tbsp brown sugar",
+    "1 tbsp cider vinegar",
+    "1 tsp yellow mustard"
+   ],
+   "steps": [
+    "Preheat the oven to 350°F (175°C) and line a rimmed baking sheet with foil or parchment.",
+    "Heat the oil in a skillet over medium heat, add the onion and cook for about 5 minutes until soft, then add the garlic for 1 minute and let the mixture cool.",
+    "In a large bowl, stir together the breadcrumbs and milk and let them soak for 5 minutes.",
+    "Add the eggs, 2 tablespoons ketchup, Worcestershire sauce, thyme, parsley, salt and pepper to the soaked crumbs and whisk to combine.",
+    "Add the ground beef and the cooled onion mixture and mix gently with your hands just until evenly combined; do not overwork the meat.",
+    "Shape the mixture into a loaf about 9 x 5 inches on the prepared baking sheet.",
+    "Stir together the 1/2 cup ketchup, brown sugar, vinegar and mustard to make the glaze, and spread half of it over the loaf.",
+    "Bake for 45 minutes, then brush on the remaining glaze and bake 10 to 15 minutes more, until the center reaches 160°F (71°C).",
+    "Let the meatloaf rest for 10 minutes before slicing and serving with mashed potatoes and green beans."
+   ],
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [
+    "Fall",
+    "Winter"
+   ],
+   "holidays": [],
+   "keywords": [
+    "meatloaf",
+    "ground beef",
+    "comfort food"
+   ],
+   "photoQuery": "meatloaf"
+  }
+ ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Recipe Box",
+  "short_name": "Recipe Box",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#3B0F0C",
+  "theme_color": "#6E1A13",
+  "description": "A free offline cookbook: family recipes, friends' recipes and 590 recipes from around the world.",
+  "orientation": "any",
+  "prefer_related_applications": false,
+  "icons": [
+    {"src": "icons/Icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "icons/Icon-512.png", "sizes": "512x512", "type": "image/png"},
+    {"src": "icons/Icon-maskable-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable"},
+    {"src": "icons/Icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}

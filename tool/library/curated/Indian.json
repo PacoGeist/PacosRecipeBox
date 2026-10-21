@@ -1,0 +1,807 @@
+{
+ "cuisine": "Indian",
+ "selected": [
+  {
+   "page": "Cookbook:Chicken Tikka",
+   "mealTypes": [
+    "Appetizer",
+    "Entree"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "chicken",
+    "tandoori",
+    "yogurt",
+    "grilled"
+   ]
+  },
+  {
+   "page": "Cookbook:Chicken Tikka Masala",
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "chicken",
+    "curry",
+    "tomato",
+    "creamy"
+   ]
+  },
+  {
+   "page": "Cookbook:Indian Butter Chicken I",
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "chicken",
+    "butter chicken",
+    "curry",
+    "tandoori"
+   ]
+  },
+  {
+   "page": "Cookbook:Chicken Vindaloo",
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "chicken",
+    "spicy",
+    "goan",
+    "curry"
+   ]
+  },
+  {
+   "page": "Cookbook:Malvani Chicken Curry",
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "chicken",
+    "coconut",
+    "curry",
+    "spicy"
+   ]
+  },
+  {
+   "page": "Cookbook:Chicken Biryani",
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [],
+   "holidays": [
+    "Diwali"
+   ],
+   "keywords": [
+    "chicken",
+    "rice",
+    "biryani",
+    "saffron"
+   ]
+  },
+  {
+   "page": "Cookbook:Prawn Curry",
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "shrimp",
+    "prawn",
+    "curry",
+    "seafood"
+   ]
+  },
+  {
+   "page": "Cookbook:Matar Paneer",
+   "mealTypes": [
+    "Entree",
+    "Side Dish"
+   ],
+   "seasons": [],
+   "holidays": [
+    "Diwali"
+   ],
+   "keywords": [
+    "paneer",
+    "peas",
+    "vegetarian",
+    "curry"
+   ]
+  },
+  {
+   "page": "Cookbook:Paneer Butter Masala",
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [],
+   "holidays": [
+    "Diwali"
+   ],
+   "keywords": [
+    "paneer",
+    "vegetarian",
+    "curry",
+    "creamy"
+   ]
+  },
+  {
+   "page": "Cookbook:Cholley (Chickpea Curry)",
+   "mealTypes": [
+    "Entree",
+    "Side Dish"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "chickpea",
+    "chole",
+    "vegetarian",
+    "curry"
+   ]
+  },
+  {
+   "page": "Cookbook:Dal Makhani (Black Gram with Cream)",
+   "mealTypes": [
+    "Entree",
+    "Side Dish"
+   ],
+   "seasons": [],
+   "holidays": [
+    "Diwali"
+   ],
+   "keywords": [
+    "lentil",
+    "dal",
+    "creamy",
+    "vegetarian"
+   ]
+  },
+  {
+   "page": "Cookbook:Pigeon Pea and Fenugreek Curry (Methi Tadka Dal)",
+   "mealTypes": [
+    "Entree",
+    "Side Dish"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "dal",
+    "lentil",
+    "fenugreek",
+    "vegetarian"
+   ]
+  },
+  {
+   "page": "Cookbook:Rajma (Sindhi Kidney Bean Curry)",
+   "mealTypes": [
+    "Entree",
+    "Side Dish"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "kidney bean",
+    "rajma",
+    "vegetarian",
+    "curry"
+   ]
+  },
+  {
+   "page": "Cookbook:Sambar II (Kerala/Tamil style)",
+   "mealTypes": [
+    "Soup & Salad",
+    "Side Dish"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "lentil",
+    "tamarind",
+    "south indian",
+    "vegetable"
+   ]
+  },
+  {
+   "page": "Cookbook:Rasam (Tamarind and Tomato Soup)",
+   "mealTypes": [
+    "Soup & Salad"
+   ],
+   "seasons": [
+    "Winter"
+   ],
+   "holidays": [],
+   "keywords": [
+    "tamarind",
+    "tomato",
+    "soup",
+    "south indian"
+   ]
+  },
+  {
+   "page": "Cookbook:Yogurt Curry Soup (Kadhi)",
+   "mealTypes": [
+    "Entree",
+    "Soup & Salad"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "yogurt",
+    "chickpea flour",
+    "kadhi",
+    "vegetarian"
+   ]
+  },
+  {
+   "page": "Cookbook:Keralan Vegetable Stew",
+   "mealTypes": [
+    "Entree",
+    "Soup & Salad"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "coconut",
+    "vegetable",
+    "stew",
+    "kerala"
+   ]
+  },
+  {
+   "page": "Cookbook:Potato and Cauliflower Curry (Aloo Gobi)",
+   "mealTypes": [
+    "Side Dish",
+    "Entree"
+   ],
+   "seasons": [
+    "Fall",
+    "Winter"
+   ],
+   "holidays": [],
+   "keywords": [
+    "potato",
+    "cauliflower",
+    "vegetarian",
+    "aloo gobi"
+   ]
+  },
+  {
+   "page": "Cookbook:Potato Curry (Aloo Masala)",
+   "mealTypes": [
+    "Side Dish"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "potato",
+    "aloo",
+    "vegetarian",
+    "curry"
+   ]
+  },
+  {
+   "page": "Cookbook:Baingan Bartha (South Indian Eggplant with Coconut and Chili) I",
+   "mealTypes": [
+    "Side Dish"
+   ],
+   "seasons": [
+    "Summer"
+   ],
+   "holidays": [],
+   "keywords": [
+    "eggplant",
+    "coconut",
+    "vegetarian"
+   ]
+  },
+  {
+   "page": "Cookbook:Kashmiri Pulao",
+   "mealTypes": [
+    "Side Dish"
+   ],
+   "seasons": [],
+   "holidays": [
+    "Diwali"
+   ],
+   "keywords": [
+    "rice",
+    "pulao",
+    "saffron",
+    "dried fruit"
+   ]
+  },
+  {
+   "page": "Cookbook:Khara Pongal (Rice and Mung Bean Porridge)",
+   "mealTypes": [
+    "Breakfast",
+    "Side Dish"
+   ],
+   "seasons": [
+    "Winter"
+   ],
+   "holidays": [],
+   "keywords": [
+    "rice",
+    "mung bean",
+    "porridge",
+    "south indian"
+   ]
+  },
+  {
+   "page": "Cookbook:Pohe (Spiced Flattened Rice)",
+   "mealTypes": [
+    "Breakfast"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "poha",
+    "flattened rice",
+    "vegetarian"
+   ]
+  },
+  {
+   "page": "Cookbook:Upma (Indian Semolina Porridge)",
+   "mealTypes": [
+    "Breakfast"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "semolina",
+    "upma",
+    "vegetarian"
+   ]
+  },
+  {
+   "page": "Cookbook:Naan",
+   "mealTypes": [
+    "Bread"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "naan",
+    "flatbread",
+    "yogurt"
+   ]
+  },
+  {
+   "page": "Cookbook:Chapati",
+   "mealTypes": [
+    "Bread"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "roti",
+    "chapati",
+    "flatbread",
+    "whole wheat"
+   ]
+  },
+  {
+   "page": "Cookbook:Puri (Indian Fried Flatbread)",
+   "mealTypes": [
+    "Bread"
+   ],
+   "seasons": [],
+   "holidays": [
+    "Diwali"
+   ],
+   "keywords": [
+    "puri",
+    "fried bread",
+    "flatbread"
+   ]
+  },
+  {
+   "page": "Cookbook:Fried Wheat Bread Balls (Bhatoora)",
+   "mealTypes": [
+    "Bread"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "bhatura",
+    "fried bread",
+    "yogurt"
+   ]
+  },
+  {
+   "page": "Cookbook:Masala Dosa",
+   "mealTypes": [
+    "Breakfast",
+    "Bread"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "dosa",
+    "potato",
+    "south indian",
+    "crepe"
+   ]
+  },
+  {
+   "page": "Cookbook:Idli (Steamed Rice and Black Gram Bread)",
+   "mealTypes": [
+    "Breakfast",
+    "Bread"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "idli",
+    "steamed",
+    "rice",
+    "south indian"
+   ]
+  },
+  {
+   "page": "Cookbook:Appam (Fermented Rice Pancake)",
+   "mealTypes": [
+    "Breakfast",
+    "Bread"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "appam",
+    "rice",
+    "coconut",
+    "kerala"
+   ]
+  },
+  {
+   "page": "Cookbook:Samosa",
+   "mealTypes": [
+    "Appetizer"
+   ],
+   "seasons": [],
+   "holidays": [
+    "Diwali"
+   ],
+   "keywords": [
+    "samosa",
+    "potato",
+    "peas",
+    "fried"
+   ]
+  },
+  {
+   "page": "Cookbook:Deep Fried Chickpea Dough Curry Snacks (Pakoda)",
+   "mealTypes": [
+    "Appetizer"
+   ],
+   "seasons": [
+    "Fall"
+   ],
+   "holidays": [
+    "Diwali"
+   ],
+   "keywords": [
+    "pakora",
+    "chickpea flour",
+    "fried",
+    "snack"
+   ]
+  },
+  {
+   "page": "Cookbook:Medu Vada (South Indian Savory Lentil Donut)",
+   "mealTypes": [
+    "Appetizer",
+    "Breakfast"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "vada",
+    "lentil",
+    "fried",
+    "south indian"
+   ]
+  },
+  {
+   "page": "Cookbook:Dhokla (Steamed Black Gram Bread)",
+   "mealTypes": [
+    "Appetizer",
+    "Bread"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "dhokla",
+    "steamed",
+    "gujarati",
+    "snack"
+   ]
+  },
+  {
+   "page": "Cookbook:Bhel Puri (Indian Puffed Rice and Vegetable Snack)",
+   "mealTypes": [
+    "Appetizer"
+   ],
+   "seasons": [
+    "Summer"
+   ],
+   "holidays": [],
+   "keywords": [
+    "chaat",
+    "puffed rice",
+    "street food",
+    "snack"
+   ]
+  },
+  {
+   "page": "Cookbook:Gulab Jamun (Fried Milk Balls in Syrup)",
+   "mealTypes": [
+    "Dessert"
+   ],
+   "seasons": [],
+   "holidays": [
+    "Diwali"
+   ],
+   "keywords": [
+    "gulab jamun",
+    "syrup",
+    "milk",
+    "sweet"
+   ]
+  },
+  {
+   "page": "Cookbook:Jalebi (Fritters in Syrup)",
+   "mealTypes": [
+    "Dessert"
+   ],
+   "seasons": [],
+   "holidays": [
+    "Diwali"
+   ],
+   "keywords": [
+    "jalebi",
+    "syrup",
+    "fried",
+    "sweet"
+   ]
+  },
+  {
+   "page": "Cookbook:Gajjar Halwa (Carrot Pudding)",
+   "mealTypes": [
+    "Dessert"
+   ],
+   "seasons": [
+    "Winter"
+   ],
+   "holidays": [
+    "Diwali"
+   ],
+   "keywords": [
+    "carrot",
+    "halwa",
+    "pudding",
+    "cardamom"
+   ]
+  },
+  {
+   "page": "Cookbook:Kheer (Rice Pudding)",
+   "mealTypes": [
+    "Dessert"
+   ],
+   "seasons": [],
+   "holidays": [
+    "Diwali"
+   ],
+   "keywords": [
+    "rice pudding",
+    "kheer",
+    "cardamom",
+    "milk"
+   ]
+  },
+  {
+   "page": "Cookbook:Kulfi (South Asian Frozen Custard)",
+   "mealTypes": [
+    "Dessert"
+   ],
+   "seasons": [
+    "Summer"
+   ],
+   "holidays": [],
+   "keywords": [
+    "kulfi",
+    "ice cream",
+    "pistachio",
+    "frozen"
+   ]
+  },
+  {
+   "page": "Cookbook:Masala Chai I",
+   "mealTypes": [
+    "Beverage"
+   ],
+   "seasons": [
+    "Fall",
+    "Winter"
+   ],
+   "holidays": [],
+   "keywords": [
+    "chai",
+    "tea",
+    "spiced"
+   ]
+  },
+  {
+   "page": "Cookbook:Sweet Mango Lassi",
+   "mealTypes": [
+    "Beverage"
+   ],
+   "seasons": [
+    "Summer"
+   ],
+   "holidays": [],
+   "keywords": [
+    "lassi",
+    "mango",
+    "yogurt"
+   ]
+  },
+  {
+   "page": "Cookbook:Mild Salty Lassi",
+   "mealTypes": [
+    "Beverage"
+   ],
+   "seasons": [
+    "Summer"
+   ],
+   "holidays": [],
+   "keywords": [
+    "lassi",
+    "yogurt",
+    "cumin",
+    "salty"
+   ]
+  },
+  {
+   "page": "Cookbook:Madras Filter Coffee",
+   "mealTypes": [
+    "Beverage"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "coffee",
+    "south indian",
+    "milk"
+   ]
+  },
+  {
+   "page": "Cookbook:Green Mango and Cumin Drink (Aam Panna)",
+   "mealTypes": [
+    "Beverage"
+   ],
+   "seasons": [
+    "Summer"
+   ],
+   "holidays": [],
+   "keywords": [
+    "mango",
+    "cumin",
+    "cooler"
+   ]
+  },
+  {
+   "page": "Cookbook:Raita",
+   "mealTypes": [
+    "Side Dish"
+   ],
+   "seasons": [
+    "Summer"
+   ],
+   "holidays": [],
+   "keywords": [
+    "yogurt",
+    "cucumber",
+    "raita"
+   ]
+  },
+  {
+   "page": "Cookbook:Mango Chutney (Chunky)",
+   "mealTypes": [
+    "Side Dish"
+   ],
+   "seasons": [
+    "Summer"
+   ],
+   "holidays": [],
+   "keywords": [
+    "mango",
+    "chutney",
+    "condiment"
+   ]
+  },
+  {
+   "page": "Cookbook:Coconut Chutney (South Indian)",
+   "mealTypes": [
+    "Side Dish"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "coconut",
+    "chutney",
+    "condiment",
+    "south indian"
+   ]
+  }
+ ],
+ "original": [
+  {
+   "title": "Aloo Paratha (Potato-Stuffed Flatbread)",
+   "description": "Whole wheat flatbreads stuffed with a spiced potato filling and griddle-cooked with ghee until golden and flaky, a classic Punjabi breakfast served with yogurt and pickle.",
+   "servings": 6,
+   "prepMinutes": 40,
+   "cookMinutes": 30,
+   "ingredients": [
+    "# For the dough",
+    "2 1/2 cups whole wheat flour (atta), plus more for dusting",
+    "1 tsp salt",
+    "1 tbsp vegetable oil",
+    "1 cup warm water, or as needed",
+    "# For the filling",
+    "1 1/2 lb russet potatoes (about 3 medium)",
+    "1 small onion, finely chopped",
+    "2 green chiles, finely chopped",
+    "1 tbsp grated fresh ginger",
+    "3 tbsp chopped fresh cilantro",
+    "1 tsp ground cumin",
+    "1 tsp garam masala",
+    "1 tsp amchur (dry mango powder) or 1 tbsp lemon juice",
+    "1/2 tsp red chile powder",
+    "1 tsp salt",
+    "# For cooking",
+    "4 tbsp ghee or vegetable oil"
+   ],
+   "steps": [
+    "Mix the flour and salt in a large bowl, add the oil, and gradually stir in the warm water until a soft dough forms.",
+    "Knead the dough for 5 to 7 minutes until smooth and pliable, then cover it and let it rest for 30 minutes.",
+    "Meanwhile, boil the potatoes in salted water for 20 to 25 minutes until completely tender, then drain, peel, and let them cool.",
+    "Mash the potatoes until smooth with no lumps, then mix in the onion, chiles, ginger, cilantro, cumin, garam masala, amchur, chile powder, and salt.",
+    "Divide the dough into 6 equal balls and the filling into 6 equal portions.",
+    "Roll a dough ball into a 4-inch (10 cm) circle, place a portion of filling in the center, and gather the edges up over the filling, pinching to seal.",
+    "Flatten the stuffed ball gently, dust with flour, and carefully roll it into a 7-inch (18 cm) round, pressing lightly so the filling does not break through.",
+    "Heat a cast-iron skillet or tawa over medium-high heat and place a paratha on the dry pan; cook for about 1 minute until small bubbles appear, then flip.",
+    "Brush the top with ghee, flip again, and brush the second side; press with a spatula and cook until both sides are golden brown with crisp spots, 2 to 3 minutes total.",
+    "Repeat with the remaining parathas, keeping the cooked ones warm wrapped in a clean towel.",
+    "Serve hot with a pat of butter, plain yogurt, and Indian pickle."
+   ],
+   "mealTypes": [
+    "Bread",
+    "Breakfast"
+   ],
+   "seasons": [
+    "Winter"
+   ],
+   "holidays": [],
+   "keywords": [
+    "paratha",
+    "potato",
+    "flatbread",
+    "stuffed",
+    "vegetarian"
+   ],
+   "photoQuery": "Aloo paratha"
+  }
+ ]
+}
