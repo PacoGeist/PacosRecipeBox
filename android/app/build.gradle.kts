@@ -55,6 +55,10 @@ android {
 
     buildTypes {
         release {
+            // Code shrinking (R8) breaks plugins that call Android code through JNI
+            // (shared_preferences, path_provider): the app froze on the Android splash screen.
+            isMinifyEnabled = false
+            isShrinkResources = false
             val hasKey = signingValue("storeFile", "ANDROID_KEYSTORE_PATH") != null
             signingConfig = if (hasKey) signingConfigs.getByName("release") else signingConfigs.getByName("debug")
         }

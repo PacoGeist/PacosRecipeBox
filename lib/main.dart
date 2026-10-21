@@ -1,3 +1,5 @@
+import 'dart:async';
+
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
@@ -5,26 +7,37 @@ import 'screens/home_screen.dart';
 import 'screens/splash_screen.dart';
 import 'services/recipe_store.dart';
 import 'services/settings.dart';
+import 'services/startup_log.dart';
 import 'theme/app_theme.dart';
 
 const appTitle = 'Recipe Box';
 
-Future<void> main() async {
-  WidgetsFlutterBinding.ensureInitialized();
-  final settings = AppSettings();
-  await settings.load();
-  final store = RecipeStore();
-  runApp(
-    MultiProvider(
-      providers: [
-        ChangeNotifierProvider.value(value: settings),
-        ChangeNotifierProvider.value(value: store),
-      ],
-      child: const RecipeApp(),
-    ),
-  );
-  // Load the database while the cover is showing.
-  store.init();
+void main() {
+  runZonedGuarded(() async {
+    WidgetsFlutterBinding.ensureInitialized();
+    FlutterError.onError = (d) {
+      FlutterError.presentError(d);
+      StartupLog.add('ui', d.exception, d.stack);
+    };
+    // Show the cookbook cover right away; load settings and recipes behind it.
+    final settings = AppSettings();
+    final store = RecipeStore();
+    runApp(
+      MultiProvider(
+        providers: [
+          ChangeNotifierProvider.value(value: settings),
+          ChangeNotifierProvider.value(value: store),
+        ],
+        child: const RecipeApp(),
+      ),
+    );
+    try {
+      await settings.load().timeout(const Duration(seconds: 8));
+    } catch (e, s) {
+      StartupLog.add('settings', e, s);
+    }
+    await store.init();
+  }, (e, s) => StartupLog.add('app', e, s));
 }
 
 class RecipeApp extends StatelessWidget {

@@ -1,10 +1,12 @@
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
 import 'package:provider/provider.dart';
 
 import '../main.dart';
 import '../models/taxonomy.dart';
 import '../services/recipe_store.dart';
 import '../services/share_service.dart';
+import '../services/startup_log.dart';
 import '../theme/app_theme.dart';
 import '../widgets/decor.dart';
 import 'category_screens.dart';
@@ -104,6 +106,32 @@ class HomeScreen extends StatelessWidget {
             ? const Center(child: CircularProgressIndicator())
             : CustomScrollView(
                 slivers: [
+                  SliverToBoxAdapter(
+                    child: ValueListenableBuilder<int>(
+                      valueListenable: StartupLog.changes,
+                      builder: (context, _, _) => StartupLog.serious.isEmpty
+                          ? const SizedBox.shrink()
+                          : Card(
+                              margin: const EdgeInsets.fromLTRB(16, 8, 16, 0),
+                              color: Theme.of(context).colorScheme.errorContainer,
+                              child: Padding(
+                                padding: const EdgeInsets.all(12),
+                                child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
+                                  const Text('Recipe Box ran into a problem while starting.',
+                                      style: TextStyle(fontWeight: FontWeight.w800)),
+                                  const SizedBox(height: 4),
+                                  Text(StartupLog.serious.first.split('\n').first, maxLines: 3),
+                                  TextButton.icon(
+                                    onPressed: () => Clipboard.setData(
+                                        ClipboardData(text: StartupLog.entries.join('\n\n'))),
+                                    icon: const Icon(Icons.copy),
+                                    label: const Text('Copy details'),
+                                  ),
+                                ]),
+                              ),
+                            ),
+                    ),
+                  ),
                   SliverPadding(
                     padding: const EdgeInsets.fromLTRB(20, 8, 20, 0),
                     sliver: SliverToBoxAdapter(

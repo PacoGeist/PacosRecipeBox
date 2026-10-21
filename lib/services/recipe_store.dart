@@ -6,6 +6,7 @@ import 'package:flutter/services.dart' show rootBundle;
 import '../models/recipe.dart';
 import 'db.dart';
 import 'photo_service.dart';
+import 'startup_log.dart';
 
 enum SearchField { everything, name, ingredient, author, keyword }
 
@@ -91,11 +92,23 @@ class RecipeStore extends ChangeNotifier {
   }
 
   Future<void> init() async {
-    await PhotoService.init();
-    for (final r in await _db.loadAll()) {
-      _recipes[r.id] = r;
+    try {
+      await PhotoService.init();
+    } catch (e, s) {
+      StartupLog.add('photos', e, s);
     }
-    await _seedLibrary();
+    try {
+      for (final r in await _db.loadAll()) {
+        _recipes[r.id] = r;
+      }
+    } catch (e, s) {
+      StartupLog.add('database', e, s);
+    }
+    try {
+      await _seedLibrary();
+    } catch (e, s) {
+      StartupLog.add('library', e, s);
+    }
     loaded = true;
     notifyListeners();
   }

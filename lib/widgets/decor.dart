@@ -35,7 +35,9 @@ class IngredientCorners extends StatelessWidget {
               child: Opacity(
                 opacity: opacity,
                 child: Image.asset('assets/decor/${names[i]}.png',
-                    width: size * (i == 0 ? 1.0 : 0.72), height: size * (i == 0 ? 1.0 : 0.72)),
+                    width: size * (i == 0 ? 1.0 : 0.72),
+                    height: size * (i == 0 ? 1.0 : 0.72),
+                    errorBuilder: (_, _, _) => const SizedBox.shrink()),
               ),
             ),
           ),

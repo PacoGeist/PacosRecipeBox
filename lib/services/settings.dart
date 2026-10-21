@@ -11,7 +11,8 @@ class AppSettings extends ChangeNotifier {
     'Caveat': 'Caveat (handwritten)',
   };
 
-  late SharedPreferences _p;
+  SharedPreferences? _prefs;
+  SharedPreferences get _p => _prefs!;
 
   ThemeMode themeMode = ThemeMode.system;
   double recipeFontScale = 1.0; // applies to recipe text (ingredients, steps)
@@ -27,7 +28,7 @@ class AppSettings extends ChangeNotifier {
   bool keepScreenOn = false;
 
   Future<void> load() async {
-    _p = await SharedPreferences.getInstance();
+    _prefs = await SharedPreferences.getInstance();
     themeMode = ThemeMode.values[_p.getInt('themeMode') ?? 0];
     recipeFontScale = _p.getDouble('recipeFontScale') ?? 1.0;
     appFontScale = _p.getDouble('appFontScale') ?? 1.0;
@@ -40,6 +41,7 @@ class AppSettings extends ChangeNotifier {
     accentColor = _color('accent');
     showSplash = _p.getBool('showSplash') ?? true;
     webImportProxy = _p.getString('webImportProxy') ?? '';
+    notifyListeners();
   }
 
   Color? _color(String k) {
@@ -49,45 +51,45 @@ class AppSettings extends ChangeNotifier {
 
   Future<void> _setColor(String k, Color? c) async {
     if (c == null) {
-      await _p.remove('color_$k');
+      await _prefs?.remove('color_$k');
     } else {
-      await _p.setInt('color_$k', c.toARGB32());
+      await _prefs?.setInt('color_$k', c.toARGB32());
     }
   }
 
   Future<void> setThemeMode(ThemeMode m) async {
     themeMode = m;
-    await _p.setInt('themeMode', m.index);
+    await _prefs?.setInt('themeMode', m.index);
     notifyListeners();
   }
 
   Future<void> setRecipeFontScale(double v) async {
     recipeFontScale = v;
-    await _p.setDouble('recipeFontScale', v);
+    await _prefs?.setDouble('recipeFontScale', v);
     notifyListeners();
   }
 
   Future<void> setAppFontScale(double v) async {
     appFontScale = v;
-    await _p.setDouble('appFontScale', v);
+    await _prefs?.setDouble('appFontScale', v);
     notifyListeners();
   }
 
   Future<void> setFontFamily(String f) async {
     fontFamily = f;
-    await _p.setString('fontFamily', f);
+    await _prefs?.setString('fontFamily', f);
     notifyListeners();
   }
 
   Future<void> setShowSplash(bool v) async {
     showSplash = v;
-    await _p.setBool('showSplash', v);
+    await _prefs?.setBool('showSplash', v);
     notifyListeners();
   }
 
   Future<void> setWebImportProxy(String v) async {
     webImportProxy = v.trim();
-    await _p.setString('webImportProxy', webImportProxy);
+    await _prefs?.setString('webImportProxy', webImportProxy);
     notifyListeners();
   }
 
