@@ -4,12 +4,15 @@ import 'package:provider/provider.dart';
 
 import '../main.dart';
 import '../models/taxonomy.dart';
+import '../services/planner_store.dart';
 import '../services/recipe_store.dart';
 import '../services/share_service.dart';
 import '../services/startup_log.dart';
 import '../theme/app_theme.dart';
 import '../widgets/decor.dart';
 import 'category_screens.dart';
+import 'grocery_screens.dart';
+import 'menu_screens.dart';
 import 'recipe_edit_screen.dart';
 import 'recipe_list_screen.dart';
 import 'search_screen.dart';
@@ -62,6 +65,7 @@ class HomeScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final store = context.watch<RecipeStore>();
+    final planner = context.watch<PlannerStore>();
     final t = Theme.of(context);
     final p = context.palette;
 
@@ -159,6 +163,56 @@ class HomeScreen extends StatelessWidget {
                           ),
                         ),
                       ),
+                    ),
+                  ),
+                  _section(context, 'Plan & Shop'),
+                  SliverPadding(
+                    padding: const EdgeInsets.symmetric(horizontal: 20),
+                    sliver: SliverGrid(
+                      gridDelegate: grid,
+                      delegate: SliverChildListDelegate([
+                        CategoryTile(
+                          label: 'Menu Planner',
+                          emoji: '🗓️',
+                          icon: Icons.restaurant_menu,
+                          color: const Color(0xFF3949AB),
+                          subtitle: () {
+                            final n = planner.peek(today())?.menu.length ?? 0;
+                            return n == 0 ? 'Plan a day' : 'Today: $n ${n == 1 ? 'dish' : 'dishes'}';
+                          }(),
+                          onTap: () => Navigator.push(
+                              context, MaterialPageRoute(builder: (_) => const MenuPlannerScreen())),
+                        ),
+                        CategoryTile(
+                          label: 'Grocery List',
+                          emoji: '🛒',
+                          icon: Icons.shopping_cart,
+                          color: const Color(0xFF2E7D32),
+                          subtitle: planner.latestList == null
+                              ? 'Start a list'
+                              : '${planner.latestList!.remaining} left to buy',
+                          onTap: () => Navigator.push(
+                              context, MaterialPageRoute(builder: (_) => const GroceryListScreen())),
+                        ),
+                        CategoryTile(
+                          label: 'Menu History',
+                          emoji: '📅',
+                          icon: Icons.history,
+                          color: const Color(0xFF6A1B9A),
+                          subtitle: 'Calendar of meals',
+                          onTap: () => Navigator.push(
+                              context, MaterialPageRoute(builder: (_) => const MenuHistoryScreen())),
+                        ),
+                        CategoryTile(
+                          label: 'All My Lists',
+                          emoji: '📝',
+                          icon: Icons.list_alt,
+                          color: const Color(0xFF00838F),
+                          subtitle: '${planner.lists.length} grocery ${planner.lists.length == 1 ? 'list' : 'lists'}',
+                          onTap: () => Navigator.push(
+                              context, MaterialPageRoute(builder: (_) => const GroceryListsScreen())),
+                        ),
+                      ]),
                     ),
                   ),
                   _section(context, 'My Recipe Box'),

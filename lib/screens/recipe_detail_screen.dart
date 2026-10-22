@@ -4,11 +4,13 @@ import 'package:url_launcher/url_launcher.dart';
 
 import '../models/recipe.dart';
 import '../models/taxonomy.dart';
+import '../services/planner_store.dart';
 import '../services/recipe_store.dart';
 import '../services/scaler.dart';
 import '../services/settings.dart';
 import '../services/share_service.dart';
 import '../theme/app_theme.dart';
+import '../widgets/planner_actions.dart';
 import '../widgets/recipe_image.dart';
 import 'recipe_edit_screen.dart';
 import 'recipe_list_screen.dart';
@@ -56,6 +58,12 @@ class _RecipeDetailScreenState extends State<RecipeDetailScreen> {
                 icon: Icon(r.favorite ? Icons.favorite : Icons.favorite_border,
                     color: r.favorite ? Colors.pinkAccent : Colors.white),
                 onPressed: () => store.toggleFavorite(r),
+              ),
+              IconButton(
+                tooltip: 'Edit recipe',
+                icon: const Icon(Icons.edit),
+                onPressed: () =>
+                    Navigator.push(context, MaterialPageRoute(builder: (_) => RecipeEditScreen(recipe: r))),
               ),
               IconButton(
                 tooltip: 'Share',
@@ -165,6 +173,8 @@ class _RecipeDetailScreenState extends State<RecipeDetailScreen> {
                       const SizedBox(height: 14),
                       Text(r.description, style: bodyStyle.copyWith(fontStyle: FontStyle.italic)),
                     ],
+                    const SizedBox(height: 14),
+                    _planBar(context, r),
                     const SizedBox(height: 18),
                     _multiplierBar(context, r, settings),
                     const SizedBox(height: 10),
@@ -186,6 +196,8 @@ class _RecipeDetailScreenState extends State<RecipeDetailScreen> {
                           title: 'Notes', icon: Icons.sticky_note_2, child: Text(r.notes, style: bodyStyle)),
                     ],
                     const SizedBox(height: 16),
+                    _myNotes(context, r, bodyStyle),
+                    const SizedBox(height: 16),
                     _tags(context, r),
                     const SizedBox(height: 16),
                     _credits(context, r, p),
@@ -196,6 +208,100 @@ class _RecipeDetailScreenState extends State<RecipeDetailScreen> {
           ),
         ],
       ),
+    );
+  }
+
+  /// Add to menu · Grocery list · I made this — plus when it was last made.
+  Widget _planBar(BuildContext context, Recipe r) {
+    final planner = context.watch<PlannerStore>();
+    final made = planner.madeDates(r.id);
+    final planned = planner.plannedDates(r.id);
+    final t = Theme.of(context);
+    ButtonStyle style(Color c) => FilledButton.styleFrom(
+          backgroundColor: c.withValues(alpha: 0.14),
+          foregroundColor: c,
+          padding: const EdgeInsets.symmetric(horizontal: 6, vertical: 10),
+          shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(16)),
+        );
+    Widget btn(Color c, IconData icon, String label, VoidCallback onTap) => Expanded(
+          child: FilledButton(
+            style: style(c),
+            onPressed: onTap,
+            child: Column(mainAxisSize: MainAxisSize.min, children: [
+              Icon(icon, size: 24),
+              const SizedBox(height: 4),
+              Text(label, textAlign: TextAlign.center, maxLines: 1, overflow: TextOverflow.ellipsis,
+                  style: const TextStyle(fontWeight: FontWeight.w800)),
+            ]),
+          ),
+        );
+    return Column(crossAxisAlignment: CrossAxisAlignment.stretch, children: [
+      Row(children: [
+        btn(const Color(0xFF3949AB), Icons.event_note, 'Add to menu', () => addToMenuFlow(context, r)),
+        const SizedBox(width: 8),
+        btn(AppTheme.basil, Icons.shopping_cart, 'Grocery list', () => addToGroceryFlow(context, [r], factor: factor)),
+        const SizedBox(width: 8),
+        btn(AppTheme.tomato, Icons.check_circle_outline, 'I made this', () => madeItFlow(context, r)),
+      ]),
+      if (made.isNotEmpty || planned.isNotEmpty)
+        Padding(
+          padding: const EdgeInsets.only(top: 8),
+          child: Wrap(spacing: 12, runSpacing: 4, children: [
+            if (made.isNotEmpty)
+              Text(
+                '✅ Made ${made.length == 1 ? 'once' : '${made.length} times'} · last ${fmtRelative(made.first).toLowerCase() == 'today' ? 'today' : fmtShort(made.first)}',
+                style: t.textTheme.bodySmall?.copyWith(fontWeight: FontWeight.w700),
+              ),
+            if (planned.isNotEmpty)
+              Text('📅 On the menu ${fmtRelative(planned.first)}',
+                  style: t.textTheme.bodySmall?.copyWith(fontWeight: FontWeight.w700)),
+          ]),
+        ),
+    ]);
+  }
+
+  /// The user's own notes for this recipe.
+  Widget _myNotes(BuildContext context, Recipe r, TextStyle style) {
+    Future<void> edit() async {
+      final c = TextEditingController(text: r.myNotes);
+      final store = context.read<RecipeStore>();
+      final saved = await showDialog<String>(
+        context: context,
+        builder: (d) => AlertDialog(
+          title: const Text('My notes'),
+          content: SizedBox(
+            width: 500,
+            child: TextField(
+              controller: c,
+              autofocus: true,
+              maxLines: 8,
+              minLines: 4,
+              textCapitalization: TextCapitalization.sentences,
+              decoration: const InputDecoration(hintText: 'e.g. Used half the sugar — perfect. Doubled it for the potluck.'),
+            ),
+          ),
+          actions: [
+            TextButton(onPressed: () => Navigator.pop(d), child: const Text('Cancel')),
+            FilledButton(onPressed: () => Navigator.pop(d, c.text), child: const Text('Save')),
+          ],
+        ),
+      );
+      if (saved != null) await store.setMyNotes(r, saved);
+    }
+
+    if (r.myNotes.isEmpty) {
+      return OutlinedButton.icon(
+        onPressed: edit,
+        icon: const Icon(Icons.edit_note),
+        label: const Padding(padding: EdgeInsets.all(10), child: Text('Add my notes')),
+      );
+    }
+    return _panel(
+      context,
+      title: 'My notes',
+      icon: Icons.edit_note,
+      trailing: IconButton(tooltip: 'Edit my notes', icon: const Icon(Icons.edit), onPressed: edit),
+      child: Text(r.myNotes, style: style),
     );
   }
 

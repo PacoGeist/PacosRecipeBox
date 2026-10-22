@@ -132,7 +132,10 @@ class RecipeStore extends ChangeNotifier {
       if (deleted.contains(r.id)) continue;
       final existing = _recipes[r.id];
       if (existing != null && !existing.builtIn) continue; // user edited it
-      if (existing != null) r.favorite = existing.favorite;
+      if (existing != null) {
+        r.favorite = existing.favorite;
+        r.myNotes = existing.myNotes;
+      }
       _recipes[r.id] = r;
       toWrite.add(r);
     }
@@ -157,6 +160,14 @@ class RecipeStore extends ChangeNotifier {
       _recipes[r.id] = r;
     }
     await _db.upsertMany(list);
+    notifyListeners();
+  }
+
+  /// Saves the user's personal notes without turning a library recipe into a copy.
+  Future<void> setMyNotes(Recipe r, String notes) async {
+    r.myNotes = notes.trim();
+    r.invalidateSearch();
+    await _db.upsert(r);
     notifyListeners();
   }
 

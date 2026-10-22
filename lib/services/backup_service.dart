@@ -6,6 +6,7 @@ import 'package:provider/provider.dart';
 import 'package:share_plus/share_plus.dart';
 
 import '../main.dart';
+import 'planner_store.dart';
 import 'recipe_store.dart';
 import 'share_service.dart';
 
@@ -17,18 +18,27 @@ class BackupService {
     return '${n.year}-${two(n.month)}-${two(n.day)}';
   }
 
-  static Future<Uint8List> _build(RecipeStore store) async {
+  static Future<Uint8List> _build(RecipeStore store, PlannerStore planner) async {
     final mine = store.all.where((r) => !r.builtIn).toList();
     final favs = store.all.where((r) => r.builtIn && r.favorite).map((r) => r.id).toList();
-    return ShareService.packRecipes(mine, extra: {'backup': true, 'favoriteLibraryIds': favs});
+    final notes = {
+      for (final r in store.all.where((r) => r.builtIn && r.myNotes.isNotEmpty)) r.id: r.myNotes,
+    };
+    return ShareService.packRecipes(mine, extra: {
+      'backup': true,
+      'favoriteLibraryIds': favs,
+      'libraryNotes': notes,
+      'planner': planner.toJson(),
+    });
   }
 
   /// Saves a backup file wherever the user chooses (Downloads, Google Drive, …).
   static Future<void> saveBackup(BuildContext context) async {
     final store = context.read<RecipeStore>();
+    final planner = context.read<PlannerStore>();
     final messenger = ScaffoldMessenger.of(context);
     try {
-      final bytes = await _build(store);
+      final bytes = await _build(store, planner);
       final uri = await FilePicker.saveFile(
         fileName: 'RecipeBox_backup_${_stamp()}.zip',
         bytes: bytes,
@@ -44,7 +54,8 @@ class BackupService {
   /// Sends the backup through the share sheet (email it to yourself, Drive, etc.).
   static Future<void> shareBackup(BuildContext context) async {
     final store = context.read<RecipeStore>();
-    final bytes = await _build(store);
+    final planner = context.read<PlannerStore>();
+    final bytes = await _build(store, planner);
     final name = 'RecipeBox_backup_${_stamp()}.zip';
     await SharePlus.instance.share(ShareParams(
       files: [XFile.fromData(bytes, name: name, mimeType: 'application/zip')],
@@ -55,6 +66,7 @@ class BackupService {
 
   static Future<void> restore(BuildContext context) async {
     final store = context.read<RecipeStore>();
+    final planner = context.read<PlannerStore>();
     final messenger = ScaffoldMessenger.of(context);
     try {
       final files = await FilePicker.pickFiles(type: FileType.any);
@@ -66,6 +78,14 @@ class BackupService {
       for (final id in favs) {
         final r = store.byId(id);
         if (r != null && !r.favorite) await store.toggleFavorite(r);
+      }
+      final notes = Map<String, dynamic>.from(manifest['libraryNotes'] ?? {});
+      for (final e in notes.entries) {
+        final r = store.byId(e.key);
+        if (r != null && r.myNotes.isEmpty) await store.setMyNotes(r, e.value.toString());
+      }
+      if (manifest['planner'] is Map) {
+        await planner.mergeFrom(Map<String, dynamic>.from(manifest['planner']));
       }
       messenger.showSnackBar(SnackBar(content: Text('Restored ${recipes.length} recipes.')));
     } catch (e) {

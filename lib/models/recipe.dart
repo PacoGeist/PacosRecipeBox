@@ -37,6 +37,7 @@ class Recipe {
   List<String> holidays;
   List<String> keywords;
   String notes;
+  String myNotes; // the user's own notes, kept even when the built-in library updates
   bool favorite;
   bool builtIn;
   int createdAt;
@@ -65,6 +66,7 @@ class Recipe {
     List<String>? holidays,
     List<String>? keywords,
     this.notes = '',
+    this.myNotes = '',
     this.favorite = false,
     this.builtIn = false,
     int? createdAt,
@@ -111,6 +113,7 @@ class Recipe {
         'holidays': holidays,
         'keywords': keywords,
         'notes': notes,
+        'myNotes': myNotes,
         'favorite': favorite,
         'builtIn': builtIn,
         'createdAt': createdAt,
@@ -143,6 +146,7 @@ class Recipe {
         holidays: _strings(j['holidays']),
         keywords: _strings(j['keywords']),
         notes: j['notes'] ?? '',
+        myNotes: j['myNotes'] ?? '',
         favorite: j['favorite'] ?? false,
         builtIn: j['builtIn'] ?? false,
         createdAt: (j['createdAt'] as num?)?.toInt(),
@@ -159,6 +163,7 @@ class Recipe {
         author,
         source,
         ...keywords,
+        myNotes,
         ...ingredients,
         ...cuisines,
         ...mealTypes,

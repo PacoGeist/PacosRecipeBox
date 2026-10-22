@@ -122,3 +122,23 @@ class RecipeGrid extends StatelessWidget {
     );
   }
 }
+
+/// Sliver version of [RecipeGrid] for screens with several sections.
+class SliverRecipeGrid extends StatelessWidget {
+  final List<Recipe> recipes;
+  const SliverRecipeGrid(this.recipes, {super.key});
+
+  @override
+  Widget build(BuildContext context) => SliverPadding(
+        padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 6),
+        sliver: SliverGrid(
+          gridDelegate: const SliverGridDelegateWithMaxCrossAxisExtent(
+            maxCrossAxisExtent: 240,
+            mainAxisSpacing: 12,
+            crossAxisSpacing: 12,
+            childAspectRatio: 0.78,
+          ),
+          delegate: SliverChildBuilderDelegate((_, i) => RecipeCard(recipes[i]), childCount: recipes.length),
+        ),
+      );
+}

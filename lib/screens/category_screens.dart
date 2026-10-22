@@ -35,11 +35,11 @@ class CuisinesScreen extends StatelessWidget {
                 onTap: () => Navigator.push(
                   context,
                   MaterialPageRoute(
-                    builder: (_) => RecipeListScreen(
-                      title: '${c.label} Recipes',
+                    builder: (_) => MealTypeMenuScreen(
+                      title: c.label,
                       filter: RecipeFilter(cuisine: c.key),
                       color: c.color,
-                      showMealTypeChips: true,
+                      emoji: c.emoji,
                     ),
                   ),
                 ),
@@ -73,8 +73,7 @@ class SeasonalScreen extends StatelessWidget {
                   onTap: () => Navigator.push(
                     context,
                     MaterialPageRoute(
-                      builder: (_) => RecipeListScreen(
-                          title: c.label, filter: f(c.key), color: c.color, showMealTypeChips: true),
+                      builder: (_) => MealTypeMenuScreen(title: c.label, filter: f(c.key), color: c.color, emoji: c.emoji),
                     ),
                   ),
                 ),
@@ -158,6 +157,82 @@ class _AuthorsScreenState extends State<AuthorsScreen> {
           ),
         ),
       ]),
+    );
+  }
+}
+
+
+/// After choosing a cuisine (or season/holiday): one button per meal type,
+/// so people pick "Desserts" first instead of facing 50 recipes at once.
+class MealTypeMenuScreen extends StatelessWidget {
+  final String title;
+  final RecipeFilter filter;
+  final Color color;
+  final String? emoji;
+  const MealTypeMenuScreen({super.key, required this.title, required this.filter, required this.color, this.emoji});
+
+  @override
+  Widget build(BuildContext context) {
+    final store = context.watch<RecipeStore>();
+    final inGroup = store.query(filter);
+    final favs = inGroup.where((r) => r.favorite).length;
+    void open(String t, RecipeFilter f, Color c) => Navigator.push(
+        context, MaterialPageRoute(builder: (_) => RecipeListScreen(title: t, filter: f, color: c)));
+
+    return Scaffold(
+      appBar: AppBar(
+        title: Text(title),
+        bottom: PreferredSize(preferredSize: const Size.fromHeight(4), child: Container(height: 4, color: color)),
+      ),
+      body: IngredientCorners(
+        size: 50,
+        child: CustomScrollView(slivers: [
+          SliverPadding(
+            padding: const EdgeInsets.fromLTRB(20, 16, 20, 4),
+            sliver: SliverToBoxAdapter(
+              child: Text(
+                '${emoji ?? ''} ${inGroup.length} $title recipes — what are you making?',
+                style: Theme.of(context).textTheme.titleMedium?.copyWith(fontWeight: FontWeight.w700),
+              ),
+            ),
+          ),
+          SliverPadding(
+            padding: const EdgeInsets.fromLTRB(20, 12, 20, 40),
+            sliver: SliverGrid(
+              gridDelegate: _gridDelegate,
+              delegate: SliverChildListDelegate([
+                if (favs > 0)
+                  CategoryTile(
+                    label: 'Favorites',
+                    emoji: '❤️',
+                    icon: Icons.favorite,
+                    color: const Color(0xFFE91E63),
+                    subtitle: _count(favs),
+                    onTap: () => open('$title Favorites', filter.copyWith(favoritesOnly: true), const Color(0xFFE91E63)),
+                  ),
+                for (final m in MealTypes.all)
+                  if (inGroup.any((r) => r.mealTypes.contains(m.key)))
+                    CategoryTile(
+                      label: m.label,
+                      emoji: m.emoji,
+                      icon: m.icon,
+                      color: m.color,
+                      subtitle: _count(inGroup.where((r) => r.mealTypes.contains(m.key)).length),
+                      onTap: () => open('$title ${m.label}', filter.copyWith(mealType: m.key), m.color),
+                    ),
+                CategoryTile(
+                  label: 'All $title',
+                  emoji: '📖',
+                  icon: Icons.menu_book,
+                  color: color,
+                  subtitle: _count(inGroup.length),
+                  onTap: () => open('$title Recipes', filter, color),
+                ),
+              ]),
+            ),
+          ),
+        ]),
+      ),
     );
   }
 }

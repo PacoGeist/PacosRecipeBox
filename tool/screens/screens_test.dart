@@ -17,6 +17,9 @@ import 'package:recipe_box/screens/recipe_detail_screen.dart';
 import 'package:recipe_box/screens/recipe_list_screen.dart';
 import 'package:recipe_box/screens/settings_screen.dart';
 import 'package:recipe_box/screens/splash_screen.dart';
+import 'package:recipe_box/screens/grocery_screens.dart';
+import 'package:recipe_box/screens/menu_screens.dart';
+import 'package:recipe_box/services/planner_store.dart';
 import 'package:recipe_box/services/recipe_store.dart';
 import 'package:recipe_box/services/settings.dart';
 import 'package:recipe_box/theme/app_theme.dart';
@@ -47,10 +50,30 @@ void main() {
     final settings = AppSettings();
     await settings.load();
     final store = RecipeStore()..debugLoad(recipes.map((r) => r.copy()).toList());
+    final planner = PlannerStore()..persist = false;
+    final t0 = today();
+    Recipe pickR(String w) => store.all.firstWhere((r) => r.title.toLowerCase().contains(w));
+    final menu = [pickR('pot roast'), pickR('mashed'), pickR('apple')];
+    await planner.addToMenu(t0, menu.map((r) => r.id));
+    await planner.markMade(t0, menu.first.id);
+    await planner.addToMenu(t0.subtract(const Duration(days: 2)), [pickR('taco').id]);
+    await planner.markMade(t0.subtract(const Duration(days: 2)), pickR('taco').id);
+    await planner.markMade(t0.subtract(const Duration(days: 5)), pickR('chili').id);
+    for (final r in store.all.where((r) => r.cuisines.contains('Irish')).take(3)) {
+      r.favorite = true;
+    }
+    final gl = await planner.newList('Menu for today');
+    for (final r in menu) {
+      await planner.addRecipe(gl, r);
+    }
+    await planner.addItem(gl, 'paper towels');
+    for (final i in gl.items.take(4)) {
+      await planner.toggle(gl, i);
+    }
     tester.view.physicalSize = size * 2.625;
     tester.view.devicePixelRatio = 2.625;
     await tester.pumpWidget(MultiProvider(
-      providers: [ChangeNotifierProvider.value(value: settings), ChangeNotifierProvider.value(value: store)],
+      providers: [ChangeNotifierProvider.value(value: settings), ChangeNotifierProvider.value(value: store), ChangeNotifierProvider.value(value: planner)],
       child: MaterialApp(
         debugShowCheckedModeBanner: false,
         themeMode: settings.themeMode,
@@ -92,5 +115,10 @@ void main() {
     });
   });
   testWidgets('settings', (t) async => shot(t, '09_settings', const SettingsScreen(), size: const Size(412, 1300)));
+  testWidgets('menu planner', (t) async => shot(t, '11_menu_planner', const MenuPlannerScreen()));
+  testWidgets('grocery list', (t) async => shot(t, '12_grocery', const GroceryListScreen(), size: const Size(412, 1400)));
+  testWidgets('menu history', (t) async => shot(t, '13_history', const MenuHistoryScreen(), size: const Size(412, 1100)));
+  testWidgets('cuisine meal types', (t) async => shot(t, '14_cuisine_menu',
+      const MealTypeMenuScreen(title: 'Irish', filter: RecipeFilter(cuisine: 'Irish'), color: Color(0xFF2E7D32), emoji: '🍀')));
   testWidgets('tablet home', (t) async => shot(t, '10_tablet_home', const HomeScreen(), size: const Size(1024, 1366)));
 }

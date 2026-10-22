@@ -6,9 +6,14 @@ Everything is stored on the device: no account, no ads, no tracking. Not for sal
 ## Features
 
 - **Opening screen** that looks like a cloth-bound cookbook with a table full of dishes on the cover.
-- **Home page buttons:** My & Family Recipes, Friends' Recipes, Internet Recipes, Favorites, Cuisines, Seasonal (by season and by holiday), By Author, All Recipes, and one button for each meal type (Breakfast, Appetizers, Entrees, Side Dishes, Soups & Salads, Breads, Desserts, Beverages).
+- **Home page buttons:** Menu Planner, Grocery List, Menu History, All My Lists, My & Family Recipes, Friends' Recipes, Internet Recipes, Favorites, Cuisines, Seasonal (by season and by holiday), By Author, All Recipes, and one button for each meal type (Breakfast, Appetizers, Entrees, Side Dishes, Soups & Salads, Breads, Desserts, Beverages).
 - **Cuisines:** American, Mexican, Japanese, Chinese, British, Irish, German, Indian, Native American, BBQ, Slow Cooker and Potluck. The built-in library has 50 recipes in each, 580 recipes in all, each one credited to its author and source.
 - **Recipe pages** open with the photo of the finished dish. They show prep, cook and total time and the number of servings. The **½× 1× 2× 3×** buttons rescale every ingredient amount at once. You can check off ingredients as you go, and steps can have photos.
+- **Cuisine, season and holiday pages** show one button per meal type (plus Favorites and All) instead of one long list. Recipe lists put your favorites at the top, and "Favorites first" is the default sort.
+- **Make every recipe your own:** edit any recipe, including the built-in ones, and keep your own notes on it. Tap **I made this** to record the day you cooked it.
+- **Menu Planner:** pick several recipes for a day, tick off each dish as you make it, and add a note for the day. Every recipe page also has an **Add to menu** button.
+- **Menu History:** a calendar that shows what was planned and what you cooked on each day.
+- **Grocery lists:** turn a day's menu, or any single recipe, into a shopping list. Items are grouped by department: Produce, Meat & Seafood, Dairy & Eggs, Bakery, Dry Goods & Canned (anything canned counts as dry goods), and Frozen. Checked items move to an "In the cart" section at the bottom. The Grocery List button on the home page opens your latest list, and you can type in extra items, change an item's department or share the list as text.
 - **Search** by name, keyword, author or ingredient, and filter by cuisine, meal type, season, holiday, collection, total time or favorites.
 - **Add your own recipes** with photos taken with the camera or picked from the gallery, for the finished dish and for each step.
 - **Import from the web:** paste the link to a recipe page and the app reads the recipe, its photo and its author. This works with most recipe sites, which publish their recipes in the standard schema.org format.
@@ -18,7 +23,7 @@ Everything is stored on the device: no account, no ads, no tracking. Not for sal
   - as plain text
   - as a photo plus text for Facebook
   - as a `.recipe` file that another Recipe Box user can open, photos included. It lands in their Friends' Recipes.
-- **Back up and restore** all your recipes, photos and favorites as one file. You can save it to the device, Google Drive or email.
+- **Back up and restore** all your recipes, photos, favorites, notes, menus and grocery lists as one file. You can save it to the device, Google Drive or email.
 - **Settings:**
   - light, dark or automatic mode
   - colors for the accent, background, cards (foreground), borders and text

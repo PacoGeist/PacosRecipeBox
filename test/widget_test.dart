@@ -1,4 +1,5 @@
 import 'package:flutter_test/flutter_test.dart';
+import 'package:recipe_box/services/grocery.dart';
 import 'package:recipe_box/services/scaler.dart';
 import 'package:recipe_box/services/update_service.dart';
 import 'package:recipe_box/services/web_import.dart';
@@ -48,6 +49,42 @@ void main() {
     test('splitQuantity', () {
       expect(IngredientScaler.splitQuantity('1 1/2 cups flour'), ('1 1/2', ' cups flour'));
       expect(IngredientScaler.splitQuantity('pinch of salt'), ('', 'pinch of salt'));
+    });
+  });
+
+  group('GroceryClassifier', () {
+    String d(String l) => GroceryClassifier.classify(l).key;
+    test('departments', () {
+      expect(d('2 lb ground beef'), 'meat');
+      expect(d('4 boneless chicken breasts'), 'meat');
+      expect(d('1 can (14 oz) diced tomatoes'), 'dry');
+      expect(d('1 (6 oz) can tuna, drained'), 'dry');
+      expect(d('2 cups chicken broth'), 'dry');
+      expect(d('3 ripe tomatoes, chopped'), 'produce');
+      expect(d('1 bunch cilantro'), 'produce');
+      expect(d('1 eggplant, cubed'), 'produce');
+      expect(d('2 large eggs'), 'dairy');
+      expect(d('1 cup shredded cheddar cheese'), 'dairy');
+      expect(d('1/2 cup butter, softened'), 'dairy');
+      expect(d('1 cup coconut milk'), 'dry');
+      expect(d('8 hamburger buns'), 'bakery');
+      expect(d('6 flour tortillas'), 'bakery');
+      expect(d('2 cups all-purpose flour'), 'dry');
+      expect(d('1 tsp ground black pepper'), 'dry');
+      expect(d('1 green bell pepper, diced'), 'produce');
+      expect(d('2 cups frozen peas'), 'frozen');
+      expect(d('1 cup rolled oats'), 'dry');
+      expect(d('1 butternut squash'), 'produce');
+    });
+    test('skips water', () {
+      expect(GroceryClassifier.skip('2 cups water'), true);
+      expect(GroceryClassifier.skip('Water'), true);
+      expect(GroceryClassifier.skip('1 cup water chestnuts'), false);
+      expect(GroceryClassifier.skip('32 fl oz (1 L) hot water'), true);
+      expect(GroceryClassifier.skip('Ice cubes, to serve'), false);
+      expect(GroceryClassifier.classify('Potato starch or corn starch').key, 'dry');
+      expect(GroceryClassifier.classify('1/4 cup tomato juice').key, 'dry');
+      expect(GroceryClassifier.classify('4 oz soft tofu').key, 'produce');
     });
   });
 
