@@ -1,0 +1,1690 @@
+{
+ "cuisine": "Native American",
+ "selected": [
+  {
+   "page": "Cookbook:Fry Bread II",
+   "mealTypes": [
+    "Bread"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "fry bread",
+    "flatbread",
+    "fried"
+   ]
+  },
+  {
+   "page": "Cookbook:Three Sisters Stew",
+   "mealTypes": [
+    "Entree",
+    "Soup & Salad"
+   ],
+   "seasons": [
+    "Fall"
+   ],
+   "holidays": [
+    "Thanksgiving"
+   ],
+   "keywords": [
+    "corn",
+    "beans",
+    "squash",
+    "vegan"
+   ]
+  },
+  {
+   "page": "Cookbook:Three Sisters Soup",
+   "mealTypes": [
+    "Soup & Salad"
+   ],
+   "seasons": [
+    "Fall",
+    "Winter"
+   ],
+   "holidays": [],
+   "keywords": [
+    "hominy",
+    "squash",
+    "green beans"
+   ]
+  },
+  {
+   "page": "Cookbook:Hominy Grits",
+   "mealTypes": [
+    "Breakfast",
+    "Side Dish"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "hominy",
+    "grits",
+    "corn"
+   ]
+  },
+  {
+   "page": "Cookbook:Plank-Grilled Salmon",
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [
+    "Summer"
+   ],
+   "holidays": [],
+   "keywords": [
+    "salmon",
+    "cedar plank",
+    "grilled",
+    "pacific northwest"
+   ]
+  },
+  {
+   "page": "Cookbook:Corn Pone",
+   "mealTypes": [
+    "Bread"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "cornmeal",
+    "corn cake",
+    "bread"
+   ]
+  },
+  {
+   "page": "Cookbook:Pashofa (Chickasaw Pork and Corn)",
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [
+    "Fall",
+    "Winter"
+   ],
+   "holidays": [],
+   "keywords": [
+    "hominy",
+    "pork",
+    "chickasaw"
+   ]
+  },
+  {
+   "page": "Cookbook:Poached Salmon with wild Huckleberries",
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [
+    "Summer"
+   ],
+   "holidays": [],
+   "keywords": [
+    "salmon",
+    "huckleberries",
+    "poached"
+   ]
+  },
+  {
+   "page": "Cookbook:Succotash",
+   "mealTypes": [
+    "Side Dish"
+   ],
+   "seasons": [
+    "Summer"
+   ],
+   "holidays": [
+    "Thanksgiving"
+   ],
+   "keywords": [
+    "corn",
+    "lima beans",
+    "side"
+   ]
+  },
+  {
+   "page": "Cookbook:Indian Ice Cream",
+   "mealTypes": [
+    "Dessert"
+   ],
+   "seasons": [
+    "Summer"
+   ],
+   "holidays": [],
+   "keywords": [
+    "soapberries",
+    "sxusem",
+    "whipped",
+    "pacific northwest"
+   ]
+  },
+  {
+   "page": "Cookbook:Homemade Hominy",
+   "mealTypes": [
+    "Side Dish"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "hominy",
+    "nixtamal",
+    "corn"
+   ]
+  },
+  {
+   "page": "Cookbook:Acorn Crusted Salmon",
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [
+    "Summer",
+    "Fall"
+   ],
+   "holidays": [],
+   "keywords": [
+    "salmon",
+    "acorns",
+    "california"
+   ]
+  }
+ ],
+ "original": [
+  {
+   "title": "Wojapi (Plains Berry Sauce)",
+   "description": "A thick, naturally sweet berry sauce made by the Lakota and other Plains nations, traditionally from chokecherries and served warm with fry bread.",
+   "servings": 6,
+   "prepMinutes": 5,
+   "cookMinutes": 25,
+   "ingredients": [
+    "4 cups mixed berries, fresh or frozen (blueberries, blackberries, chokecherries, or juneberries)",
+    "1 cup water",
+    "2 to 4 tbsp honey or maple syrup, to taste",
+    "1 tbsp cornstarch or arrowroot (optional)",
+    "2 tbsp cold water (optional)"
+   ],
+   "steps": [
+    "Combine the berries and 1 cup water in a medium saucepan.",
+    "Bring to a boil over medium-high heat, then reduce to a simmer.",
+    "Cook for 15–20 minutes, mashing the berries with a potato masher or wooden spoon as they soften.",
+    "Stir in honey or maple syrup to taste.",
+    "For a thicker sauce, stir the cornstarch into the cold water and whisk it into the simmering berries; cook 2 minutes more until glossy.",
+    "Serve warm with fry bread or bannock, or chill and use as a spread."
+   ],
+   "mealTypes": [
+    "Dessert",
+    "Side Dish"
+   ],
+   "seasons": [
+    "Summer"
+   ],
+   "holidays": [],
+   "keywords": [
+    "berries",
+    "sauce",
+    "lakota",
+    "fry bread topping"
+   ],
+   "photoQuery": "wojapi berry sauce"
+  },
+  {
+   "title": "Bannock",
+   "description": "A simple skillet bread baked across Canada by First Nations and Métis families, made from pantry staples and cooked over a campfire or stovetop.",
+   "servings": 8,
+   "prepMinutes": 10,
+   "cookMinutes": 25,
+   "ingredients": [
+    "3 cups all-purpose flour",
+    "1 tbsp baking powder",
+    "1 tsp salt",
+    "1 tbsp sugar (optional)",
+    "1/4 cup lard, butter, or vegetable shortening, cut into pieces",
+    "1 1/4 cups water or milk",
+    "1 tbsp vegetable oil, for the pan"
+   ],
+   "steps": [
+    "Whisk together the flour, baking powder, salt, and sugar in a large bowl.",
+    "Rub the lard into the flour with your fingertips until the mixture looks like coarse crumbs.",
+    "Pour in the water and stir just until a soft dough forms; do not overmix.",
+    "Turn the dough out onto a floured surface and pat it into a round about 1 inch thick.",
+    "Heat the oil in a 10-inch cast-iron skillet over medium-low heat.",
+    "Place the dough in the skillet, cover, and cook for 10–12 minutes until the bottom is golden.",
+    "Flip the bannock and cook, covered, for another 10–12 minutes until it sounds hollow when tapped.",
+    "Cut into wedges and serve warm with butter, jam, or wojapi."
+   ],
+   "mealTypes": [
+    "Bread"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "bannock",
+    "skillet bread",
+    "first nations",
+    "camping"
+   ],
+   "photoQuery": "bannock bread"
+  },
+  {
+   "title": "Blue Corn Mush",
+   "description": "A creamy, lavender-gray porridge of finely ground blue cornmeal, a staple breakfast of the Hopi and Diné (Navajo) peoples of the Southwest.",
+   "servings": 4,
+   "prepMinutes": 5,
+   "cookMinutes": 15,
+   "ingredients": [
+    "1 cup finely ground blue cornmeal",
+    "4 cups water, divided",
+    "1/2 tsp salt",
+    "1 tsp culinary ash (juniper ash), optional, to deepen the blue color",
+    "2 tbsp honey or maple syrup (optional)"
+   ],
+   "steps": [
+    "Stir the blue cornmeal into 1 cup of cold water to make a smooth paste.",
+    "Bring the remaining 3 cups of water and the salt to a boil in a saucepan.",
+    "If using, dissolve the juniper ash in 2 tablespoons of hot water and strain it into the pot.",
+    "Slowly whisk in the cornmeal paste, stirring constantly to prevent lumps.",
+    "Reduce the heat to low and cook, stirring often, for 10–15 minutes until thick and smooth.",
+    "Serve hot, drizzled with honey or maple syrup if you like."
+   ],
+   "mealTypes": [
+    "Breakfast"
+   ],
+   "seasons": [
+    "Winter"
+   ],
+   "holidays": [],
+   "keywords": [
+    "blue corn",
+    "porridge",
+    "hopi",
+    "navajo"
+   ],
+   "photoQuery": "blue corn mush"
+  },
+  {
+   "title": "Navajo Mutton Stew",
+   "description": "A hearty stew of bone-in mutton or lamb with potatoes, corn, and green chile, a centerpiece of Diné (Navajo) home cooking, usually served with fry bread.",
+   "servings": 6,
+   "prepMinutes": 20,
+   "cookMinutes": 120,
+   "ingredients": [
+    "2 1/2 lb bone-in lamb or mutton shoulder or neck, cut into 2-inch pieces",
+    "8 cups water",
+    "1 tbsp salt",
+    "1 large onion, chopped",
+    "4 medium potatoes, peeled and cut into chunks",
+    "2 carrots, sliced",
+    "2 celery stalks, sliced",
+    "2 cups corn kernels, fresh or frozen",
+    "1/2 cup chopped roasted green chiles (optional)",
+    "1/2 tsp black pepper"
+   ],
+   "steps": [
+    "Place the lamb in a large pot with the water and salt and bring to a boil, skimming the foam from the surface.",
+    "Reduce the heat, cover, and simmer for 1 1/4 hours until the meat is tender.",
+    "Add the onion, potatoes, carrots, and celery and simmer for 25 minutes.",
+    "Stir in the corn and green chiles and simmer 10 minutes more until all the vegetables are tender.",
+    "Season with pepper and more salt to taste.",
+    "Serve hot in deep bowls with fry bread on the side."
+   ],
+   "mealTypes": [
+    "Entree",
+    "Soup & Salad"
+   ],
+   "seasons": [
+    "Fall",
+    "Winter"
+   ],
+   "holidays": [],
+   "keywords": [
+    "mutton",
+    "lamb",
+    "stew",
+    "navajo"
+   ],
+   "photoQuery": "Navajo mutton stew"
+  },
+  {
+   "title": "Cherokee Bean Bread",
+   "description": "Tender cornmeal dumplings studded with brown beans, wrapped in corn husks and boiled—a traditional Cherokee dish from the Southeast.",
+   "servings": 8,
+   "prepMinutes": 30,
+   "cookMinutes": 60,
+   "ingredients": [
+    "2 cups cooked pinto or brown beans, drained, with 1 cup cooking liquid reserved",
+    "3 cups white cornmeal",
+    "1 tsp baking soda",
+    "1 tsp salt",
+    "1 cup boiling water",
+    "16 dried corn husks, soaked in hot water for 30 minutes"
+   ],
+   "steps": [
+    "Bring a large pot of water to a boil.",
+    "Mix the cornmeal, baking soda, and salt in a large bowl.",
+    "Stir in the boiling water and enough of the hot bean liquid to make a stiff dough that holds together.",
+    "Gently fold in the beans so they stay mostly whole.",
+    "Divide the dough into 8 portions and shape each into a flat oblong cake.",
+    "Wrap each cake in two overlapping corn husks, fold in the ends, and tie with twine.",
+    "Drop the bundles into the boiling water, reduce to a steady simmer, and cook for 1 hour.",
+    "Drain, cool for a few minutes, and unwrap; serve warm with butter or alongside greens."
+   ],
+   "mealTypes": [
+    "Bread",
+    "Side Dish"
+   ],
+   "seasons": [
+    "Fall"
+   ],
+   "holidays": [],
+   "keywords": [
+    "cornmeal",
+    "beans",
+    "dumplings",
+    "cherokee"
+   ],
+   "photoQuery": "Cherokee bean bread"
+  },
+  {
+   "title": "Maple-Roasted Winter Squash",
+   "description": "Winter squash roasted with maple syrup and a pinch of salt, honoring the maple sugaring traditions of the Haudenosaunee and Anishinaabe peoples.",
+   "servings": 6,
+   "prepMinutes": 10,
+   "cookMinutes": 45,
+   "ingredients": [
+    "1 butternut or 2 acorn squash (about 3 lb total)",
+    "3 tbsp melted butter or sunflower oil",
+    "3 tbsp pure maple syrup",
+    "1/2 tsp salt",
+    "1/4 tsp black pepper",
+    "2 tbsp toasted sunflower or pumpkin seeds"
+   ],
+   "steps": [
+    "Preheat the oven to 400°F (200°C).",
+    "Halve the squash, scoop out the seeds, and cut it into 1-inch slices or chunks (peel butternut; acorn skin can stay on).",
+    "Toss the squash with the butter, maple syrup, salt, and pepper on a rimmed baking sheet.",
+    "Spread it in a single layer and roast for 35–45 minutes, turning once, until tender and caramelized at the edges.",
+    "Sprinkle with toasted seeds and serve warm."
+   ],
+   "mealTypes": [
+    "Side Dish"
+   ],
+   "seasons": [
+    "Fall",
+    "Winter"
+   ],
+   "holidays": [
+    "Thanksgiving"
+   ],
+   "keywords": [
+    "squash",
+    "maple",
+    "roasted",
+    "vegetarian"
+   ],
+   "photoQuery": "maple roasted squash"
+  },
+  {
+   "title": "Ojibwe Wild Rice Soup",
+   "description": "A hearty soup of hand-harvested manoomin (wild rice), the sacred grain of the Ojibwe/Anishinaabe of the Great Lakes, simmered with vegetables and venison or chicken.",
+   "servings": 6,
+   "prepMinutes": 15,
+   "cookMinutes": 75,
+   "ingredients": [
+    "1 cup wild rice, rinsed",
+    "4 cups water",
+    "1 tbsp sunflower oil or butter",
+    "1 onion, diced",
+    "2 carrots, diced",
+    "2 celery stalks, diced",
+    "8 oz mushrooms, sliced",
+    "6 cups venison, turkey, or chicken broth",
+    "2 cups cooked shredded venison, turkey, or chicken",
+    "1 tsp dried sage",
+    "1 tsp salt",
+    "1/2 tsp black pepper",
+    "2 tbsp chopped fresh parsley"
+   ],
+   "steps": [
+    "Combine the wild rice and water in a saucepan, bring to a boil, then cover and simmer for 45 minutes until the grains split open; drain any excess water.",
+    "Meanwhile, heat the oil in a large pot over medium heat.",
+    "Add the onion, carrots, and celery and cook for 8 minutes until softened.",
+    "Add the mushrooms and cook 5 minutes more.",
+    "Pour in the broth, add the sage, salt, and pepper, and simmer for 15 minutes.",
+    "Stir in the cooked wild rice and shredded meat and simmer 10 minutes to blend the flavors.",
+    "Garnish with parsley and serve hot."
+   ],
+   "mealTypes": [
+    "Soup & Salad"
+   ],
+   "seasons": [
+    "Fall",
+    "Winter"
+   ],
+   "holidays": [],
+   "keywords": [
+    "wild rice",
+    "soup",
+    "ojibwe",
+    "manoomin"
+   ],
+   "photoQuery": "wild rice soup"
+  },
+  {
+   "title": "Wild Rice with Cranberries and Hazelnuts",
+   "description": "Nutty Great Lakes wild rice tossed with dried cranberries, toasted hazelnuts, and green onions, a festive side drawing on Anishinaabe foods.",
+   "servings": 6,
+   "prepMinutes": 10,
+   "cookMinutes": 50,
+   "ingredients": [
+    "1 1/2 cups wild rice, rinsed",
+    "5 cups water or vegetable broth",
+    "1 tsp salt",
+    "2 tbsp sunflower oil or butter",
+    "1/2 cup dried cranberries",
+    "1/2 cup hazelnuts, toasted and chopped",
+    "4 green onions, sliced",
+    "1 tbsp maple syrup",
+    "1 tbsp apple cider vinegar",
+    "1/4 tsp black pepper"
+   ],
+   "steps": [
+    "Bring the wild rice, water, and salt to a boil in a saucepan.",
+    "Reduce the heat, cover, and simmer for 45–50 minutes until the grains are tender and many have split; drain well.",
+    "While still warm, toss the rice with the oil and dried cranberries so the berries plump.",
+    "Whisk the maple syrup and vinegar together and pour over the rice.",
+    "Fold in the hazelnuts and green onions and season with pepper and more salt to taste.",
+    "Serve warm or at room temperature."
+   ],
+   "mealTypes": [
+    "Side Dish"
+   ],
+   "seasons": [
+    "Fall",
+    "Winter"
+   ],
+   "holidays": [
+    "Thanksgiving",
+    "Christmas"
+   ],
+   "keywords": [
+    "wild rice",
+    "cranberries",
+    "hazelnuts",
+    "vegetarian"
+   ],
+   "photoQuery": "wild rice cranberries"
+  },
+  {
+   "title": "Pemmican-Style Energy Bites",
+   "description": "A modern take on pemmican, the dried meat, fat, and berry trail food of the Cree and Plains nations, shaped into easy bites for hiking or travel.",
+   "servings": 12,
+   "prepMinutes": 20,
+   "cookMinutes": 0,
+   "ingredients": [
+    "8 oz beef or bison jerky, unseasoned or lightly salted",
+    "1/2 cup dried blueberries, cranberries, or saskatoon berries",
+    "1/2 cup rendered beef tallow or bison fat, melted",
+    "1/4 tsp salt"
+   ],
+   "steps": [
+    "Tear the jerky into pieces and pulse in a food processor until it becomes a fine, fluffy powder.",
+    "Add the dried berries and pulse a few times until they are coarsely chopped.",
+    "Transfer to a bowl, add the salt, and pour in the warm melted tallow.",
+    "Mix thoroughly until the mixture holds together when pressed.",
+    "Press firmly into a parchment-lined 8-inch pan or shape into 24 small balls.",
+    "Refrigerate until firm, about 1 hour, then cut into bars if using a pan.",
+    "Store wrapped in a cool place or the refrigerator for several weeks."
+   ],
+   "mealTypes": [
+    "Appetizer"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "pemmican",
+    "jerky",
+    "berries",
+    "trail food"
+   ],
+   "photoQuery": "pemmican"
+  },
+  {
+   "title": "Sumac Lemonade",
+   "description": "A tart, rosy cold drink steeped from the red berry clusters of staghorn sumac, long enjoyed by Eastern Woodlands peoples in late summer.",
+   "servings": 6,
+   "prepMinutes": 10,
+   "cookMinutes": 0,
+   "ingredients": [
+    "6 large clusters ripe staghorn sumac berries (red, not white)",
+    "8 cups cold water",
+    "1/4 cup maple syrup or honey, or to taste"
+   ],
+   "steps": [
+    "Shake the sumac clusters to remove any insects or debris; do not rinse, as that washes away the tart coating.",
+    "Place the clusters in a large pitcher or bowl and cover with the cold water.",
+    "Gently rub and crush the berries with your hands to release their flavor.",
+    "Let steep at room temperature for 1–2 hours until the water is pink and tart.",
+    "Strain through a fine sieve lined with cheesecloth or a coffee filter to remove hairs.",
+    "Sweeten with maple syrup or honey and serve over ice."
+   ],
+   "mealTypes": [
+    "Beverage"
+   ],
+   "seasons": [
+    "Summer"
+   ],
+   "holidays": [],
+   "keywords": [
+    "sumac",
+    "drink",
+    "foraged",
+    "refreshing"
+   ],
+   "photoQuery": "sumac lemonade"
+  },
+  {
+   "title": "Navajo Tacos",
+   "description": "Golden fry bread piled high with seasoned beans and beef, lettuce, tomato, and cheese—a beloved powwow and fair favorite throughout Indian Country.",
+   "servings": 6,
+   "prepMinutes": 15,
+   "cookMinutes": 30,
+   "ingredients": [
+    "6 rounds fry bread, freshly made",
+    "1 lb ground beef or bison",
+    "1 onion, diced",
+    "1 tsp chili powder",
+    "1/2 tsp ground cumin",
+    "1/2 tsp salt",
+    "1 can (15 oz) pinto beans, drained, or 1 1/2 cups cooked",
+    "1/2 cup water",
+    "2 cups shredded lettuce",
+    "2 tomatoes, diced",
+    "1 1/2 cups shredded cheddar cheese",
+    "1/2 cup chopped roasted green chile or salsa",
+    "1/2 cup sour cream (optional)"
+   ],
+   "steps": [
+    "Brown the ground beef with the onion in a skillet over medium-high heat for 8 minutes, breaking it up as it cooks; drain the fat.",
+    "Stir in the chili powder, cumin, and salt and cook for 1 minute.",
+    "Add the beans and water and simmer for 10 minutes until thickened, mashing a few beans to make it saucy.",
+    "Place a warm fry bread round on each plate.",
+    "Spoon the beef and bean mixture over the fry bread.",
+    "Top with lettuce, tomatoes, cheese, green chile, and sour cream and serve immediately."
+   ],
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [],
+   "holidays": [
+    "Game Day"
+   ],
+   "keywords": [
+    "fry bread",
+    "tacos",
+    "beef",
+    "powwow"
+   ],
+   "photoQuery": "Navajo taco"
+  },
+  {
+   "title": "Haudenosaunee White Corn Soup",
+   "description": "A traditional Iroquois soup of hulled white corn simmered with kidney beans and salt pork or smoked meat, served at gatherings and ceremonies.",
+   "servings": 8,
+   "prepMinutes": 20,
+   "cookMinutes": 180,
+   "ingredients": [
+    "2 lb dried hulled white corn (Iroquois white corn or prepared hominy), or 3 cans (29 oz each) white hominy",
+    "1 lb salt pork or smoked pork hocks",
+    "2 cans (15 oz each) red kidney beans, drained, or 3 cups cooked",
+    "1 turnip, peeled and diced (optional)",
+    "12 cups water",
+    "1 tsp salt, or to taste",
+    "1/2 tsp black pepper"
+   ],
+   "steps": [
+    "If using dried white corn, soak it overnight in plenty of cold water and drain.",
+    "Place the corn and pork in a large pot with the water and bring to a boil.",
+    "Reduce the heat and simmer, partially covered, for 2 1/2 hours until the corn kernels are tender and swollen (30 minutes if using canned hominy).",
+    "Remove the pork, pull or dice the meat, and return it to the pot, discarding bone and rind.",
+    "Add the kidney beans and turnip and simmer 30 minutes more.",
+    "Season with salt and pepper and serve hot."
+   ],
+   "mealTypes": [
+    "Soup & Salad",
+    "Entree"
+   ],
+   "seasons": [
+    "Fall",
+    "Winter"
+   ],
+   "holidays": [],
+   "keywords": [
+    "white corn",
+    "hominy",
+    "soup",
+    "iroquois"
+   ],
+   "photoQuery": "Iroquois corn soup"
+  },
+  {
+   "title": "Plains Bison Stew",
+   "description": "A rich stew of bison simmered with root vegetables and wild onion flavors, honoring the animal at the heart of Lakota, Blackfoot, and other Plains cultures.",
+   "servings": 6,
+   "prepMinutes": 20,
+   "cookMinutes": 150,
+   "ingredients": [
+    "2 lb bison stew meat, cut into 1 1/2-inch cubes",
+    "1 tsp salt",
+    "1/2 tsp black pepper",
+    "2 tbsp flour",
+    "2 tbsp sunflower oil",
+    "1 large onion, chopped",
+    "2 cloves garlic, minced",
+    "6 cups beef or bison broth",
+    "2 bay leaves",
+    "1 tsp dried sage",
+    "4 small potatoes, cubed",
+    "2 carrots, sliced",
+    "1 small rutabaga or turnip, cubed",
+    "1 cup corn kernels"
+   ],
+   "steps": [
+    "Season the bison with salt and pepper and toss with the flour.",
+    "Heat the oil in a Dutch oven over medium-high heat and brown the meat in batches, 3–4 minutes per batch; set aside.",
+    "Add the onion and garlic and cook for 5 minutes, scraping up the browned bits.",
+    "Return the bison to the pot with the broth, bay leaves, and sage and bring to a boil.",
+    "Reduce the heat, cover, and simmer gently for 1 1/2 hours; bison is lean, so keep it at a bare simmer.",
+    "Add the potatoes, carrots, and rutabaga and simmer 30 minutes more.",
+    "Stir in the corn and cook 10 minutes until all the vegetables are tender.",
+    "Remove the bay leaves, adjust the seasoning, and serve with bannock or fry bread."
+   ],
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [
+    "Fall",
+    "Winter"
+   ],
+   "holidays": [],
+   "keywords": [
+    "bison",
+    "buffalo",
+    "stew",
+    "plains"
+   ],
+   "photoQuery": "bison stew"
+  },
+  {
+   "title": "Pueblo Red Chile Posole",
+   "description": "A deeply flavored stew of hominy and pork in New Mexico red chile, served on Pueblo feast days and throughout the Rio Grande valley in winter.",
+   "servings": 8,
+   "prepMinutes": 20,
+   "cookMinutes": 180,
+   "ingredients": [
+    "1 lb dried posole (nixtamal corn), or 2 cans (29 oz each) white hominy, drained",
+    "2 lb pork shoulder, cut into 1-inch cubes",
+    "1 onion, chopped",
+    "4 cloves garlic, minced",
+    "1 tsp dried oregano",
+    "10 cups water",
+    "1/2 cup ground New Mexico red chile powder (mild or medium)",
+    "2 tsp salt"
+   ],
+   "steps": [
+    "If using dried posole, rinse it and soak overnight in cold water, then drain.",
+    "Put the posole in a large pot with the water and simmer for 2 hours until the kernels burst open (skip this if using canned hominy).",
+    "Add the pork, onion, garlic, and oregano and simmer for 1 hour until the pork is tender.",
+    "Whisk the red chile powder with 1 cup of the hot broth to make a smooth paste and stir it into the pot.",
+    "Season with salt and simmer 20 minutes more to mellow the chile.",
+    "Serve hot in bowls, with warm tortillas or oven bread."
+   ],
+   "mealTypes": [
+    "Entree",
+    "Soup & Salad"
+   ],
+   "seasons": [
+    "Winter"
+   ],
+   "holidays": [
+    "Christmas",
+    "New Year's"
+   ],
+   "keywords": [
+    "posole",
+    "pork",
+    "red chile",
+    "pueblo"
+   ],
+   "photoQuery": "New Mexico red chile posole"
+  },
+  {
+   "title": "Blue Corn Pancakes",
+   "description": "Light, nutty pancakes made with Southwestern blue cornmeal, a cornerstone grain of the Pueblo, Hopi, and Diné peoples.",
+   "servings": 4,
+   "prepMinutes": 10,
+   "cookMinutes": 15,
+   "ingredients": [
+    "1 cup blue cornmeal",
+    "3/4 cup all-purpose flour",
+    "2 tsp baking powder",
+    "1/2 tsp baking soda",
+    "1/2 tsp salt",
+    "2 tbsp sugar",
+    "1 1/2 cups buttermilk",
+    "2 large eggs",
+    "3 tbsp melted butter, plus more for the griddle"
+   ],
+   "steps": [
+    "Whisk together the blue cornmeal, flour, baking powder, baking soda, salt, and sugar in a large bowl.",
+    "In another bowl, whisk the buttermilk, eggs, and melted butter.",
+    "Pour the wet ingredients into the dry and stir just until combined; let rest 5 minutes.",
+    "Heat a griddle or skillet over medium heat and brush it with butter.",
+    "Pour 1/4 cup batter per pancake and cook until bubbles form on top and the edges look set, about 2 minutes.",
+    "Flip and cook 1–2 minutes more until cooked through.",
+    "Serve warm with maple syrup, honey, or wojapi."
+   ],
+   "mealTypes": [
+    "Breakfast"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "blue corn",
+    "pancakes",
+    "breakfast"
+   ],
+   "photoQuery": "blue corn pancakes"
+  },
+  {
+   "title": "Kneel-Down Bread",
+   "description": "Fresh sweet corn ground into a moist batter, wrapped in its own husks, and baked—named by the Diné (Navajo) for kneeling to grind corn on a metate.",
+   "servings": 8,
+   "prepMinutes": 40,
+   "cookMinutes": 75,
+   "ingredients": [
+    "8 ears fresh sweet corn in husks",
+    "1/2 tsp salt",
+    "1 tbsp sugar (optional)"
+   ],
+   "steps": [
+    "Preheat the oven to 350°F (175°C) or prepare a bed of hot coals.",
+    "Carefully remove the husks from the corn, keeping the large inner husks whole, and set them aside.",
+    "Cut the kernels from the cobs and scrape the cobs with the back of the knife to collect the milk.",
+    "Grind the kernels in a food processor or meat grinder to a thick, wet batter, then stir in the salt and sugar.",
+    "Overlap two husks, spoon 1/3 cup of batter into the center, and fold the husks around it into a packet; tie with a strip of husk.",
+    "Arrange the packets seam side down in a baking dish.",
+    "Bake for 60–75 minutes until firm, or bury in hot coals and ashes for about 1 hour.",
+    "Let cool slightly, then unwrap and serve warm."
+   ],
+   "mealTypes": [
+    "Bread",
+    "Side Dish"
+   ],
+   "seasons": [
+    "Summer"
+   ],
+   "holidays": [],
+   "keywords": [
+    "corn",
+    "husk",
+    "navajo",
+    "baked"
+   ],
+   "photoQuery": "kneel down bread"
+  },
+  {
+   "title": "Johnnycakes",
+   "description": "Crisp cornmeal griddle cakes descended from the Narragansett and Wampanoag nokehick, the parched-corn cakes shared with early New England settlers.",
+   "servings": 4,
+   "prepMinutes": 10,
+   "cookMinutes": 20,
+   "ingredients": [
+    "1 cup stone-ground white cornmeal",
+    "1/2 tsp salt",
+    "1 tsp sugar",
+    "1 1/4 cups boiling water",
+    "2 to 4 tbsp milk",
+    "2 tbsp butter or bacon fat, for the griddle"
+   ],
+   "steps": [
+    "Stir the cornmeal, salt, and sugar together in a bowl.",
+    "Pour in the boiling water, stirring constantly, until the cornmeal is fully moistened.",
+    "Let the batter rest for 5 minutes, then thin with enough milk to make a thick, spoonable batter.",
+    "Heat the butter on a griddle or cast-iron skillet over medium heat.",
+    "Drop the batter by heaping tablespoons and flatten slightly into 3-inch cakes.",
+    "Cook without moving for 5–6 minutes until a golden crust forms, then flip and cook another 5 minutes.",
+    "Serve hot with butter and maple syrup."
+   ],
+   "mealTypes": [
+    "Breakfast",
+    "Bread"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "cornmeal",
+    "griddle cakes",
+    "new england",
+    "wampanoag"
+   ],
+   "photoQuery": "johnnycakes"
+  },
+  {
+   "title": "Sagamité (Maple Hominy Porridge)",
+   "description": "A Great Lakes porridge of cracked hominy or cornmeal sweetened with maple sugar and enriched with sunflower seeds, eaten for centuries by Algonquian and Haudenosaunee peoples.",
+   "servings": 4,
+   "prepMinutes": 5,
+   "cookMinutes": 30,
+   "ingredients": [
+    "1 cup coarse hominy grits or stone-ground cornmeal",
+    "4 1/2 cups water",
+    "1/2 tsp salt",
+    "1/4 cup maple syrup or 3 tbsp maple sugar",
+    "1/3 cup dried blueberries or cranberries",
+    "1/4 cup toasted sunflower seeds"
+   ],
+   "steps": [
+    "Bring the water and salt to a boil in a heavy saucepan.",
+    "Slowly whisk in the hominy grits or cornmeal.",
+    "Reduce the heat to low and cook, stirring often, for 20–25 minutes until thick and tender.",
+    "Stir in the maple syrup and dried berries and cook 3 minutes more.",
+    "Spoon into bowls and top with sunflower seeds."
+   ],
+   "mealTypes": [
+    "Breakfast"
+   ],
+   "seasons": [
+    "Fall",
+    "Winter"
+   ],
+   "holidays": [],
+   "keywords": [
+    "hominy",
+    "maple",
+    "porridge",
+    "sunflower"
+   ],
+   "photoQuery": "sagamite hominy porridge"
+  },
+  {
+   "title": "Roasted Pumpkin Seeds",
+   "description": "Crunchy, salted pumpkin seeds roasted until golden, a snack enjoyed for generations wherever pumpkins and squash were grown in the Americas.",
+   "servings": 6,
+   "prepMinutes": 15,
+   "cookMinutes": 25,
+   "ingredients": [
+    "2 cups raw pumpkin seeds, rinsed and dried",
+    "1 tbsp sunflower oil or melted butter",
+    "1 tsp salt",
+    "1/2 tsp chili powder (optional)"
+   ],
+   "steps": [
+    "Preheat the oven to 325°F (165°C).",
+    "Pick any strings of pumpkin flesh off the seeds and pat them thoroughly dry with a towel.",
+    "Toss the seeds with the oil, salt, and chili powder.",
+    "Spread them in a single layer on a rimmed baking sheet.",
+    "Roast for 20–25 minutes, stirring every 8 minutes, until golden and crisp.",
+    "Cool completely on the pan before serving."
+   ],
+   "mealTypes": [
+    "Appetizer"
+   ],
+   "seasons": [
+    "Fall"
+   ],
+   "holidays": [
+    "Halloween",
+    "Thanksgiving"
+   ],
+   "keywords": [
+    "pumpkin seeds",
+    "snack",
+    "roasted"
+   ],
+   "photoQuery": "roasted pumpkin seeds"
+  },
+  {
+   "title": "Wampanoag Cranberry Sauce",
+   "description": "Cranberries, called sasumuneash by the Wampanoag, simmered with maple syrup into a tart-sweet sauce—a native fruit long used for food and medicine in New England.",
+   "servings": 8,
+   "prepMinutes": 5,
+   "cookMinutes": 15,
+   "ingredients": [
+    "12 oz fresh or frozen cranberries",
+    "3/4 cup pure maple syrup",
+    "1/2 cup water",
+    "1 strip orange peel (optional)",
+    "1 pinch salt"
+   ],
+   "steps": [
+    "Combine the maple syrup, water, orange peel, and salt in a saucepan and bring to a boil.",
+    "Add the cranberries and return to a boil.",
+    "Reduce the heat and simmer for 10 minutes, stirring occasionally, until most of the berries have burst.",
+    "Remove the orange peel and let the sauce cool; it will thicken as it stands.",
+    "Serve at room temperature or chilled."
+   ],
+   "mealTypes": [
+    "Side Dish"
+   ],
+   "seasons": [
+    "Fall",
+    "Winter"
+   ],
+   "holidays": [
+    "Thanksgiving",
+    "Christmas"
+   ],
+   "keywords": [
+    "cranberries",
+    "maple",
+    "sauce"
+   ],
+   "photoQuery": "cranberry sauce"
+  },
+  {
+   "title": "Cherokee Grape Dumplings",
+   "description": "Soft dumplings simmered in sweet, purple grape juice, a beloved Cherokee dessert traditionally made with wild possum grapes.",
+   "servings": 6,
+   "prepMinutes": 15,
+   "cookMinutes": 20,
+   "ingredients": [
+    "4 cups unsweetened Concord grape juice, divided",
+    "1/2 cup sugar",
+    "2 cups all-purpose flour",
+    "1 tbsp baking powder",
+    "1/2 tsp salt",
+    "2 tbsp butter or shortening",
+    "1/2 cup cold grape juice (taken from the 4 cups)"
+   ],
+   "steps": [
+    "Combine 3 1/2 cups of the grape juice with the sugar in a wide pot and bring to a boil.",
+    "Meanwhile, whisk the flour, baking powder, and salt in a bowl and cut in the butter until crumbly.",
+    "Stir in the reserved 1/2 cup grape juice to form a stiff dough.",
+    "Roll the dough out on a floured surface to 1/4 inch thick and cut into 1-by-2-inch strips.",
+    "Drop the dumplings one at a time into the boiling juice.",
+    "Reduce the heat, cover, and simmer for 12–15 minutes until the dumplings are cooked through and the juice has thickened.",
+    "Serve warm, with a spoonful of cream if you like."
+   ],
+   "mealTypes": [
+    "Dessert"
+   ],
+   "seasons": [
+    "Fall"
+   ],
+   "holidays": [],
+   "keywords": [
+    "grapes",
+    "dumplings",
+    "cherokee",
+    "sweet"
+   ],
+   "photoQuery": "Cherokee grape dumplings"
+  },
+  {
+   "title": "Choctaw Banaha",
+   "description": "Corn shuck bread from the Choctaw of Mississippi and Oklahoma: a cornmeal dough mixed with field peas, wrapped in husks, and boiled.",
+   "servings": 8,
+   "prepMinutes": 30,
+   "cookMinutes": 45,
+   "ingredients": [
+    "2 cups white cornmeal",
+    "1 tsp baking soda",
+    "1 tsp salt",
+    "1 1/2 cups boiling water",
+    "1 cup cooked field peas or black-eyed peas, drained",
+    "16 dried corn husks, soaked in hot water for 30 minutes"
+   ],
+   "steps": [
+    "Bring a large pot of water to a boil.",
+    "Mix the cornmeal, baking soda, and salt in a bowl.",
+    "Pour in the boiling water and stir to make a stiff dough.",
+    "Fold in the cooked peas.",
+    "Shape the dough into 8 oblong rolls about 4 inches long.",
+    "Wrap each roll in two corn husks and tie the ends with thin strips of husk.",
+    "Drop the bundles into the boiling water and simmer for 40–45 minutes until firm.",
+    "Drain, unwrap, and serve warm with butter or alongside pork and greens."
+   ],
+   "mealTypes": [
+    "Bread",
+    "Side Dish"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "cornmeal",
+    "corn husk",
+    "peas",
+    "choctaw"
+   ],
+   "photoQuery": "Choctaw banaha"
+  },
+  {
+   "title": "Pueblo Green Chile Stew",
+   "description": "A soul-warming stew of roasted green chile, pork, and potatoes, cooked in kitchens across the New Mexico Pueblos every fall chile harvest.",
+   "servings": 6,
+   "prepMinutes": 20,
+   "cookMinutes": 90,
+   "ingredients": [
+    "2 lb pork shoulder, cut into 1-inch cubes",
+    "1 tsp salt",
+    "2 tbsp vegetable oil",
+    "1 onion, chopped",
+    "3 cloves garlic, minced",
+    "2 cups roasted, peeled, and chopped green chiles (mild or hot)",
+    "4 medium potatoes, cubed",
+    "6 cups chicken broth or water",
+    "1/2 tsp ground cumin",
+    "1/2 tsp dried oregano"
+   ],
+   "steps": [
+    "Season the pork with the salt.",
+    "Heat the oil in a large pot over medium-high heat and brown the pork in batches; set aside.",
+    "Add the onion and cook for 5 minutes, then add the garlic and cook 1 minute.",
+    "Return the pork to the pot with the broth, cumin, and oregano and bring to a boil.",
+    "Reduce the heat, cover, and simmer for 45 minutes.",
+    "Add the green chiles and potatoes and simmer, uncovered, for 30 minutes until the potatoes are tender.",
+    "Taste for salt and serve with warm tortillas or oven bread."
+   ],
+   "mealTypes": [
+    "Entree",
+    "Soup & Salad"
+   ],
+   "seasons": [
+    "Fall",
+    "Winter"
+   ],
+   "holidays": [],
+   "keywords": [
+    "green chile",
+    "pork",
+    "stew",
+    "pueblo"
+   ],
+   "photoQuery": "green chile stew"
+  },
+  {
+   "title": "Pueblo Oven Bread",
+   "description": "A slightly sweet, beehive-oven style yeast bread baked by Pueblo families in outdoor adobe hornos, adapted here for a home oven.",
+   "servings": 16,
+   "prepMinutes": 30,
+   "cookMinutes": 45,
+   "ingredients": [
+    "1 package (2 1/4 tsp) active dry yeast",
+    "1/4 cup warm water (110°F / 43°C)",
+    "2 tbsp lard or vegetable shortening, melted",
+    "2 tbsp honey",
+    "1 1/2 tsp salt",
+    "1 3/4 cups warm water",
+    "6 cups all-purpose flour"
+   ],
+   "steps": [
+    "Dissolve the yeast in 1/4 cup warm water and let stand for 10 minutes until foamy.",
+    "In a large bowl, combine the melted lard, honey, salt, and 1 3/4 cups warm water.",
+    "Add the yeast mixture, then stir in the flour a cup at a time to make a stiff dough.",
+    "Knead on a floured surface for 10 minutes until smooth and elastic.",
+    "Place in an oiled bowl, cover, and let rise for 1 1/2 hours until doubled.",
+    "Punch down, divide in half, and shape each half into a round loaf; for the traditional 'paw' shape, cut a deep slash partway into one side and spread the sections.",
+    "Place on greased baking sheets, cover, and let rise 30 minutes.",
+    "Bake at 375°F (190°C) for 40–45 minutes until golden brown and hollow-sounding when tapped.",
+    "Cool on racks before slicing."
+   ],
+   "mealTypes": [
+    "Bread"
+   ],
+   "seasons": [],
+   "holidays": [
+    "Thanksgiving",
+    "Christmas"
+   ],
+   "keywords": [
+    "yeast bread",
+    "horno",
+    "pueblo",
+    "baked"
+   ],
+   "photoQuery": "Pueblo oven bread"
+  },
+  {
+   "title": "Venison Jerky",
+   "description": "Thin strips of venison seasoned and slowly dried, a preservation method practiced by Indigenous hunters across North America for millennia.",
+   "servings": 8,
+   "prepMinutes": 20,
+   "cookMinutes": 300,
+   "ingredients": [
+    "2 lb lean venison roast, trimmed of all fat",
+    "2 tsp kosher salt",
+    "1 tsp black pepper",
+    "1 tsp garlic powder",
+    "1/2 tsp onion powder",
+    "1 tbsp maple syrup or brown sugar (optional)",
+    "1/2 cup water"
+   ],
+   "steps": [
+    "Freeze the venison for 1 hour so it is firm and easier to slice.",
+    "Cut the meat with the grain into strips 1/4 inch thick.",
+    "Mix the salt, pepper, garlic powder, onion powder, maple syrup, and water and toss the strips to coat.",
+    "Cover and refrigerate for 6 hours or overnight.",
+    "Preheat the oven to 175°F (80°C) and set wire racks over foil-lined baking sheets.",
+    "Pat the strips dry and lay them in a single layer on the racks without touching.",
+    "Dry in the oven with the door propped open slightly for 4–5 hours, until the jerky bends and cracks but does not snap.",
+    "Cool completely and store in an airtight container in the refrigerator for up to 2 weeks."
+   ],
+   "mealTypes": [
+    "Appetizer"
+   ],
+   "seasons": [
+    "Fall"
+   ],
+   "holidays": [],
+   "keywords": [
+    "venison",
+    "jerky",
+    "dried meat",
+    "snack"
+   ],
+   "photoQuery": "venison jerky"
+  },
+  {
+   "title": "Sautéed Fiddleheads",
+   "description": "Tender coiled ostrich-fern shoots, a spring delicacy gathered by the Wolastoqiyik (Maliseet) and Mi'kmaq of the Maritimes and Maine, sautéed with wild garlic.",
+   "servings": 4,
+   "prepMinutes": 15,
+   "cookMinutes": 15,
+   "ingredients": [
+    "1 lb fresh fiddleheads",
+    "1 tbsp salt, for the cooking water",
+    "2 tbsp butter or sunflower oil",
+    "2 cloves garlic or 4 ramps, thinly sliced",
+    "1/4 tsp salt",
+    "1/4 tsp black pepper",
+    "1 tsp lemon juice or apple cider vinegar"
+   ],
+   "steps": [
+    "Trim the brown ends from the fiddleheads and rub off any papery brown scales.",
+    "Wash them in several changes of cold water.",
+    "Boil in salted water for 10–12 minutes until tender (fiddleheads should always be fully cooked), then drain.",
+    "Melt the butter in a skillet over medium heat and sauté the garlic or ramps for 1 minute.",
+    "Add the fiddleheads and cook for 3–4 minutes, tossing, until lightly browned.",
+    "Season with salt, pepper, and lemon juice and serve hot."
+   ],
+   "mealTypes": [
+    "Side Dish"
+   ],
+   "seasons": [
+    "Spring"
+   ],
+   "holidays": [
+    "Easter"
+   ],
+   "keywords": [
+    "fiddleheads",
+    "foraged",
+    "greens",
+    "vegetarian"
+   ],
+   "photoQuery": "fiddlehead ferns"
+  },
+  {
+   "title": "Wampanoag Clambake in a Pot",
+   "description": "The coastal New England appanaug, a feast of shellfish, corn, and potatoes steamed over seaweed, adapted to a large stockpot.",
+   "servings": 6,
+   "prepMinutes": 20,
+   "cookMinutes": 35,
+   "ingredients": [
+    "2 lb small red potatoes",
+    "2 onions, quartered",
+    "1 lb smoked sausage or linguiça, cut into chunks (optional)",
+    "2 cups water",
+    "6 ears corn, husked and halved",
+    "4 lb littleneck or steamer clams, scrubbed",
+    "2 lb mussels, scrubbed and debearded",
+    "2 large handfuls of rinsed rockweed seaweed (optional)",
+    "1/2 cup melted butter",
+    "2 lemons, cut into wedges"
+   ],
+   "steps": [
+    "Place the potatoes, onions, and sausage in the bottom of a very large stockpot with the water.",
+    "Cover with the seaweed, if using, which adds steam and ocean flavor.",
+    "Bring to a boil over high heat, cover tightly, and steam for 15 minutes.",
+    "Add the corn on top, cover, and steam 5 minutes more.",
+    "Add the clams and mussels, cover, and steam for 8–10 minutes until the shells open; discard any that stay closed.",
+    "Lift everything onto a large platter or newspaper-covered table.",
+    "Serve with melted butter, lemon wedges, and the pot broth for dipping."
+   ],
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [
+    "Summer"
+   ],
+   "holidays": [
+    "Fourth of July"
+   ],
+   "keywords": [
+    "clams",
+    "shellfish",
+    "corn",
+    "steamed"
+   ],
+   "photoQuery": "clambake"
+  },
+  {
+   "title": "Akutaq (Yup'ik Berry Whip)",
+   "description": "A whipped Alaskan dessert of fat and wild berries made by Yup'ik and Iñupiat families; this home version uses vegetable shortening, a common modern substitute.",
+   "servings": 8,
+   "prepMinutes": 20,
+   "cookMinutes": 0,
+   "ingredients": [
+    "1 cup vegetable shortening (or rendered caribou or moose fat, traditionally)",
+    "1/4 cup cold water or seal oil",
+    "1/2 cup sugar",
+    "3 cups mixed berries (cloudberries, salmonberries, blueberries, or cranberries)"
+   ],
+   "steps": [
+    "Place the shortening in a large bowl.",
+    "Beat by hand or with a mixer, adding the cold water a little at a time, until light, white, and fluffy, about 5 minutes.",
+    "Beat in the sugar until dissolved.",
+    "Gently fold in the berries until evenly mixed.",
+    "Spoon into a serving bowl and chill for 30 minutes before serving."
+   ],
+   "mealTypes": [
+    "Dessert"
+   ],
+   "seasons": [
+    "Summer",
+    "Fall"
+   ],
+   "holidays": [],
+   "keywords": [
+    "berries",
+    "whipped",
+    "alaska",
+    "yupik"
+   ],
+   "photoQuery": "akutaq Eskimo ice cream"
+  },
+  {
+   "title": "Stuffed Squash Blossoms",
+   "description": "Delicate squash blossoms filled with a corn and cheese mixture and pan-fried, celebrating a summer harvest prized by the Pueblo peoples and Indigenous farmers across the Southwest.",
+   "servings": 4,
+   "prepMinutes": 20,
+   "cookMinutes": 15,
+   "ingredients": [
+    "12 large squash blossoms",
+    "1 cup fresh corn kernels",
+    "1/2 cup crumbled fresh cheese or ricotta",
+    "2 tbsp chopped roasted green chile",
+    "1/4 tsp salt",
+    "1/2 cup blue or yellow cornmeal",
+    "1 large egg, beaten",
+    "3 tbsp sunflower oil"
+   ],
+   "steps": [
+    "Gently open each blossom, pinch out the stamen, and check for insects.",
+    "Mix the corn, cheese, green chile, and salt.",
+    "Spoon about 1 tablespoon of filling into each blossom and twist the petal tips to close.",
+    "Dip each blossom in beaten egg and roll in cornmeal.",
+    "Heat the oil in a large skillet over medium heat.",
+    "Fry the blossoms for 2 minutes per side until golden and crisp.",
+    "Drain on paper towels and serve warm."
+   ],
+   "mealTypes": [
+    "Appetizer",
+    "Side Dish"
+   ],
+   "seasons": [
+    "Summer"
+   ],
+   "holidays": [],
+   "keywords": [
+    "squash blossoms",
+    "corn",
+    "stuffed",
+    "vegetarian"
+   ],
+   "photoQuery": "stuffed squash blossoms"
+  },
+  {
+   "title": "Hidatsa Stuffed Pumpkin",
+   "description": "A whole sugar pumpkin baked with a filling of bison, wild rice, and sunflower seeds, inspired by the Hidatsa and Mandan gardeners of the upper Missouri River.",
+   "servings": 6,
+   "prepMinutes": 25,
+   "cookMinutes": 90,
+   "ingredients": [
+    "1 sugar pumpkin (about 4 lb)",
+    "1 tsp salt, divided",
+    "1 lb ground bison or beef",
+    "1 onion, diced",
+    "2 cloves garlic, minced",
+    "1 1/2 cups cooked wild rice",
+    "1/2 cup toasted sunflower seeds",
+    "2 tbsp chopped fresh sage or 2 tsp dried",
+    "1/2 tsp black pepper",
+    "2 large eggs, beaten"
+   ],
+   "steps": [
+    "Preheat the oven to 350°F (175°C).",
+    "Cut a lid from the top of the pumpkin, scoop out the seeds and strings, and sprinkle the inside with 1/2 tsp salt.",
+    "Brown the bison with the onion in a skillet over medium-high heat for 8 minutes; add the garlic for the last minute and drain the fat.",
+    "Stir in the wild rice, sunflower seeds, sage, pepper, and remaining salt, and let cool slightly.",
+    "Mix in the eggs to bind the stuffing.",
+    "Pack the stuffing into the pumpkin, replace the lid, and set it in a baking dish with 1/2 inch of water.",
+    "Bake for 1 1/2 hours, until the pumpkin flesh is tender when pierced.",
+    "Cut into wedges, serving some pumpkin and stuffing with each slice."
+   ],
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [
+    "Fall"
+   ],
+   "holidays": [
+    "Thanksgiving",
+    "Halloween"
+   ],
+   "keywords": [
+    "pumpkin",
+    "bison",
+    "wild rice",
+    "stuffed"
+   ],
+   "photoQuery": "stuffed pumpkin"
+  },
+  {
+   "title": "Rose Hip Tea",
+   "description": "A tangy, vitamin-rich tea from wild rose hips, gathered after the first frost and steeped by many Indigenous nations across the north for winter wellness.",
+   "servings": 4,
+   "prepMinutes": 5,
+   "cookMinutes": 15,
+   "ingredients": [
+    "1/2 cup dried rose hips, lightly crushed, or 1 cup fresh rose hips, halved and seeded",
+    "4 cups water",
+    "1 to 2 tbsp honey or maple syrup (optional)"
+   ],
+   "steps": [
+    "Place the rose hips and water in a saucepan.",
+    "Bring to a boil, then reduce the heat and simmer for 10–15 minutes.",
+    "Remove from the heat and steep for 5 minutes more.",
+    "Strain through a fine sieve lined with cheesecloth to remove the fine hairs.",
+    "Sweeten with honey or maple syrup if desired and serve hot."
+   ],
+   "mealTypes": [
+    "Beverage"
+   ],
+   "seasons": [
+    "Fall",
+    "Winter"
+   ],
+   "holidays": [],
+   "keywords": [
+    "rose hips",
+    "tea",
+    "foraged",
+    "hot drink"
+   ],
+   "photoQuery": "rose hip tea"
+  },
+  {
+   "title": "Maple Sugar on Snow",
+   "description": "Hot maple syrup boiled to the soft-ball stage and poured over clean snow to make chewy taffy, a sugaring-season treat from the Anishinaabe and Haudenosaunee maple camps.",
+   "servings": 6,
+   "prepMinutes": 5,
+   "cookMinutes": 15,
+   "ingredients": [
+    "2 cups pure maple syrup",
+    "1 tbsp butter (optional, to prevent boil-over)",
+    "6 cups packed clean snow or finely shaved ice"
+   ],
+   "steps": [
+    "Pack the snow firmly into a large shallow pan and keep it in the freezer or outside until needed.",
+    "Heat the maple syrup and butter in a heavy saucepan over medium heat.",
+    "Boil without stirring until the syrup reaches 235°F (113°C) on a candy thermometer, about 10–15 minutes.",
+    "Remove from the heat and let stand 1 minute.",
+    "Drizzle the hot syrup in thin lines over the snow.",
+    "After a few seconds, roll each strand up onto a fork or popsicle stick and eat right away."
+   ],
+   "mealTypes": [
+    "Dessert"
+   ],
+   "seasons": [
+    "Winter",
+    "Spring"
+   ],
+   "holidays": [],
+   "keywords": [
+    "maple",
+    "taffy",
+    "candy",
+    "snow"
+   ],
+   "photoQuery": "maple taffy on snow"
+  },
+  {
+   "title": "Cornmeal-Crusted Walleye",
+   "description": "Freshly caught walleye fillets dredged in cornmeal and pan-fried, a lake-country favorite among the Ojibwe and other Great Lakes nations.",
+   "servings": 4,
+   "prepMinutes": 10,
+   "cookMinutes": 15,
+   "ingredients": [
+    "4 walleye fillets (6 oz each)",
+    "1 cup milk",
+    "3/4 cup yellow cornmeal",
+    "1/4 cup all-purpose flour",
+    "1 tsp salt",
+    "1/2 tsp black pepper",
+    "1/2 tsp paprika",
+    "1/3 cup sunflower or vegetable oil",
+    "1 lemon, cut into wedges"
+   ],
+   "steps": [
+    "Soak the walleye fillets in the milk for 10 minutes.",
+    "Mix the cornmeal, flour, salt, pepper, and paprika in a shallow dish.",
+    "Lift each fillet from the milk, let the excess drip off, and press it into the cornmeal mixture to coat both sides.",
+    "Heat the oil in a large cast-iron skillet over medium-high heat until shimmering.",
+    "Fry the fillets for 3–4 minutes per side until golden and the fish flakes easily.",
+    "Drain briefly on paper towels and serve with lemon wedges and wild rice."
+   ],
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [
+    "Spring",
+    "Summer"
+   ],
+   "holidays": [],
+   "keywords": [
+    "walleye",
+    "fish",
+    "cornmeal",
+    "pan-fried"
+   ],
+   "photoQuery": "fried walleye"
+  },
+  {
+   "title": "Eastern Woodlands Venison Stew",
+   "description": "Venison slowly simmered with corn, beans, squash, and wild herbs, reflecting the hunting and farming traditions of the Eastern Woodlands nations.",
+   "servings": 6,
+   "prepMinutes": 20,
+   "cookMinutes": 150,
+   "ingredients": [
+    "2 lb venison shoulder, cut into 1 1/2-inch cubes",
+    "1 tsp salt",
+    "1/2 tsp black pepper",
+    "2 tbsp sunflower oil",
+    "1 onion, chopped",
+    "6 cups water or venison/beef broth",
+    "1 tsp dried sage",
+    "1/2 tsp dried thyme",
+    "2 cups cubed butternut squash",
+    "1 1/2 cups cooked kidney or cranberry beans",
+    "1 1/2 cups corn kernels",
+    "1 tbsp maple syrup"
+   ],
+   "steps": [
+    "Season the venison with salt and pepper.",
+    "Heat the oil in a heavy pot over medium-high heat and brown the meat in batches; set aside.",
+    "Add the onion and cook for 5 minutes until softened.",
+    "Return the venison to the pot with the broth, sage, and thyme and bring to a boil.",
+    "Reduce the heat, cover, and simmer gently for 1 3/4 hours until the venison is tender.",
+    "Add the squash and simmer for 20 minutes.",
+    "Stir in the beans, corn, and maple syrup and simmer 10 minutes more.",
+    "Adjust the seasoning and serve hot."
+   ],
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [
+    "Fall",
+    "Winter"
+   ],
+   "holidays": [],
+   "keywords": [
+    "venison",
+    "stew",
+    "three sisters",
+    "game"
+   ],
+   "photoQuery": "venison stew"
+  },
+  {
+   "title": "Sofkee",
+   "description": "A mildly sour, thin corn drink of the Muscogee (Creek) and Seminole peoples, made from cracked hominy and enjoyed warm or cool with meals.",
+   "servings": 6,
+   "prepMinutes": 10,
+   "cookMinutes": 90,
+   "ingredients": [
+    "1 cup cracked hominy grits (coarse)",
+    "8 cups water",
+    "1/2 tsp baking soda (to stand in for traditional wood-ash lye)",
+    "1/2 tsp salt"
+   ],
+   "steps": [
+    "Rinse the grits in a strainer.",
+    "Bring the water to a boil in a large pot and stir in the grits, baking soda, and salt.",
+    "Reduce the heat to low and simmer, stirring occasionally, for 1 1/2 hours, adding water as needed to keep it thin and drinkable.",
+    "The corn should be very soft and the liquid creamy and pourable.",
+    "Serve warm, or let stand at room temperature for a day to develop the traditional slightly sour flavor, then refrigerate."
+   ],
+   "mealTypes": [
+    "Beverage"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "hominy",
+    "corn drink",
+    "muscogee",
+    "seminole"
+   ],
+   "photoQuery": "sofkee"
+  },
+  {
+   "title": "Haudenosaunee Strawberry Drink",
+   "description": "A sweet, crushed strawberry drink served at the Haudenosaunee (Iroquois) Strawberry Festival, giving thanks for the first fruit of the year.",
+   "servings": 8,
+   "prepMinutes": 10,
+   "cookMinutes": 0,
+   "ingredients": [
+    "4 cups ripe strawberries, hulled",
+    "1/3 cup maple syrup",
+    "8 cups cold water"
+   ],
+   "steps": [
+    "Crush the strawberries in a large bowl with a potato masher until juicy but still a little chunky.",
+    "Stir in the maple syrup and let stand for 15 minutes.",
+    "Add the cold water and stir well.",
+    "Taste and add more maple syrup if needed.",
+    "Chill and serve over ice with some of the crushed berries in each glass."
+   ],
+   "mealTypes": [
+    "Beverage"
+   ],
+   "seasons": [
+    "Spring",
+    "Summer"
+   ],
+   "holidays": [],
+   "keywords": [
+    "strawberries",
+    "drink",
+    "maple",
+    "festival"
+   ],
+   "photoQuery": "strawberry drink"
+  },
+  {
+   "title": "Maple Roasted Sunchokes",
+   "description": "Sunchokes (Jerusalem artichokes), a native tuber cultivated by Eastern tribes, roasted with sage and maple until crisp outside and creamy inside.",
+   "servings": 4,
+   "prepMinutes": 10,
+   "cookMinutes": 35,
+   "ingredients": [
+    "1 1/2 lb sunchokes, scrubbed and cut into 1-inch pieces",
+    "2 tbsp sunflower oil",
+    "1 tbsp maple syrup",
+    "1 tbsp chopped fresh sage",
+    "1/2 tsp salt",
+    "1/4 tsp black pepper"
+   ],
+   "steps": [
+    "Preheat the oven to 425°F (220°C).",
+    "Toss the sunchokes with the oil, maple syrup, sage, salt, and pepper.",
+    "Spread in a single layer on a rimmed baking sheet.",
+    "Roast for 30–35 minutes, turning once, until browned and tender when pierced.",
+    "Serve hot."
+   ],
+   "mealTypes": [
+    "Side Dish"
+   ],
+   "seasons": [
+    "Fall",
+    "Winter"
+   ],
+   "holidays": [
+    "Thanksgiving"
+   ],
+   "keywords": [
+    "sunchokes",
+    "roasted",
+    "maple",
+    "vegetarian"
+   ],
+   "photoQuery": "roasted sunchokes"
+  },
+  {
+   "title": "Cherokee Ramps and Eggs",
+   "description": "Wild ramps fried with potatoes and scrambled eggs, a springtime breakfast tradition among the Eastern Band of Cherokee in the Smoky Mountains.",
+   "servings": 4,
+   "prepMinutes": 10,
+   "cookMinutes": 20,
+   "ingredients": [
+    "1 bunch ramps (about 20), cleaned",
+    "3 tbsp bacon fat or butter",
+    "2 medium potatoes, thinly sliced",
+    "1/2 tsp salt",
+    "6 large eggs, beaten",
+    "1/4 tsp black pepper"
+   ],
+   "steps": [
+    "Separate the ramp leaves from the white bulbs and stems and chop each separately.",
+    "Heat the bacon fat in a large skillet over medium heat.",
+    "Add the potatoes and salt and fry for 10–12 minutes, turning, until tender and golden.",
+    "Add the chopped ramp bulbs and cook for 2 minutes.",
+    "Stir in the ramp leaves and cook 1 minute until wilted.",
+    "Pour in the eggs and gently scramble with the vegetables until just set.",
+    "Season with pepper and serve hot."
+   ],
+   "mealTypes": [
+    "Breakfast"
+   ],
+   "seasons": [
+    "Spring"
+   ],
+   "holidays": [],
+   "keywords": [
+    "ramps",
+    "eggs",
+    "potatoes",
+    "foraged"
+   ],
+   "photoQuery": "ramps and eggs"
+  }
+ ]
+}

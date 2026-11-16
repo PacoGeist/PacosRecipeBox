@@ -1,0 +1,1321 @@
+{
+ "cuisine": "Mexican",
+ "selected": [
+  {
+   "page": "Cookbook:Guacamole I",
+   "mealTypes": [
+    "Appetizer"
+   ],
+   "seasons": [],
+   "holidays": [
+    "Cinco de Mayo",
+    "Game Day"
+   ],
+   "keywords": [
+    "avocado",
+    "guacamole",
+    "dip"
+   ]
+  },
+  {
+   "page": "Cookbook:Huevos Rancheros",
+   "mealTypes": [
+    "Breakfast"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "eggs",
+    "tortilla",
+    "ranchero sauce"
+   ]
+  },
+  {
+   "page": "Cookbook:Machacado con Huevo (Eggs with Shredded Beef)",
+   "mealTypes": [
+    "Breakfast"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "eggs",
+    "shredded beef",
+    "northern mexico"
+   ]
+  },
+  {
+   "page": "Cookbook:Camotes Enmielados (Mexican Sweet Yams)",
+   "mealTypes": [
+    "Dessert",
+    "Side Dish"
+   ],
+   "seasons": [
+    "Fall",
+    "Winter"
+   ],
+   "holidays": [],
+   "keywords": [
+    "sweet potato",
+    "piloncillo",
+    "cinnamon"
+   ]
+  },
+  {
+   "page": "Cookbook:Homemade Wheat Tortillas",
+   "mealTypes": [
+    "Bread"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "flour tortillas",
+    "flatbread",
+    "homemade"
+   ]
+  },
+  {
+   "page": "Cookbook:Homemade Corn Tortillas",
+   "mealTypes": [
+    "Bread"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "corn tortillas",
+    "masa",
+    "gluten-free"
+   ]
+  },
+  {
+   "page": "Cookbook:Homemade Tortilla Chips",
+   "mealTypes": [
+    "Appetizer"
+   ],
+   "seasons": [],
+   "holidays": [
+    "Game Day"
+   ],
+   "keywords": [
+    "tortilla chips",
+    "totopos",
+    "snack"
+   ]
+  },
+  {
+   "page": "Cookbook:Quesadilla",
+   "mealTypes": [
+    "Appetizer",
+    "Entree"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "cheese",
+    "tortilla",
+    "quick"
+   ]
+  },
+  {
+   "page": "Cookbook:Mango Avocado Salsa",
+   "mealTypes": [
+    "Appetizer"
+   ],
+   "seasons": [
+    "Summer"
+   ],
+   "holidays": [
+    "Cinco de Mayo"
+   ],
+   "keywords": [
+    "mango",
+    "avocado",
+    "salsa"
+   ]
+  },
+  {
+   "page": "Cookbook:Refried Beans",
+   "mealTypes": [
+    "Side Dish"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "beans",
+    "frijoles refritos",
+    "pinto"
+   ]
+  },
+  {
+   "page": "Cookbook:Menudo (Mexican Tripe and Hominy Soup)",
+   "mealTypes": [
+    "Soup & Salad",
+    "Entree"
+   ],
+   "seasons": [
+    "Winter"
+   ],
+   "holidays": [
+    "New Year's"
+   ],
+   "keywords": [
+    "tripe",
+    "hominy",
+    "soup",
+    "spicy"
+   ]
+  },
+  {
+   "page": "Cookbook:New Mexico Pork Tamales",
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [
+    "Winter"
+   ],
+   "holidays": [
+    "Christmas"
+   ],
+   "keywords": [
+    "tamales",
+    "pork",
+    "masa"
+   ]
+  },
+  {
+   "page": "Cookbook:Black Bean Soup with Tomato-Tomatillo Salsa",
+   "mealTypes": [
+    "Soup & Salad"
+   ],
+   "seasons": [
+    "Fall",
+    "Winter"
+   ],
+   "holidays": [],
+   "keywords": [
+    "black beans",
+    "soup",
+    "tomatillo",
+    "vegetarian"
+   ]
+  },
+  {
+   "page": "Cookbook:Cochinita Pibil (Mexican Braised Pork)",
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "pork",
+    "yucatan",
+    "achiote",
+    "slow-roasted"
+   ]
+  },
+  {
+   "page": "Cookbook:Bizcochito (Cinnamon Anise Cookies) I",
+   "mealTypes": [
+    "Dessert"
+   ],
+   "seasons": [
+    "Winter"
+   ],
+   "holidays": [
+    "Christmas"
+   ],
+   "keywords": [
+    "cookies",
+    "anise",
+    "cinnamon"
+   ]
+  },
+  {
+   "page": "Cookbook:Chilaquiles",
+   "mealTypes": [
+    "Breakfast"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "tortillas",
+    "salsa",
+    "eggs"
+   ]
+  },
+  {
+   "page": "Cookbook:Churros I",
+   "mealTypes": [
+    "Dessert"
+   ],
+   "seasons": [],
+   "holidays": [
+    "Cinco de Mayo"
+   ],
+   "keywords": [
+    "churros",
+    "fried dough",
+    "cinnamon"
+   ]
+  },
+  {
+   "page": "Cookbook:Enchiladas Rojas",
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "enchiladas",
+    "ancho chile",
+    "chorizo"
+   ]
+  },
+  {
+   "page": "Cookbook:Mexican Chocolate Cake with Mocha Buttercream",
+   "mealTypes": [
+    "Dessert"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "chocolate",
+    "cinnamon",
+    "cake"
+   ]
+  },
+  {
+   "page": "Cookbook:Salsa (recipe)",
+   "mealTypes": [
+    "Appetizer",
+    "Side Dish"
+   ],
+   "seasons": [],
+   "holidays": [
+    "Cinco de Mayo",
+    "Game Day"
+   ],
+   "keywords": [
+    "salsa",
+    "tomato",
+    "serrano"
+   ]
+  },
+  {
+   "page": "Cookbook:Pico de Gallo",
+   "mealTypes": [
+    "Appetizer",
+    "Side Dish"
+   ],
+   "seasons": [
+    "Summer"
+   ],
+   "holidays": [
+    "Cinco de Mayo"
+   ],
+   "keywords": [
+    "tomato",
+    "salsa fresca",
+    "fresh"
+   ]
+  },
+  {
+   "page": "Cookbook:Buñuelos (Sweet Fried Pastry)",
+   "mealTypes": [
+    "Dessert"
+   ],
+   "seasons": [
+    "Winter"
+   ],
+   "holidays": [
+    "Christmas",
+    "New Year's"
+   ],
+   "keywords": [
+    "fritters",
+    "cinnamon sugar",
+    "fried"
+   ]
+  },
+  {
+   "page": "Cookbook:Chalupa",
+   "mealTypes": [
+    "Entree",
+    "Appetizer"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "tostada",
+    "beans",
+    "queso fresco"
+   ]
+  },
+  {
+   "page": "Cookbook:Chiles en Nogada (Stuffed Chile Peppers with Almonds)",
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [
+    "Summer",
+    "Fall"
+   ],
+   "holidays": [],
+   "keywords": [
+    "poblano",
+    "walnut sauce",
+    "pomegranate",
+    "stuffed peppers"
+   ]
+  },
+  {
+   "page": "Cookbook:Horchata",
+   "mealTypes": [
+    "Beverage"
+   ],
+   "seasons": [
+    "Summer"
+   ],
+   "holidays": [
+    "Cinco de Mayo"
+   ],
+   "keywords": [
+    "rice drink",
+    "almond",
+    "cinnamon"
+   ]
+  },
+  {
+   "page": "Cookbook:Mexican Rice II",
+   "mealTypes": [
+    "Side Dish"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "rice",
+    "arroz rojo",
+    "chile"
+   ]
+  },
+  {
+   "page": "Cookbook:Tres Leches Cake I",
+   "mealTypes": [
+    "Dessert"
+   ],
+   "seasons": [],
+   "holidays": [
+    "Cinco de Mayo"
+   ],
+   "keywords": [
+    "cake",
+    "milk",
+    "sponge cake"
+   ]
+  },
+  {
+   "page": "Cookbook:Cheese Enchilada",
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "enchiladas",
+    "cheese",
+    "chili gravy",
+    "vegetarian"
+   ]
+  },
+  {
+   "page": "Cookbook:Beef Fajitas",
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [
+    "Summer"
+   ],
+   "holidays": [
+    "Cinco de Mayo"
+   ],
+   "keywords": [
+    "skirt steak",
+    "grilled",
+    "peppers"
+   ]
+  },
+  {
+   "page": "Cookbook:Tortilla Soup",
+   "mealTypes": [
+    "Soup & Salad"
+   ],
+   "seasons": [
+    "Fall",
+    "Winter"
+   ],
+   "holidays": [],
+   "keywords": [
+    "chicken",
+    "soup",
+    "tortilla"
+   ]
+  },
+  {
+   "page": "Cookbook:Picadillo (Beef with Potatoes and Tomatoes)",
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "ground beef",
+    "potatoes",
+    "taco filling"
+   ]
+  },
+  {
+   "page": "Cookbook:Red Chile Sauce",
+   "mealTypes": [
+    "Side Dish"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "chile sauce",
+    "enchilada sauce",
+    "dried chiles"
+   ]
+  },
+  {
+   "page": "Cookbook:Nachos",
+   "mealTypes": [
+    "Appetizer"
+   ],
+   "seasons": [],
+   "holidays": [
+    "Game Day"
+   ],
+   "keywords": [
+    "tortilla chips",
+    "cheese",
+    "snack"
+   ]
+  }
+ ],
+ "original": [
+  {
+   "title": "Pozole Rojo",
+   "description": "A festive red-chile pork and hominy stew from Jalisco and Guerrero, served with a spread of crunchy garnishes so everyone can top their own bowl.",
+   "servings": 8,
+   "prepMinutes": 30,
+   "cookMinutes": 150,
+   "ingredients": [
+    "3 lb boneless pork shoulder, cut into 2-inch chunks",
+    "1 white onion, halved",
+    "6 cloves garlic, divided",
+    "2 bay leaves",
+    "1 tbsp kosher salt, plus more to taste",
+    "12 cups water",
+    "# For the chile sauce",
+    "4 dried guajillo chiles, stemmed and seeded",
+    "3 dried ancho chiles, stemmed and seeded",
+    "2 cups hot water",
+    "1 tsp dried Mexican oregano",
+    "1/2 tsp ground cumin",
+    "1 tbsp vegetable oil",
+    "2 cans (25 oz each) white hominy, drained and rinsed",
+    "# For serving",
+    "2 cups finely shredded green cabbage",
+    "8 radishes, thinly sliced",
+    "1/2 cup diced white onion",
+    "2 limes, cut into wedges",
+    "2 tsp dried Mexican oregano",
+    "1 tsp ground chile piquín or red pepper flakes",
+    "12 tostadas"
+   ],
+   "steps": [
+    "Place the pork, halved onion, 3 garlic cloves, bay leaves, salt, and water in a large pot and bring to a boil, skimming off any foam.",
+    "Reduce the heat to low, partially cover, and simmer for 1 1/2 hours, until the pork is nearly tender.",
+    "Meanwhile, toast the dried chiles in a dry skillet over medium heat for about 20 seconds per side, until fragrant but not burnt.",
+    "Soak the toasted chiles in 2 cups hot water for 20 minutes, until soft.",
+    "Blend the chiles and their soaking water with the remaining 3 garlic cloves, oregano, and cumin until completely smooth, then strain through a sieve.",
+    "Heat the oil in a skillet over medium heat, add the chile purée, and fry, stirring, for 5 minutes until it darkens slightly.",
+    "Remove the onion and bay leaves from the pot, then stir in the chile sauce and the hominy.",
+    "Simmer for 45 minutes more, until the pork is very tender and the hominy has bloomed; season with salt.",
+    "Ladle into bowls and serve with cabbage, radishes, onion, lime wedges, oregano, chile, and tostadas on the side."
+   ],
+   "mealTypes": [
+    "Soup & Salad",
+    "Entree"
+   ],
+   "seasons": [
+    "Fall",
+    "Winter"
+   ],
+   "holidays": [
+    "Christmas",
+    "New Year's"
+   ],
+   "keywords": [
+    "pozole",
+    "pork",
+    "hominy",
+    "stew"
+   ],
+   "photoQuery": "pozole rojo"
+  },
+  {
+   "title": "Mole Poblano with Chicken",
+   "description": "Puebla's celebrated dark mole: dried chiles, nuts, seeds, spices, and Mexican chocolate ground into a rich, complex sauce served over poached chicken.",
+   "servings": 8,
+   "prepMinutes": 45,
+   "cookMinutes": 120,
+   "ingredients": [
+    "# For the chicken",
+    "4 lb bone-in chicken pieces",
+    "1/2 white onion",
+    "2 cloves garlic",
+    "1 tsp salt",
+    "8 cups water",
+    "# For the mole",
+    "4 dried ancho chiles, stemmed and seeded",
+    "4 dried mulato chiles, stemmed and seeded",
+    "3 dried pasilla chiles, stemmed and seeded",
+    "1/4 cup lard or vegetable oil, divided",
+    "1/3 cup blanched almonds",
+    "1/4 cup raw peanuts",
+    "3 tbsp sesame seeds, plus more for garnish",
+    "1/4 cup raisins",
+    "1 corn tortilla, torn",
+    "1 slice white bread, torn",
+    "1/2 white onion, chopped",
+    "4 cloves garlic",
+    "2 Roma tomatoes, roasted",
+    "1 tsp ground cinnamon",
+    "1/4 tsp ground cloves",
+    "1/4 tsp ground anise",
+    "1/2 tsp black pepper",
+    "1 1/2 oz Mexican chocolate (such as Ibarra), chopped",
+    "1 tbsp sugar",
+    "1 1/2 tsp salt"
+   ],
+   "steps": [
+    "Simmer the chicken with the onion, garlic, salt, and water for 35 minutes until cooked through; remove the chicken and reserve the broth.",
+    "Toast the chiles in a dry skillet for 15–20 seconds per side, then soak in hot water for 30 minutes and drain.",
+    "Heat 2 tbsp lard in the skillet over medium heat and fry the almonds, peanuts, and sesame seeds until golden, about 3 minutes; remove to a bowl.",
+    "In the same fat, fry the raisins until puffed, then the tortilla and bread until crisp, and add them to the bowl.",
+    "Sauté the onion and garlic until soft, about 5 minutes, and add to the bowl along with the roasted tomatoes and spices.",
+    "Blend the soaked chiles with 2 cups of the reserved broth until very smooth, then strain.",
+    "Blend the nut, bread, and tomato mixture with 2 more cups of broth until smooth.",
+    "Heat the remaining 2 tbsp lard in a large heavy pot over medium heat, add the chile purée, and fry, stirring constantly, for 10 minutes.",
+    "Add the nut purée, chocolate, sugar, and salt, then thin with 2 cups broth and simmer gently for 45 minutes, stirring often, until thick enough to coat a spoon.",
+    "Add the chicken to the sauce and simmer 10 minutes to heat through, thinning with broth if needed.",
+    "Serve sprinkled with toasted sesame seeds, with rice and warm tortillas."
+   ],
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [],
+   "holidays": [
+    "Cinco de Mayo",
+    "Christmas"
+   ],
+   "keywords": [
+    "mole",
+    "chicken",
+    "chocolate",
+    "chiles"
+   ],
+   "photoQuery": "mole poblano"
+  },
+  {
+   "title": "Carnitas",
+   "description": "Michoacán-style pork shoulder simmered in its own fat with orange and spices until meltingly tender, then crisped for tacos.",
+   "servings": 8,
+   "prepMinutes": 20,
+   "cookMinutes": 180,
+   "ingredients": [
+    "4 lb boneless pork shoulder, cut into 2-inch chunks",
+    "2 tsp kosher salt",
+    "1 tsp ground cumin",
+    "1 tsp dried Mexican oregano",
+    "1 cup lard",
+    "1 white onion, quartered",
+    "6 cloves garlic, smashed",
+    "2 bay leaves",
+    "1 orange, juiced, peel reserved",
+    "1 cup water",
+    "# For serving",
+    "24 corn tortillas, warmed",
+    "1/2 cup chopped white onion",
+    "1/2 cup chopped cilantro",
+    "2 limes, cut into wedges",
+    "1 cup salsa verde"
+   ],
+   "steps": [
+    "Season the pork all over with the salt, cumin, and oregano.",
+    "Melt the lard in a large heavy Dutch oven over medium heat.",
+    "Add the pork, onion, garlic, bay leaves, orange juice, orange peel, and water.",
+    "Bring to a gentle simmer, cover, and cook over low heat for 2 1/2 hours, stirring occasionally, until the pork falls apart easily.",
+    "Uncover, raise the heat to medium, and cook for 15–20 minutes until the liquid evaporates and the pork begins to fry and brown in the fat.",
+    "Turn the pieces gently so they crisp on several sides, then lift them out with a slotted spoon and drain.",
+    "Discard the onion, peel, and bay leaves and coarsely shred the pork.",
+    "Serve in warm tortillas with onion, cilantro, lime, and salsa verde."
+   ],
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [],
+   "holidays": [
+    "Cinco de Mayo",
+    "Game Day"
+   ],
+   "keywords": [
+    "pork",
+    "tacos",
+    "braised",
+    "crispy"
+   ],
+   "photoQuery": "carnitas tacos"
+  },
+  {
+   "title": "Tacos al Pastor",
+   "description": "Mexico City's favorite street taco: thin slices of pork marinated in guajillo chiles and achiote, seared hot and served with sweet pineapple.",
+   "servings": 6,
+   "prepMinutes": 30,
+   "cookMinutes": 20,
+   "ingredients": [
+    "4 dried guajillo chiles, stemmed and seeded",
+    "1/2 cup pineapple juice",
+    "1/4 cup white vinegar",
+    "2 oz achiote paste",
+    "4 cloves garlic",
+    "1 tsp dried Mexican oregano",
+    "1 tsp ground cumin",
+    "1/4 tsp ground cloves",
+    "1 1/2 tsp salt",
+    "2 1/2 lb boneless pork shoulder, sliced 1/4 inch thick",
+    "2 tbsp vegetable oil",
+    "1/2 fresh pineapple, peeled, cored, and sliced into rings",
+    "18 small corn tortillas, warmed",
+    "1/2 cup finely chopped white onion",
+    "1/2 cup chopped cilantro",
+    "2 limes, cut into wedges"
+   ],
+   "steps": [
+    "Toast the guajillo chiles in a dry skillet for 20 seconds per side, then soak in hot water for 15 minutes and drain.",
+    "Blend the chiles with the pineapple juice, vinegar, achiote, garlic, oregano, cumin, cloves, and salt until smooth.",
+    "Toss the pork slices with the marinade, cover, and refrigerate for at least 4 hours or overnight.",
+    "Heat a large cast-iron skillet or griddle over high heat and grill the pineapple rings until charred on both sides, then chop them.",
+    "Add a little oil to the skillet and sear the pork in batches without crowding, 2–3 minutes per side, until caramelized and cooked through.",
+    "Rest the pork for 5 minutes, then chop it into small pieces.",
+    "Fill the warm tortillas with pork and top with pineapple, onion, cilantro, and a squeeze of lime."
+   ],
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [],
+   "holidays": [
+    "Cinco de Mayo"
+   ],
+   "keywords": [
+    "pork",
+    "tacos",
+    "pineapple",
+    "street food"
+   ],
+   "photoQuery": "tacos al pastor"
+  },
+  {
+   "title": "Carne Asada",
+   "description": "Northern Mexican grilled flank steak marinated in citrus, garlic, and chile, sliced thin for tacos or served with beans and grilled onions.",
+   "servings": 6,
+   "prepMinutes": 15,
+   "cookMinutes": 12,
+   "ingredients": [
+    "2 lb flank or skirt steak",
+    "1/2 cup orange juice",
+    "1/4 cup lime juice",
+    "1/4 cup olive oil",
+    "4 cloves garlic, minced",
+    "1 jalapeño, minced",
+    "1/2 cup chopped cilantro",
+    "1 tsp ground cumin",
+    "1 tsp chili powder",
+    "1 1/2 tsp kosher salt",
+    "1/2 tsp black pepper",
+    "8 green onions",
+    "12 corn tortillas",
+    "1 cup pico de gallo"
+   ],
+   "steps": [
+    "Whisk together the orange juice, lime juice, olive oil, garlic, jalapeño, cilantro, cumin, chili powder, salt, and pepper.",
+    "Place the steak in a shallow dish or zip-top bag, pour the marinade over it, and refrigerate for 2 to 8 hours.",
+    "Preheat a grill to high heat and oil the grates.",
+    "Remove the steak from the marinade and pat off excess liquid.",
+    "Grill the steak for 4–6 minutes per side for medium-rare, until well charred.",
+    "Grill the green onions alongside for 2–3 minutes until softened and blistered.",
+    "Let the steak rest for 10 minutes, then slice thinly against the grain.",
+    "Warm the tortillas on the grill and serve with the steak, green onions, and pico de gallo."
+   ],
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [
+    "Summer"
+   ],
+   "holidays": [
+    "Cinco de Mayo",
+    "Fourth of July"
+   ],
+   "keywords": [
+    "steak",
+    "grilled",
+    "beef",
+    "tacos"
+   ],
+   "photoQuery": "carne asada"
+  },
+  {
+   "title": "Elote (Mexican Street Corn)",
+   "description": "Grilled corn on the cob slathered with creamy mayo-crema, rolled in cotija cheese, and dusted with chile and lime, just like the street carts.",
+   "servings": 6,
+   "prepMinutes": 10,
+   "cookMinutes": 15,
+   "ingredients": [
+    "6 ears corn, husked",
+    "1/4 cup mayonnaise",
+    "1/4 cup Mexican crema or sour cream",
+    "1 clove garlic, finely grated",
+    "3/4 cup finely crumbled cotija cheese",
+    "1 tsp chili powder or tajín",
+    "2 tbsp chopped cilantro",
+    "2 limes, cut into wedges"
+   ],
+   "steps": [
+    "Preheat a grill to medium-high heat.",
+    "Grill the corn, turning every couple of minutes, for 10–12 minutes until tender and charred in spots.",
+    "Meanwhile, stir together the mayonnaise, crema, and garlic.",
+    "Spread the hot corn all over with the crema mixture.",
+    "Roll or sprinkle each ear with cotija cheese.",
+    "Dust with chili powder and sprinkle with cilantro.",
+    "Serve right away with lime wedges for squeezing."
+   ],
+   "mealTypes": [
+    "Side Dish",
+    "Appetizer"
+   ],
+   "seasons": [
+    "Summer"
+   ],
+   "holidays": [
+    "Cinco de Mayo",
+    "Fourth of July"
+   ],
+   "keywords": [
+    "corn",
+    "grilled",
+    "cotija",
+    "street food"
+   ],
+   "photoQuery": "elote Mexican street corn"
+  },
+  {
+   "title": "Sopa de Fideo",
+   "description": "A homey Mexican noodle soup of toasted thin pasta simmered in a tomato-chicken broth, a favorite comfort food in kitchens across the country.",
+   "servings": 4,
+   "prepMinutes": 10,
+   "cookMinutes": 25,
+   "ingredients": [
+    "2 Roma tomatoes",
+    "1/4 white onion",
+    "1 clove garlic",
+    "2 tbsp vegetable oil",
+    "7 oz fideo noodles or thin spaghetti broken into 1-inch pieces",
+    "6 cups chicken broth",
+    "1 sprig cilantro",
+    "1 tsp salt",
+    "1 avocado, diced",
+    "1/2 cup crumbled queso fresco",
+    "1 lime, cut into wedges"
+   ],
+   "steps": [
+    "Blend the tomatoes, onion, and garlic with 1/2 cup of the broth until smooth.",
+    "Heat the oil in a large pot over medium heat.",
+    "Add the fideo and stir constantly for 3–4 minutes until the noodles are evenly golden brown.",
+    "Carefully pour in the tomato purée (it will splatter) and cook, stirring, for 2 minutes.",
+    "Add the remaining broth, cilantro sprig, and salt and bring to a boil.",
+    "Reduce the heat and simmer for 8–10 minutes until the noodles are tender.",
+    "Remove the cilantro sprig, taste for salt, and serve topped with avocado, queso fresco, and lime."
+   ],
+   "mealTypes": [
+    "Soup & Salad"
+   ],
+   "seasons": [
+    "Fall",
+    "Winter"
+   ],
+   "holidays": [],
+   "keywords": [
+    "noodle soup",
+    "tomato",
+    "comfort food"
+   ],
+   "photoQuery": "sopa de fideo"
+  },
+  {
+   "title": "Tinga de Pollo Tostadas",
+   "description": "Shredded chicken stewed in a smoky chipotle-tomato sauce from Puebla, piled onto crisp tostadas with beans, crema, and fresh toppings.",
+   "servings": 6,
+   "prepMinutes": 20,
+   "cookMinutes": 40,
+   "ingredients": [
+    "1 1/2 lb boneless skinless chicken breasts or thighs",
+    "4 cups water",
+    "1 tsp salt",
+    "2 tbsp vegetable oil",
+    "1 large white onion, thinly sliced",
+    "2 cloves garlic, minced",
+    "1 can (14.5 oz) diced tomatoes",
+    "2 to 3 chipotle chiles in adobo, plus 1 tbsp adobo sauce",
+    "1/2 tsp dried Mexican oregano",
+    "12 tostada shells",
+    "1 1/2 cups refried beans, warmed",
+    "2 cups shredded lettuce",
+    "1/2 cup Mexican crema",
+    "1/2 cup crumbled queso fresco",
+    "1 avocado, sliced"
+   ],
+   "steps": [
+    "Simmer the chicken in the salted water for 20 minutes until cooked through, then cool and shred, reserving 1/2 cup of the broth.",
+    "Blend the tomatoes, chipotles, adobo sauce, and reserved broth until smooth.",
+    "Heat the oil in a large skillet over medium heat and cook the onion for 6–8 minutes until soft and lightly golden.",
+    "Add the garlic and cook for 1 minute.",
+    "Pour in the chipotle sauce and oregano and simmer for 5 minutes.",
+    "Stir in the shredded chicken and simmer 5 minutes more until the sauce clings to the meat; season with salt.",
+    "Spread each tostada with refried beans and top with the tinga.",
+    "Finish with lettuce, crema, queso fresco, and avocado and serve immediately."
+   ],
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [],
+   "holidays": [
+    "Cinco de Mayo"
+   ],
+   "keywords": [
+    "chicken",
+    "chipotle",
+    "tostadas",
+    "smoky"
+   ],
+   "photoQuery": "tinga de pollo tostadas"
+  },
+  {
+   "title": "Agua de Jamaica",
+   "description": "A ruby-red, tart-sweet hibiscus flower cooler that's one of Mexico's most beloved aguas frescas.",
+   "servings": 8,
+   "prepMinutes": 5,
+   "cookMinutes": 10,
+   "ingredients": [
+    "1 cup dried hibiscus flowers (flor de jamaica)",
+    "8 cups water, divided",
+    "3/4 cup sugar",
+    "1 tbsp lime juice"
+   ],
+   "steps": [
+    "Rinse the hibiscus flowers briefly in a strainer to remove any dust.",
+    "Bring 4 cups of the water to a boil in a saucepan, add the flowers, and boil for 5 minutes.",
+    "Remove from the heat, stir in the sugar until dissolved, and steep for 15 minutes.",
+    "Strain into a large pitcher, pressing on the flowers, and discard them.",
+    "Add the remaining 4 cups cold water and the lime juice, then taste and adjust sweetness.",
+    "Chill thoroughly and serve over ice."
+   ],
+   "mealTypes": [
+    "Beverage"
+   ],
+   "seasons": [
+    "Summer"
+   ],
+   "holidays": [
+    "Cinco de Mayo"
+   ],
+   "keywords": [
+    "hibiscus",
+    "agua fresca",
+    "drink"
+   ],
+   "photoQuery": "agua de jamaica"
+  },
+  {
+   "title": "Champurrado",
+   "description": "A thick, warming chocolate atole thickened with masa and sweetened with piloncillo, traditionally sipped alongside tamales in the cold months.",
+   "servings": 6,
+   "prepMinutes": 5,
+   "cookMinutes": 20,
+   "ingredients": [
+    "1/2 cup masa harina",
+    "2 cups water",
+    "4 cups whole milk",
+    "1 cinnamon stick",
+    "4 oz piloncillo, chopped, or 1/2 cup packed dark brown sugar",
+    "3 oz Mexican chocolate, chopped",
+    "1/4 tsp salt"
+   ],
+   "steps": [
+    "Whisk the masa harina into the water until completely smooth with no lumps.",
+    "Heat the milk with the cinnamon stick and piloncillo in a saucepan over medium heat until steaming and the sugar dissolves.",
+    "Add the chocolate and whisk until melted.",
+    "Slowly pour in the masa mixture, whisking constantly.",
+    "Bring to a gentle simmer and cook, whisking often, for 8–10 minutes until thick and creamy.",
+    "Remove the cinnamon stick, add the salt, and serve hot."
+   ],
+   "mealTypes": [
+    "Beverage"
+   ],
+   "seasons": [
+    "Winter"
+   ],
+   "holidays": [
+    "Christmas",
+    "Halloween"
+   ],
+   "keywords": [
+    "chocolate",
+    "atole",
+    "masa",
+    "hot drink"
+   ],
+   "photoQuery": "champurrado"
+  },
+  {
+   "title": "Conchas",
+   "description": "Soft, slightly sweet Mexican breakfast buns crowned with a crackly sugar topping scored to look like a seashell.",
+   "servings": 12,
+   "prepMinutes": 40,
+   "cookMinutes": 20,
+   "ingredients": [
+    "# For the dough",
+    "1 cup whole milk, warmed to 110°F (43°C)",
+    "2 1/4 tsp active dry yeast (1 packet)",
+    "1/2 cup sugar",
+    "2 large eggs",
+    "1/2 cup butter, softened",
+    "1 tsp vanilla extract",
+    "1 tsp salt",
+    "4 cups all-purpose flour",
+    "# For the topping",
+    "2/3 cup all-purpose flour",
+    "2/3 cup powdered sugar",
+    "1/3 cup cold butter or vegetable shortening",
+    "1 tbsp cocoa powder (optional, for half the topping)",
+    "1 tsp vanilla extract"
+   ],
+   "steps": [
+    "Stir the yeast and 1 tbsp of the sugar into the warm milk and let stand 10 minutes until foamy.",
+    "In a stand mixer, combine the yeast mixture with the remaining sugar, eggs, butter, vanilla, and salt.",
+    "Gradually add the flour and knead with the dough hook for 8–10 minutes until the dough is smooth and slightly tacky.",
+    "Cover and let rise in a warm place for 1 1/2 hours until doubled.",
+    "Divide the dough into 12 pieces, roll into balls, and space them on two parchment-lined baking sheets.",
+    "For the topping, mix the flour, powdered sugar, butter, and vanilla into a smooth paste; knead cocoa into half if you like.",
+    "Divide the topping into 12 portions, flatten each into a thin disc, and press one onto each bun.",
+    "Score the topping with a knife in a curved shell pattern.",
+    "Cover loosely and let rise for 45 minutes until puffy.",
+    "Bake at 350°F (175°C) for 18–20 minutes until the bottoms are golden, then cool on a rack."
+   ],
+   "mealTypes": [
+    "Bread",
+    "Breakfast"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "pan dulce",
+    "sweet bread",
+    "buns"
+   ],
+   "photoQuery": "conchas pan dulce"
+  },
+  {
+   "title": "Arroz con Leche",
+   "description": "Creamy Mexican rice pudding perfumed with cinnamon and lime peel, enjoyed warm or chilled.",
+   "servings": 6,
+   "prepMinutes": 5,
+   "cookMinutes": 40,
+   "ingredients": [
+    "1 cup long-grain white rice",
+    "2 cups water",
+    "1 cinnamon stick",
+    "1 strip lime peel",
+    "4 cups whole milk",
+    "1 can (12 oz) evaporated milk",
+    "2/3 cup sugar",
+    "1/4 tsp salt",
+    "1 tsp vanilla extract",
+    "1/3 cup raisins (optional)",
+    "1 tsp ground cinnamon, for serving"
+   ],
+   "steps": [
+    "Rinse the rice in cold water until the water runs mostly clear.",
+    "Combine the rice, water, cinnamon stick, and lime peel in a heavy saucepan and bring to a boil.",
+    "Reduce the heat and simmer, uncovered, for about 10 minutes until most of the water is absorbed.",
+    "Stir in the milk, evaporated milk, sugar, and salt.",
+    "Simmer over low heat, stirring frequently, for 25–30 minutes until the rice is very tender and the pudding is creamy.",
+    "Remove the cinnamon stick and lime peel and stir in the vanilla and raisins.",
+    "Serve warm or chilled, dusted with ground cinnamon."
+   ],
+   "mealTypes": [
+    "Dessert"
+   ],
+   "seasons": [],
+   "holidays": [
+    "Christmas"
+   ],
+   "keywords": [
+    "rice pudding",
+    "cinnamon",
+    "creamy"
+   ],
+   "photoQuery": "arroz con leche"
+  },
+  {
+   "title": "Flan Napolitano",
+   "description": "Mexico's silky, dense caramel custard made with condensed and evaporated milk and a touch of cream cheese.",
+   "servings": 10,
+   "prepMinutes": 20,
+   "cookMinutes": 60,
+   "ingredients": [
+    "# For the caramel",
+    "3/4 cup sugar",
+    "3 tbsp water",
+    "# For the custard",
+    "1 can (14 oz) sweetened condensed milk",
+    "1 can (12 oz) evaporated milk",
+    "4 oz cream cheese, softened",
+    "5 large eggs",
+    "1 tbsp vanilla extract",
+    "1/8 tsp salt"
+   ],
+   "steps": [
+    "Preheat the oven to 350°F (175°C) and set a kettle of water to boil.",
+    "Cook the sugar and water in a small saucepan over medium heat, swirling but not stirring, until it turns a deep amber, about 8–10 minutes.",
+    "Immediately pour the caramel into a 9-inch round cake pan or flan mold and tilt to coat the bottom.",
+    "Blend the condensed milk, evaporated milk, cream cheese, eggs, vanilla, and salt until completely smooth.",
+    "Pour the custard through a strainer onto the set caramel.",
+    "Cover the pan with foil and set it in a larger roasting pan, then add hot water to come halfway up the sides.",
+    "Bake for 55–65 minutes, until the edges are set and the center jiggles slightly.",
+    "Cool to room temperature, then refrigerate for at least 6 hours or overnight.",
+    "Run a thin knife around the edge, invert onto a rimmed platter, and let the caramel pour over the top."
+   ],
+   "mealTypes": [
+    "Dessert"
+   ],
+   "seasons": [],
+   "holidays": [
+    "Cinco de Mayo",
+    "Christmas"
+   ],
+   "keywords": [
+    "flan",
+    "custard",
+    "caramel"
+   ],
+   "photoQuery": "flan napolitano"
+  },
+  {
+   "title": "Birria de Res",
+   "description": "Jalisco-style beef slow-braised in an adobo of dried chiles and warm spices, served as a rich stew or with its consommé for dipping tacos.",
+   "servings": 8,
+   "prepMinutes": 40,
+   "cookMinutes": 210,
+   "ingredients": [
+    "4 lb beef chuck roast and bone-in short ribs, cut into large chunks",
+    "2 tsp kosher salt",
+    "1 tbsp vegetable oil",
+    "# For the adobo",
+    "6 dried guajillo chiles, stemmed and seeded",
+    "3 dried ancho chiles, stemmed and seeded",
+    "2 dried chiles de árbol",
+    "3 Roma tomatoes",
+    "1/2 white onion",
+    "6 cloves garlic",
+    "2 tbsp apple cider vinegar",
+    "1 tsp dried Mexican oregano",
+    "1 tsp ground cumin",
+    "1/2 tsp ground cinnamon",
+    "1/4 tsp ground cloves",
+    "1/2 tsp black pepper",
+    "2 bay leaves",
+    "6 cups beef broth or water",
+    "# For serving",
+    "1/2 cup chopped white onion",
+    "1/2 cup chopped cilantro",
+    "2 limes, cut into wedges",
+    "16 corn tortillas"
+   ],
+   "steps": [
+    "Season the beef all over with the salt.",
+    "Heat the oil in a large Dutch oven over medium-high heat and brown the beef in batches, about 3 minutes per side; set aside.",
+    "Toast the dried chiles in a dry skillet for 20 seconds per side and simmer them with the tomatoes, onion, and garlic in water for 10 minutes until soft.",
+    "Drain and blend the chiles and vegetables with the vinegar, oregano, cumin, cinnamon, cloves, pepper, and 1 cup broth until smooth, then strain.",
+    "Return the beef to the pot, pour the adobo over it, and add the bay leaves and remaining broth.",
+    "Bring to a simmer, cover, and cook over low heat (or in a 325°F / 165°C oven) for 3 to 3 1/2 hours until the beef is fork-tender.",
+    "Remove the beef, shred it, and discard the bones; skim the fat from the broth and season the consommé with salt.",
+    "Serve the beef in bowls with consommé, or dip tortillas in the fat, fill with beef, and griddle until crisp for quesatacos-style tacos.",
+    "Garnish with onion, cilantro, and lime, with a cup of hot consommé on the side."
+   ],
+   "mealTypes": [
+    "Entree",
+    "Soup & Salad"
+   ],
+   "seasons": [
+    "Fall",
+    "Winter"
+   ],
+   "holidays": [
+    "Christmas",
+    "New Year's"
+   ],
+   "keywords": [
+    "beef",
+    "stew",
+    "chiles",
+    "tacos"
+   ],
+   "photoQuery": "birria de res"
+  },
+  {
+   "title": "Salsa Verde (Roasted Tomatillo Salsa)",
+   "description": "A bright, tangy green salsa of charred tomatillos, serrano chiles, garlic, and cilantro for tacos, chips, and enchiladas.",
+   "servings": 8,
+   "prepMinutes": 10,
+   "cookMinutes": 10,
+   "ingredients": [
+    "1 lb tomatillos, husked and rinsed",
+    "2 serrano chiles (or 1 jalapeño)",
+    "1/4 white onion, in one piece",
+    "2 cloves garlic, unpeeled",
+    "1/2 cup cilantro leaves and tender stems",
+    "1/2 tsp salt",
+    "1 tbsp lime juice"
+   ],
+   "steps": [
+    "Heat the broiler with a rack 4 inches from the element.",
+    "Spread the tomatillos, chiles, onion, and garlic on a foil-lined baking sheet.",
+    "Broil for 5–7 minutes, turn everything over, and broil 4–5 minutes more until charred and soft.",
+    "Peel the garlic and stem the chiles once cool enough to handle.",
+    "Blend everything, including the tomatillo juices, with the cilantro and salt to a slightly chunky purée.",
+    "Stir in the lime juice, taste for salt, and let cool before serving."
+   ],
+   "mealTypes": [
+    "Side Dish",
+    "Appetizer"
+   ],
+   "seasons": [],
+   "holidays": [
+    "Cinco de Mayo",
+    "Game Day"
+   ],
+   "keywords": [
+    "tomatillo",
+    "salsa",
+    "green",
+    "roasted"
+   ],
+   "photoQuery": "salsa verde tomatillo"
+  },
+  {
+   "title": "Chiles Rellenos",
+   "description": "Roasted poblano peppers stuffed with melting cheese, dipped in a fluffy egg batter, fried golden, and served in a light tomato caldillo.",
+   "servings": 6,
+   "prepMinutes": 40,
+   "cookMinutes": 30,
+   "ingredients": [
+    "6 large poblano peppers",
+    "12 oz Oaxaca or Monterey Jack cheese, cut into thick sticks",
+    "4 large eggs, separated",
+    "1/4 tsp salt",
+    "1/2 cup all-purpose flour",
+    "1 cup vegetable oil, for frying",
+    "# For the tomato sauce",
+    "4 Roma tomatoes",
+    "1/4 white onion",
+    "1 clove garlic",
+    "1 cup chicken broth",
+    "1 tbsp vegetable oil",
+    "1/2 tsp salt"
+   ],
+   "steps": [
+    "Roast the poblanos directly over a gas flame or under the broiler, turning, until blackened all over, about 8–10 minutes.",
+    "Place them in a covered bowl for 10 minutes to steam, then rub off the skins.",
+    "Cut a slit down one side of each pepper, carefully remove the seeds, and stuff with cheese; close with a toothpick if needed.",
+    "For the sauce, blend the tomatoes, onion, garlic, and broth until smooth, then simmer in 1 tbsp oil with the salt for 10 minutes.",
+    "Beat the egg whites to stiff peaks, then fold in the yolks one at a time and the salt.",
+    "Heat the oil in a large skillet to 350°F (175°C).",
+    "Dredge each stuffed pepper in flour, shake off the excess, and dip it in the egg batter to coat.",
+    "Fry the peppers 2 at a time, spooning oil over the tops, for 2–3 minutes per side until golden; drain on paper towels.",
+    "Spoon the tomato sauce onto plates and set the chiles rellenos on top to serve."
+   ],
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [
+    "Fall"
+   ],
+   "holidays": [],
+   "keywords": [
+    "poblano",
+    "stuffed peppers",
+    "cheese",
+    "vegetarian"
+   ],
+   "photoQuery": "chiles rellenos"
+  },
+  {
+   "title": "Pescado a la Veracruzana",
+   "description": "Veracruz's signature fish dish of white fillets baked in a tomato sauce with olives, capers, and pickled jalapeños.",
+   "servings": 4,
+   "prepMinutes": 15,
+   "cookMinutes": 30,
+   "ingredients": [
+    "4 white fish fillets (6 oz each), such as red snapper or cod",
+    "1/2 tsp salt",
+    "1/4 tsp black pepper",
+    "1 lime, juiced",
+    "3 tbsp olive oil",
+    "1 white onion, thinly sliced",
+    "3 cloves garlic, minced",
+    "1 1/2 lb ripe tomatoes, chopped (or 1 can, 28 oz, diced tomatoes)",
+    "2 bay leaves",
+    "1/2 tsp dried Mexican oregano",
+    "1/2 cup pitted green olives, halved",
+    "2 tbsp capers, rinsed",
+    "3 pickled jalapeños, sliced, plus 1 tbsp brine",
+    "2 tbsp chopped parsley"
+   ],
+   "steps": [
+    "Season the fish with salt, pepper, and lime juice and set aside while you make the sauce.",
+    "Heat the olive oil in a large skillet over medium heat and cook the onion for 5 minutes until soft.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the tomatoes, bay leaves, and oregano and simmer for 10 minutes until slightly thickened.",
+    "Stir in the olives, capers, jalapeños, and brine and season the sauce with salt.",
+    "Nestle the fish fillets into the sauce and spoon some sauce over the top.",
+    "Cover and simmer gently for 8–10 minutes until the fish flakes easily.",
+    "Sprinkle with parsley and serve with white rice."
+   ],
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [],
+   "holidays": [
+    "Christmas"
+   ],
+   "keywords": [
+    "fish",
+    "tomato",
+    "olives",
+    "seafood"
+   ],
+   "photoQuery": "pescado a la veracruzana"
+  }
+ ]
+}

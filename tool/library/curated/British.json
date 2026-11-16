@@ -1,0 +1,775 @@
+{
+ "cuisine": "British",
+ "selected": [
+  {
+   "page": "Cookbook:Fish and Chips",
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "fish",
+    "fried",
+    "potato",
+    "pub classic"
+   ]
+  },
+  {
+   "page": "Cookbook:Chicken Tikka Masala",
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "chicken",
+    "curry",
+    "spicy",
+    "tomato"
+   ]
+  },
+  {
+   "page": "Cookbook:Trifle",
+   "mealTypes": [
+    "Dessert"
+   ],
+   "seasons": [],
+   "holidays": [
+    "Christmas"
+   ],
+   "keywords": [
+    "custard",
+    "sponge",
+    "cream",
+    "fruit"
+   ]
+  },
+  {
+   "page": "Cookbook:Yorkshire Pudding",
+   "mealTypes": [
+    "Side Dish",
+    "Bread"
+   ],
+   "seasons": [],
+   "holidays": [
+    "Christmas"
+   ],
+   "keywords": [
+    "batter",
+    "roast dinner",
+    "sunday roast"
+   ]
+  },
+  {
+   "page": "Cookbook:A Nice Cup of Tea",
+   "mealTypes": [
+    "Beverage"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "tea",
+    "hot drink",
+    "milk"
+   ]
+  },
+  {
+   "page": "Cookbook:Bangers and Mash",
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [
+    "Fall",
+    "Winter"
+   ],
+   "holidays": [],
+   "keywords": [
+    "sausage",
+    "mashed potato",
+    "gravy"
+   ]
+  },
+  {
+   "page": "Cookbook:Chip Butty",
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "sandwich",
+    "fries",
+    "bread"
+   ]
+  },
+  {
+   "page": "Cookbook:Corned Beef Pie",
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "corned beef",
+    "pie",
+    "potato",
+    "picnic"
+   ]
+  },
+  {
+   "page": "Cookbook:Coronation Chicken",
+   "mealTypes": [
+    "Entree",
+    "Soup & Salad"
+   ],
+   "seasons": [
+    "Summer"
+   ],
+   "holidays": [],
+   "keywords": [
+    "chicken",
+    "curry",
+    "salad",
+    "sandwich"
+   ]
+  },
+  {
+   "page": "Cookbook:English Breakfast",
+   "mealTypes": [
+    "Breakfast"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "eggs",
+    "bacon",
+    "sausage",
+    "fry-up"
+   ]
+  },
+  {
+   "page": "Cookbook:Haggis",
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [
+    "Winter"
+   ],
+   "holidays": [
+    "New Year's"
+   ],
+   "keywords": [
+    "lamb",
+    "oats",
+    "scottish"
+   ]
+  },
+  {
+   "page": "Cookbook:Kedgeree (Rice and Smoked Fish)",
+   "mealTypes": [
+    "Breakfast",
+    "Entree"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "smoked fish",
+    "rice",
+    "eggs",
+    "curry"
+   ]
+  },
+  {
+   "page": "Cookbook:Lancashire Hotpot",
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [
+    "Fall",
+    "Winter"
+   ],
+   "holidays": [],
+   "keywords": [
+    "lamb",
+    "potato",
+    "casserole"
+   ]
+  },
+  {
+   "page": "Cookbook:Pasties",
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "cornish",
+    "beef",
+    "pastry",
+    "potato"
+   ]
+  },
+  {
+   "page": "Cookbook:Queen of Puddings",
+   "mealTypes": [
+    "Dessert"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "meringue",
+    "jam",
+    "custard",
+    "baked"
+   ]
+  },
+  {
+   "page": "Cookbook:Strawberry and Yogurt Eton Mess",
+   "mealTypes": [
+    "Dessert"
+   ],
+   "seasons": [
+    "Summer"
+   ],
+   "holidays": [],
+   "keywords": [
+    "strawberry",
+    "meringue",
+    "cream",
+    "no-bake"
+   ]
+  },
+  {
+   "page": "Cookbook:Summer Pudding",
+   "mealTypes": [
+    "Dessert"
+   ],
+   "seasons": [
+    "Summer"
+   ],
+   "holidays": [],
+   "keywords": [
+    "berries",
+    "bread",
+    "no-bake"
+   ]
+  },
+  {
+   "page": "Cookbook:Tattie Scones",
+   "mealTypes": [
+    "Breakfast",
+    "Bread"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "potato",
+    "scottish",
+    "griddle"
+   ]
+  },
+  {
+   "page": "Cookbook:Welsh Cakes",
+   "mealTypes": [
+    "Dessert",
+    "Bread"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "welsh",
+    "griddle",
+    "currants"
+   ]
+  },
+  {
+   "page": "Cookbook:Welsh Rarebit",
+   "mealTypes": [
+    "Appetizer",
+    "Entree"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "cheese",
+    "toast",
+    "welsh",
+    "beer"
+   ]
+  },
+  {
+   "page": "Cookbook:Mushy Peas",
+   "mealTypes": [
+    "Side Dish"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "peas",
+    "vegetarian",
+    "chip shop"
+   ]
+  },
+  {
+   "page": "Cookbook:Rhubarb Crumble I",
+   "mealTypes": [
+    "Dessert"
+   ],
+   "seasons": [
+    "Spring"
+   ],
+   "holidays": [],
+   "keywords": [
+    "rhubarb",
+    "crumble",
+    "baked"
+   ]
+  },
+  {
+   "page": "Cookbook:Toad in the Hole",
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "sausage",
+    "batter",
+    "baked"
+   ]
+  },
+  {
+   "page": "Cookbook:Liverpool Lamb and Vegetable Soup (Scouse)",
+   "mealTypes": [
+    "Soup & Salad",
+    "Entree"
+   ],
+   "seasons": [
+    "Winter"
+   ],
+   "holidays": [],
+   "keywords": [
+    "lamb",
+    "stew",
+    "vegetables"
+   ]
+  },
+  {
+   "page": "Cookbook:Steak and Ale Pie",
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [
+    "Fall",
+    "Winter"
+   ],
+   "holidays": [],
+   "keywords": [
+    "beef",
+    "ale",
+    "pie",
+    "pub classic"
+   ]
+  },
+  {
+   "page": "Cookbook:Welsh Fruit Bread (Bara Brith) I",
+   "mealTypes": [
+    "Bread",
+    "Dessert"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "welsh",
+    "fruit bread",
+    "tea"
+   ]
+  },
+  {
+   "page": "Cookbook:Cauliflower Cheese",
+   "mealTypes": [
+    "Side Dish"
+   ],
+   "seasons": [
+    "Fall",
+    "Winter"
+   ],
+   "holidays": [
+    "Christmas"
+   ],
+   "keywords": [
+    "cauliflower",
+    "cheese sauce",
+    "vegetarian"
+   ]
+  },
+  {
+   "page": "Cookbook:Lancashire Parkin",
+   "mealTypes": [
+    "Dessert"
+   ],
+   "seasons": [
+    "Fall"
+   ],
+   "holidays": [
+    "Halloween"
+   ],
+   "keywords": [
+    "oats",
+    "ginger",
+    "treacle",
+    "cake"
+   ]
+  },
+  {
+   "page": "Cookbook:Roast Beef",
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [],
+   "holidays": [
+    "Christmas"
+   ],
+   "keywords": [
+    "beef",
+    "sunday roast",
+    "roasted"
+   ]
+  },
+  {
+   "page": "Cookbook:Shepherd's Pie I",
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [
+    "Fall",
+    "Winter"
+   ],
+   "holidays": [],
+   "keywords": [
+    "lamb",
+    "mashed potato",
+    "casserole"
+   ]
+  },
+  {
+   "page": "Cookbook:Shortbread",
+   "mealTypes": [
+    "Dessert"
+   ],
+   "seasons": [],
+   "holidays": [
+    "Christmas",
+    "New Year's"
+   ],
+   "keywords": [
+    "butter",
+    "cookies",
+    "scottish"
+   ]
+  },
+  {
+   "page": "Cookbook:Steak and Kidney Pudding",
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [
+    "Winter"
+   ],
+   "holidays": [],
+   "keywords": [
+    "beef",
+    "kidney",
+    "suet",
+    "steamed"
+   ]
+  },
+  {
+   "page": "Cookbook:Banoffee Pie",
+   "mealTypes": [
+    "Dessert"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "banana",
+    "toffee",
+    "cream",
+    "pie"
+   ]
+  },
+  {
+   "page": "Cookbook:Christmas Pudding I",
+   "mealTypes": [
+    "Dessert"
+   ],
+   "seasons": [
+    "Winter"
+   ],
+   "holidays": [
+    "Christmas"
+   ],
+   "keywords": [
+    "dried fruit",
+    "steamed",
+    "brandy"
+   ]
+  },
+  {
+   "page": "Cookbook:Hot Cross Bun",
+   "mealTypes": [
+    "Bread",
+    "Breakfast"
+   ],
+   "seasons": [
+    "Spring"
+   ],
+   "holidays": [
+    "Easter"
+   ],
+   "keywords": [
+    "sweet bun",
+    "yeast",
+    "currants",
+    "spiced"
+   ]
+  },
+  {
+   "page": "Cookbook:Cullen Skink (Haddock and Potato Soup)",
+   "mealTypes": [
+    "Soup & Salad"
+   ],
+   "seasons": [
+    "Winter"
+   ],
+   "holidays": [],
+   "keywords": [
+    "smoked haddock",
+    "potato",
+    "soup",
+    "scottish"
+   ]
+  },
+  {
+   "page": "Cookbook:Jam Roly-Poly",
+   "mealTypes": [
+    "Dessert"
+   ],
+   "seasons": [
+    "Winter"
+   ],
+   "holidays": [],
+   "keywords": [
+    "jam",
+    "suet",
+    "pudding"
+   ]
+  },
+  {
+   "page": "Cookbook:Victoria Sandwich",
+   "mealTypes": [
+    "Dessert"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "sponge cake",
+    "jam",
+    "cream",
+    "afternoon tea"
+   ]
+  },
+  {
+   "page": "Cookbook:Sticky Toffee Pudding (with dates)",
+   "mealTypes": [
+    "Dessert"
+   ],
+   "seasons": [
+    "Fall",
+    "Winter"
+   ],
+   "holidays": [
+    "Christmas"
+   ],
+   "keywords": [
+    "dates",
+    "toffee sauce",
+    "cake"
+   ]
+  },
+  {
+   "page": "Cookbook:Stovies",
+   "mealTypes": [
+    "Entree",
+    "Side Dish"
+   ],
+   "seasons": [
+    "Winter"
+   ],
+   "holidays": [],
+   "keywords": [
+    "potato",
+    "leftovers",
+    "scottish"
+   ]
+  },
+  {
+   "page": "Cookbook:Mincemeat Tart",
+   "mealTypes": [
+    "Dessert"
+   ],
+   "seasons": [
+    "Winter"
+   ],
+   "holidays": [
+    "Christmas"
+   ],
+   "keywords": [
+    "mince pies",
+    "dried fruit",
+    "pastry"
+   ]
+  },
+  {
+   "page": "Cookbook:Plain Scones",
+   "mealTypes": [
+    "Bread",
+    "Dessert"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "scones",
+    "afternoon tea",
+    "baked"
+   ]
+  },
+  {
+   "page": "Cookbook:Flapjacks (Traditional Scottish Recipe)",
+   "mealTypes": [
+    "Dessert"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "oats",
+    "golden syrup",
+    "bars"
+   ]
+  },
+  {
+   "page": "Cookbook:Christmas Cake",
+   "mealTypes": [
+    "Dessert"
+   ],
+   "seasons": [
+    "Winter"
+   ],
+   "holidays": [
+    "Christmas"
+   ],
+   "keywords": [
+    "fruitcake",
+    "brandy",
+    "baked"
+   ]
+  },
+  {
+   "page": "Cookbook:Scottish Porridge",
+   "mealTypes": [
+    "Breakfast"
+   ],
+   "seasons": [
+    "Winter"
+   ],
+   "holidays": [],
+   "keywords": [
+    "oats",
+    "porridge",
+    "vegan"
+   ]
+  },
+  {
+   "page": "Cookbook:Roast Potatoes",
+   "mealTypes": [
+    "Side Dish"
+   ],
+   "seasons": [],
+   "holidays": [
+    "Christmas"
+   ],
+   "keywords": [
+    "potato",
+    "roasted",
+    "sunday roast"
+   ]
+  },
+  {
+   "page": "Cookbook:Lemon Curd",
+   "mealTypes": [
+    "Side Dish",
+    "Dessert"
+   ],
+   "seasons": [
+    "Spring"
+   ],
+   "holidays": [
+    "Easter"
+   ],
+   "keywords": [
+    "lemon",
+    "spread",
+    "custard"
+   ]
+  },
+  {
+   "page": "Cookbook:Pease Pudding",
+   "mealTypes": [
+    "Side Dish"
+   ],
+   "seasons": [
+    "Winter"
+   ],
+   "holidays": [],
+   "keywords": [
+    "split peas",
+    "ham",
+    "northern"
+   ]
+  },
+  {
+   "page": "Cookbook:Angels on Horseback (Bacon-wrapped Oysters)",
+   "mealTypes": [
+    "Appetizer"
+   ],
+   "seasons": [],
+   "holidays": [
+    "Christmas"
+   ],
+   "keywords": [
+    "oysters",
+    "bacon",
+    "broiled"
+   ]
+  },
+  {
+   "page": "Cookbook:Eggs Connaught",
+   "mealTypes": [
+    "Appetizer"
+   ],
+   "seasons": [
+    "Spring"
+   ],
+   "holidays": [
+    "Easter"
+   ],
+   "keywords": [
+    "eggs",
+    "shrimp",
+    "watercress"
+   ]
+  }
+ ],
+ "original": []
+}

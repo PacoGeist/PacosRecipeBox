@@ -1,0 +1,1280 @@
+{
+ "cuisine": "Japanese",
+ "selected": [
+  {
+   "page": "Cookbook:Tempura",
+   "mealTypes": [
+    "Appetizer",
+    "Entree"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "fried",
+    "shrimp",
+    "vegetables",
+    "batter"
+   ]
+  },
+  {
+   "page": "Cookbook:Daifuku (Sweet Filled Mochi)",
+   "mealTypes": [
+    "Dessert"
+   ],
+   "seasons": [],
+   "holidays": [
+    "New Year's"
+   ],
+   "keywords": [
+    "mochi",
+    "red bean",
+    "rice flour",
+    "sweet"
+   ]
+  },
+  {
+   "page": "Cookbook:Gunkanmaki (Topped Oval Sushi)",
+   "mealTypes": [
+    "Appetizer"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "sushi",
+    "rice",
+    "nori",
+    "seafood"
+   ]
+  },
+  {
+   "page": "Cookbook:Inarizushi (Stuffed Sushi)",
+   "mealTypes": [
+    "Appetizer",
+    "Side Dish"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "sushi",
+    "tofu",
+    "rice",
+    "vegetarian"
+   ]
+  },
+  {
+   "page": "Cookbook:Miso Soup",
+   "mealTypes": [
+    "Soup & Salad",
+    "Breakfast"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "miso",
+    "tofu",
+    "soup"
+   ]
+  },
+  {
+   "page": "Cookbook:Nigiri Sushi",
+   "mealTypes": [
+    "Appetizer",
+    "Entree"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "sushi",
+    "fish",
+    "rice",
+    "raw"
+   ]
+  },
+  {
+   "page": "Cookbook:Onigiri",
+   "mealTypes": [
+    "Side Dish",
+    "Appetizer"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "rice ball",
+    "rice",
+    "nori",
+    "lunch"
+   ]
+  },
+  {
+   "page": "Cookbook:Pork Gyoza",
+   "mealTypes": [
+    "Appetizer"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "dumplings",
+    "pork",
+    "potstickers",
+    "cabbage"
+   ]
+  },
+  {
+   "page": "Cookbook:Grilled Aubergine",
+   "mealTypes": [
+    "Side Dish"
+   ],
+   "seasons": [
+    "Summer"
+   ],
+   "holidays": [],
+   "keywords": [
+    "eggplant",
+    "miso",
+    "grilled",
+    "vegetarian"
+   ]
+  },
+  {
+   "page": "Cookbook:Agedashi Tofu",
+   "mealTypes": [
+    "Appetizer",
+    "Side Dish"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "tofu",
+    "fried",
+    "dashi",
+    "vegetarian"
+   ]
+  },
+  {
+   "page": "Cookbook:Gyudon (Japanese Beef and Rice Bowl)",
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "beef",
+    "rice bowl",
+    "onion",
+    "donburi"
+   ]
+  },
+  {
+   "page": "Cookbook:Makizushi (Maki Roll)",
+   "mealTypes": [
+    "Appetizer",
+    "Entree"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "sushi",
+    "maki",
+    "nori",
+    "rice"
+   ]
+  },
+  {
+   "page": "Cookbook:Okonomiyaki (Japanese Savory Pancake)",
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "pancake",
+    "cabbage",
+    "savory",
+    "street food"
+   ]
+  },
+  {
+   "page": "Cookbook:Sukiyaki",
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [
+    "Winter"
+   ],
+   "holidays": [
+    "New Year's"
+   ],
+   "keywords": [
+    "beef",
+    "hot pot",
+    "tofu",
+    "vegetables"
+   ]
+  },
+  {
+   "page": "Cookbook:Tonkotsu Ramen",
+   "mealTypes": [
+    "Entree",
+    "Soup & Salad"
+   ],
+   "seasons": [
+    "Winter"
+   ],
+   "holidays": [],
+   "keywords": [
+    "ramen",
+    "pork",
+    "noodles",
+    "broth"
+   ]
+  },
+  {
+   "page": "Cookbook:Tonkatsu",
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "pork",
+    "cutlet",
+    "fried",
+    "panko"
+   ]
+  },
+  {
+   "page": "Cookbook:Sushi Rice",
+   "mealTypes": [
+    "Side Dish"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "rice",
+    "sushi",
+    "vinegar"
+   ]
+  },
+  {
+   "page": "Cookbook:Teriyaki Salmon",
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [
+    "Summer"
+   ],
+   "holidays": [],
+   "keywords": [
+    "salmon",
+    "teriyaki",
+    "grilled",
+    "fish"
+   ]
+  },
+  {
+   "page": "Cookbook:Teriyaki Sauce",
+   "mealTypes": [
+    "Side Dish"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "sauce",
+    "teriyaki",
+    "soy sauce",
+    "glaze"
+   ]
+  },
+  {
+   "page": "Cookbook:Daigakuimo (Japanese Candied Sweet Potato)",
+   "mealTypes": [
+    "Dessert",
+    "Side Dish"
+   ],
+   "seasons": [
+    "Fall"
+   ],
+   "holidays": [],
+   "keywords": [
+    "sweet potato",
+    "candied",
+    "sesame"
+   ]
+  },
+  {
+   "page": "Cookbook:Spaghetti with Meat Sauce (Naporitan)",
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "pasta",
+    "ketchup",
+    "sausage",
+    "yoshoku"
+   ]
+  },
+  {
+   "page": "Cookbook:Carrots Cooked Kinpira Style",
+   "mealTypes": [
+    "Side Dish"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "carrot",
+    "kinpira",
+    "soy sauce",
+    "vegetarian"
+   ]
+  },
+  {
+   "page": "Cookbook:Dashi (Japanese Soup Stock)",
+   "mealTypes": [
+    "Soup & Salad"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "stock",
+    "kombu",
+    "bonito",
+    "broth"
+   ]
+  },
+  {
+   "page": "Cookbook:Meat and Potatoes in Broth (Niku Jaga)",
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [
+    "Fall",
+    "Winter"
+   ],
+   "holidays": [],
+   "keywords": [
+    "beef",
+    "potato",
+    "stew",
+    "comfort food"
+   ]
+  },
+  {
+   "page": "Cookbook:Ume-shu (Japanese Plum Juice)",
+   "mealTypes": [
+    "Beverage"
+   ],
+   "seasons": [
+    "Summer"
+   ],
+   "holidays": [],
+   "keywords": [
+    "plum",
+    "ume",
+    "drink"
+   ]
+  },
+  {
+   "page": "Cookbook:Japanese Pickled Plums (Umeboshi)",
+   "mealTypes": [
+    "Side Dish"
+   ],
+   "seasons": [
+    "Summer"
+   ],
+   "holidays": [],
+   "keywords": [
+    "plum",
+    "pickled",
+    "umeboshi"
+   ]
+  },
+  {
+   "page": "Cookbook:Natto (Japanese Fermented Soybeans)",
+   "mealTypes": [
+    "Breakfast",
+    "Side Dish"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "soybeans",
+    "fermented",
+    "natto",
+    "vegan"
+   ]
+  },
+  {
+   "page": "Cookbook:Tri-Colored Autumn Rice Balls",
+   "mealTypes": [
+    "Dessert"
+   ],
+   "seasons": [
+    "Fall"
+   ],
+   "holidays": [],
+   "keywords": [
+    "ohagi",
+    "sweet rice",
+    "red bean",
+    "kinako"
+   ]
+  },
+  {
+   "page": "Cookbook:Yubeshi (Japanese Walnut Mochi Confection)",
+   "mealTypes": [
+    "Dessert"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "mochi",
+    "walnut",
+    "rice flour",
+    "sweet"
+   ]
+  },
+  {
+   "page": "Cookbook:Tekka (Japanese Root Vegetables in Miso)",
+   "mealTypes": [
+    "Side Dish"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "miso",
+    "burdock",
+    "lotus root",
+    "condiment"
+   ]
+  },
+  {
+   "page": "Cookbook:Steamed Sweet Rice",
+   "mealTypes": [
+    "Side Dish"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "glutinous rice",
+    "sweet rice",
+    "steamed"
+   ]
+  }
+ ],
+ "original": [
+  {
+   "title": "Chicken Katsu Curry",
+   "description": "Crispy panko-crusted chicken cutlets served over rice with a mild, sweet-savory Japanese curry sauce full of carrots and potatoes.",
+   "servings": 4,
+   "prepMinutes": 30,
+   "cookMinutes": 45,
+   "ingredients": [
+    "# For the curry",
+    "1 tbsp vegetable oil",
+    "1 large onion, thinly sliced",
+    "2 medium carrots, cut into chunks",
+    "2 medium Yukon Gold potatoes, cut into chunks",
+    "3 1/2 cups water",
+    "1 (3.5 oz) box Japanese curry roux (such as Golden Curry), broken into pieces",
+    "1 tbsp ketchup",
+    "1 tsp honey",
+    "# For the katsu",
+    "4 (5 oz) boneless skinless chicken thighs or breasts, pounded to 1/2 inch thick",
+    "1/2 tsp salt",
+    "1/4 tsp black pepper",
+    "1/2 cup all-purpose flour",
+    "2 eggs, beaten",
+    "2 cups panko breadcrumbs",
+    "2 cups vegetable oil, for frying",
+    "4 cups cooked Japanese short-grain rice, for serving"
+   ],
+   "steps": [
+    "Heat 1 tbsp oil in a large saucepan over medium heat, add the onion, and cook for 8 to 10 minutes until soft and lightly golden.",
+    "Add the carrots and potatoes, stir for 1 minute, then pour in the water and bring to a boil.",
+    "Reduce the heat, skim any foam, and simmer for 15 minutes until the vegetables are tender.",
+    "Turn off the heat, add the curry roux pieces, and stir until completely dissolved.",
+    "Stir in the ketchup and honey, then simmer over low heat for 5 minutes, stirring often, until the sauce thickens; keep warm.",
+    "Season the chicken on both sides with salt and pepper.",
+    "Set out three shallow dishes with the flour, beaten eggs, and panko, then coat each cutlet in flour, dip in egg, and press firmly into the panko.",
+    "Heat the frying oil in a deep skillet to 340°F (170°C).",
+    "Fry the cutlets two at a time for 5 to 6 minutes, turning once, until deep golden and the internal temperature reaches 165°F (74°C).",
+    "Drain the katsu on a wire rack for 3 minutes, then slice into strips.",
+    "Spoon rice onto plates, lay the sliced katsu alongside, and ladle the curry sauce over and around it."
+   ],
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "chicken",
+    "curry",
+    "panko",
+    "fried"
+   ],
+   "photoQuery": "Katsu curry"
+  },
+  {
+   "title": "Oyakodon (Chicken and Egg Rice Bowl)",
+   "description": "A comforting donburi of chicken and onion simmered in a sweet soy-dashi broth, finished with softly set egg over rice.",
+   "servings": 2,
+   "prepMinutes": 10,
+   "cookMinutes": 15,
+   "ingredients": [
+    "2/3 cup dashi",
+    "2 tbsp soy sauce",
+    "2 tbsp mirin",
+    "1 tbsp sugar",
+    "1/2 medium onion, thinly sliced",
+    "8 oz boneless skinless chicken thighs, cut into bite-size pieces",
+    "3 eggs",
+    "2 cups cooked Japanese short-grain rice",
+    "1 green onion, thinly sliced",
+    "1 pinch shichimi togarashi (optional)"
+   ],
+   "steps": [
+    "Combine the dashi, soy sauce, mirin, and sugar in a small skillet and bring to a simmer over medium heat.",
+    "Add the onion slices and simmer for 3 minutes until they begin to soften.",
+    "Add the chicken in a single layer and simmer for 6 to 7 minutes, turning once, until cooked through.",
+    "Lightly beat the eggs in a bowl, leaving some streaks of white and yolk.",
+    "Pour about two thirds of the egg evenly over the chicken, cover, and cook for 1 minute.",
+    "Pour in the remaining egg, cover again, and turn off the heat; let stand 30 seconds so the egg stays soft and silky.",
+    "Divide the hot rice between two bowls and slide the chicken and egg mixture with some of the broth over the top.",
+    "Garnish with green onion and a pinch of shichimi togarashi and serve immediately."
+   ],
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "chicken",
+    "egg",
+    "rice bowl",
+    "donburi"
+   ],
+   "photoQuery": "Oyakodon"
+  },
+  {
+   "title": "Tamagoyaki (Japanese Rolled Omelet)",
+   "description": "A lightly sweet, layered rolled omelet that is a staple of Japanese breakfasts and bento boxes.",
+   "servings": 2,
+   "prepMinutes": 5,
+   "cookMinutes": 10,
+   "ingredients": [
+    "4 eggs",
+    "2 tbsp dashi or water",
+    "1 tbsp sugar",
+    "1 tsp mirin",
+    "1 tsp soy sauce",
+    "1 pinch salt",
+    "1 tsp vegetable oil"
+   ],
+   "steps": [
+    "Whisk the eggs, dashi, sugar, mirin, soy sauce, and salt in a bowl until well combined but not foamy.",
+    "Heat a rectangular tamagoyaki pan or 8-inch nonstick skillet over medium-low heat and wipe it with a little oil using a folded paper towel.",
+    "Pour in about a quarter of the egg mixture and tilt the pan to coat the bottom in a thin layer.",
+    "When the egg is just set on the bottom but still slightly wet on top, roll it from the far side toward you into a log.",
+    "Push the roll back to the far side of the pan and wipe the empty part of the pan with oil again.",
+    "Pour in another quarter of the egg, lifting the roll so the raw egg flows underneath it.",
+    "When the new layer is nearly set, roll the log back toward you, wrapping it in the new layer.",
+    "Repeat with the remaining egg mixture to build up the layers.",
+    "Transfer the omelet to a bamboo mat or plastic wrap, shape it into a neat rectangle, and let it rest for 5 minutes.",
+    "Slice into 1-inch pieces and serve warm or at room temperature."
+   ],
+   "mealTypes": [
+    "Breakfast",
+    "Side Dish"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "egg",
+    "omelet",
+    "bento",
+    "breakfast"
+   ],
+   "photoQuery": "Tamagoyaki"
+  },
+  {
+   "title": "Chicken Karaage (Japanese Fried Chicken)",
+   "description": "Juicy bite-size chicken thighs marinated in soy, ginger, and garlic, then coated in potato starch and fried until extra crisp.",
+   "servings": 4,
+   "prepMinutes": 40,
+   "cookMinutes": 20,
+   "ingredients": [
+    "1 1/2 lb boneless skin-on chicken thighs, cut into 1 1/2-inch pieces",
+    "2 tbsp soy sauce",
+    "1 tbsp sake",
+    "1 tsp sesame oil",
+    "2 tsp grated fresh ginger",
+    "2 cloves garlic, grated",
+    "1/2 tsp sugar",
+    "3/4 cup potato starch or cornstarch",
+    "4 cups vegetable oil, for frying",
+    "1 lemon, cut into wedges",
+    "1/4 cup Japanese mayonnaise, for serving"
+   ],
+   "steps": [
+    "Place the chicken in a bowl with the soy sauce, sake, sesame oil, ginger, garlic, and sugar and toss well.",
+    "Cover and refrigerate for 30 minutes to 2 hours.",
+    "Heat the oil in a heavy pot to 325°F (165°C).",
+    "Drain off any excess marinade and toss the chicken pieces in the potato starch until evenly coated, shaking off the excess.",
+    "Fry the chicken in batches for 3 to 4 minutes until pale golden, then transfer to a wire rack and rest for 4 minutes.",
+    "Raise the oil temperature to 350°F (180°C).",
+    "Fry the chicken a second time for 1 to 2 minutes until deep golden and very crisp.",
+    "Drain on the rack and serve hot with lemon wedges and mayonnaise."
+   ],
+   "mealTypes": [
+    "Entree",
+    "Appetizer"
+   ],
+   "seasons": [],
+   "holidays": [
+    "Game Day"
+   ],
+   "keywords": [
+    "chicken",
+    "fried",
+    "crispy",
+    "ginger"
+   ],
+   "photoQuery": "Karaage"
+  },
+  {
+   "title": "Yakisoba (Stir-Fried Noodles)",
+   "description": "Chewy wheat noodles stir-fried with pork, cabbage, and carrots in a tangy-sweet yakisoba sauce, a favorite at Japanese festivals.",
+   "servings": 3,
+   "prepMinutes": 15,
+   "cookMinutes": 12,
+   "ingredients": [
+    "# For the sauce",
+    "3 tbsp Worcestershire sauce",
+    "1 tbsp oyster sauce",
+    "1 tbsp ketchup",
+    "1 tbsp soy sauce",
+    "2 tsp sugar",
+    "# For the noodles",
+    "3 (5 oz) packages fresh yakisoba or chukamen noodles",
+    "1 tbsp vegetable oil",
+    "6 oz thinly sliced pork belly or pork shoulder, cut into 2-inch pieces",
+    "1/2 medium onion, sliced",
+    "1 medium carrot, julienned",
+    "3 cups shredded green cabbage",
+    "2 green onions, cut into 2-inch lengths",
+    "1 tbsp aonori (dried green seaweed), for garnish",
+    "2 tbsp pickled red ginger (beni shoga), for garnish"
+   ],
+   "steps": [
+    "Whisk the Worcestershire sauce, oyster sauce, ketchup, soy sauce, and sugar together in a small bowl.",
+    "Rinse the noodles briefly under hot water to loosen them, then drain well.",
+    "Heat the oil in a large skillet or wok over medium-high heat and cook the pork for 3 minutes until browned.",
+    "Add the onion and carrot and stir-fry for 2 minutes.",
+    "Add the cabbage and stir-fry for 2 minutes until just wilted.",
+    "Add the noodles and green onions and toss for 2 minutes until heated through.",
+    "Pour the sauce over the noodles and toss continuously for 1 to 2 minutes until evenly coated.",
+    "Serve topped with aonori and pickled red ginger."
+   ],
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [
+    "Summer"
+   ],
+   "holidays": [],
+   "keywords": [
+    "noodles",
+    "pork",
+    "cabbage",
+    "stir-fry"
+   ],
+   "photoQuery": "Yakisoba"
+  },
+  {
+   "title": "Chawanmushi (Savory Steamed Egg Custard)",
+   "description": "A silky, delicate egg custard steamed in cups with dashi, shrimp, chicken, and mushrooms.",
+   "servings": 4,
+   "prepMinutes": 15,
+   "cookMinutes": 15,
+   "ingredients": [
+    "3 eggs",
+    "1 1/2 cups dashi, cooled",
+    "1 tsp soy sauce",
+    "1 tsp mirin",
+    "1/4 tsp salt",
+    "4 medium shrimp, peeled and deveined",
+    "2 oz boneless chicken thigh, cut into small pieces",
+    "4 shiitake mushrooms, stemmed and sliced",
+    "4 sprigs mitsuba or 1 green onion, chopped"
+   ],
+   "steps": [
+    "Gently whisk the eggs in a bowl without creating foam, then stir in the dashi, soy sauce, mirin, and salt.",
+    "Strain the mixture through a fine-mesh sieve into a measuring cup to make it perfectly smooth.",
+    "Divide the shrimp, chicken, and mushrooms among four heatproof cups or ramekins.",
+    "Pour the egg mixture into the cups and skim off any bubbles from the surface.",
+    "Cover each cup with foil or a lid.",
+    "Bring water to a boil in a steamer, then reduce to a gentle simmer.",
+    "Steam the cups over low heat for 12 to 15 minutes until the custard is set but still jiggles slightly in the center.",
+    "Top with mitsuba or green onion and serve hot."
+   ],
+   "mealTypes": [
+    "Appetizer",
+    "Side Dish"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "egg",
+    "custard",
+    "steamed",
+    "dashi"
+   ],
+   "photoQuery": "Chawanmushi"
+  },
+  {
+   "title": "Matcha Latte",
+   "description": "Bright green tea whisked to a froth and poured over steamed milk with a touch of sweetness.",
+   "servings": 1,
+   "prepMinutes": 5,
+   "cookMinutes": 3,
+   "ingredients": [
+    "1 1/2 tsp matcha powder",
+    "2 oz hot water (about 175°F / 80°C)",
+    "1 cup milk or oat milk",
+    "1 to 2 tsp honey or sugar, to taste"
+   ],
+   "steps": [
+    "Sift the matcha into a wide mug or bowl to remove any lumps.",
+    "Add the hot water and whisk vigorously in a zigzag motion with a bamboo whisk or small frother for 30 seconds until frothy.",
+    "Heat the milk in a small saucepan over medium heat until steaming, about 3 minutes, without letting it boil.",
+    "Froth the milk with a frother or whisk until foamy.",
+    "Stir the honey or sugar into the matcha, then pour in the frothed milk and serve immediately."
+   ],
+   "mealTypes": [
+    "Beverage"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "matcha",
+    "green tea",
+    "latte",
+    "drink"
+   ],
+   "photoQuery": "Matcha latte"
+  },
+  {
+   "title": "Chicken Teriyaki",
+   "description": "Pan-seared chicken thighs with crisp skin glazed in a glossy homemade soy, mirin, and sake sauce.",
+   "servings": 4,
+   "prepMinutes": 5,
+   "cookMinutes": 20,
+   "ingredients": [
+    "4 (6 oz) boneless skin-on chicken thighs",
+    "1/4 tsp salt",
+    "1 tbsp vegetable oil",
+    "1/4 cup soy sauce",
+    "1/4 cup mirin",
+    "2 tbsp sake",
+    "1 1/2 tbsp sugar",
+    "1 tsp toasted sesame seeds",
+    "1 green onion, thinly sliced"
+   ],
+   "steps": [
+    "Pat the chicken dry and season lightly with salt.",
+    "Stir together the soy sauce, mirin, sake, and sugar in a small bowl until the sugar dissolves.",
+    "Heat the oil in a large skillet over medium heat and place the chicken skin side down.",
+    "Cook for 8 to 10 minutes without moving, pressing gently, until the skin is deep golden and crisp.",
+    "Flip the chicken and cook for 4 to 5 minutes more until it reaches 165°F (74°C) inside.",
+    "Wipe out the excess fat with a paper towel and pour the sauce into the pan.",
+    "Simmer for 2 to 3 minutes, spooning the sauce over the chicken, until it reduces to a sticky glaze.",
+    "Slice the chicken, drizzle with the remaining glaze, and sprinkle with sesame seeds and green onion."
+   ],
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "chicken",
+    "teriyaki",
+    "glazed",
+    "soy sauce"
+   ],
+   "photoQuery": "Chicken teriyaki"
+  },
+  {
+   "title": "Yakitori (Grilled Chicken Skewers)",
+   "description": "Bite-size chicken thigh and green onion skewers grilled over high heat and brushed with sweet-savory tare sauce.",
+   "servings": 4,
+   "prepMinutes": 30,
+   "cookMinutes": 15,
+   "ingredients": [
+    "# For the tare",
+    "1/2 cup soy sauce",
+    "1/2 cup mirin",
+    "1/4 cup sake",
+    "2 tbsp brown sugar",
+    "2 green onion tops",
+    "# For the skewers",
+    "1 1/2 lb boneless skinless chicken thighs, cut into 1-inch pieces",
+    "6 green onions (white and light green parts), cut into 1-inch lengths",
+    "12 bamboo skewers, soaked in water for 30 minutes",
+    "1 tbsp vegetable oil",
+    "1 pinch shichimi togarashi (optional)"
+   ],
+   "steps": [
+    "Combine the soy sauce, mirin, sake, brown sugar, and green onion tops in a small saucepan and bring to a boil.",
+    "Reduce the heat and simmer for 10 to 12 minutes until reduced by about a third and slightly syrupy, then discard the onion tops.",
+    "Thread the chicken and green onion pieces alternately onto the soaked skewers.",
+    "Preheat a grill or broiler to high, about 450°F (230°C), and brush the grates or pan with oil.",
+    "Grill the skewers for 3 to 4 minutes per side until lightly charred.",
+    "Brush the skewers generously with tare and grill for 1 minute more per side, repeating two or three times to build a glaze.",
+    "Check that the chicken is cooked through to 165°F (74°C).",
+    "Serve hot with extra tare and a sprinkle of shichimi togarashi."
+   ],
+   "mealTypes": [
+    "Entree",
+    "Appetizer"
+   ],
+   "seasons": [
+    "Summer"
+   ],
+   "holidays": [
+    "Game Day"
+   ],
+   "keywords": [
+    "chicken",
+    "grilled",
+    "skewers",
+    "teriyaki"
+   ],
+   "photoQuery": "Yakitori"
+  },
+  {
+   "title": "Sunomono (Japanese Cucumber Salad)",
+   "description": "A crisp, refreshing salad of paper-thin cucumbers and wakame in a light sweet rice vinegar dressing.",
+   "servings": 4,
+   "prepMinutes": 15,
+   "cookMinutes": 0,
+   "ingredients": [
+    "2 Japanese or Persian cucumbers",
+    "1/2 tsp salt",
+    "1 tbsp dried wakame seaweed",
+    "3 tbsp rice vinegar",
+    "1 tbsp sugar",
+    "1 tsp soy sauce",
+    "1 tsp toasted sesame seeds"
+   ],
+   "steps": [
+    "Slice the cucumbers as thinly as possible into rounds.",
+    "Toss the cucumbers with the salt in a bowl and let stand for 10 minutes.",
+    "Meanwhile, soak the wakame in cold water for 5 to 10 minutes until rehydrated, then drain and squeeze dry.",
+    "Squeeze the cucumbers firmly to remove the excess liquid.",
+    "Stir together the rice vinegar, sugar, and soy sauce until the sugar dissolves.",
+    "Combine the cucumbers and wakame with the dressing and toss well.",
+    "Chill for at least 10 minutes and serve sprinkled with sesame seeds."
+   ],
+   "mealTypes": [
+    "Soup & Salad",
+    "Side Dish"
+   ],
+   "seasons": [
+    "Summer"
+   ],
+   "holidays": [],
+   "keywords": [
+    "cucumber",
+    "salad",
+    "vinegar",
+    "vegetarian"
+   ],
+   "photoQuery": "Sunomono"
+  },
+  {
+   "title": "Spinach Gomaae (Spinach with Sesame Dressing)",
+   "description": "Blanched spinach tossed in a nutty, slightly sweet toasted sesame dressing, a classic Japanese side dish.",
+   "servings": 4,
+   "prepMinutes": 10,
+   "cookMinutes": 5,
+   "ingredients": [
+    "1 lb fresh spinach, washed",
+    "3 tbsp white sesame seeds",
+    "1 tbsp soy sauce",
+    "2 tsp sugar",
+    "1 tsp mirin"
+   ],
+   "steps": [
+    "Bring a large pot of salted water to a boil and prepare a bowl of ice water.",
+    "Toast the sesame seeds in a dry skillet over medium-low heat for 2 to 3 minutes, shaking often, until fragrant and golden.",
+    "Grind the warm seeds in a mortar and pestle or spice grinder until about half are crushed.",
+    "Mix the ground sesame with the soy sauce, sugar, and mirin to form a thick dressing.",
+    "Blanch the spinach for 30 to 45 seconds, then transfer immediately to the ice water.",
+    "Drain the spinach, gather it into a bundle, and squeeze out as much water as possible.",
+    "Cut the spinach into 1 1/2-inch lengths and toss with the sesame dressing just before serving."
+   ],
+   "mealTypes": [
+    "Side Dish"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "spinach",
+    "sesame",
+    "vegetarian",
+    "side"
+   ],
+   "photoQuery": "Gomaae"
+  },
+  {
+   "title": "Zaru Soba (Cold Buckwheat Noodles)",
+   "description": "Chilled buckwheat noodles served on a bamboo tray with a savory dipping sauce, a cooling summer favorite.",
+   "servings": 2,
+   "prepMinutes": 15,
+   "cookMinutes": 10,
+   "ingredients": [
+    "# For the dipping sauce",
+    "1 cup dashi",
+    "1/4 cup soy sauce",
+    "1/4 cup mirin",
+    "# For the noodles",
+    "7 oz dried soba noodles",
+    "2 green onions, thinly sliced",
+    "1 tsp wasabi paste",
+    "1 sheet nori, cut into thin strips"
+   ],
+   "steps": [
+    "Combine the dashi, soy sauce, and mirin in a small saucepan and bring to a simmer for 1 minute.",
+    "Cool the dipping sauce, then chill it in the refrigerator.",
+    "Bring a large pot of water to a boil and add the soba noodles, stirring to separate them.",
+    "Cook the noodles according to the package, usually 4 to 5 minutes, until just tender.",
+    "Drain and rinse the noodles thoroughly under cold running water, rubbing gently to remove the surface starch.",
+    "Plunge the noodles into ice water for 1 minute, then drain well.",
+    "Arrange the noodles on bamboo trays or plates and top with nori strips.",
+    "Serve with small cups of the chilled dipping sauce, green onions, and wasabi to stir in to taste."
+   ],
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [
+    "Summer"
+   ],
+   "holidays": [
+    "New Year's"
+   ],
+   "keywords": [
+    "soba",
+    "noodles",
+    "cold",
+    "buckwheat"
+   ],
+   "photoQuery": "Zaru soba"
+  },
+  {
+   "title": "Kitsune Udon",
+   "description": "Thick udon noodles in a light dashi broth topped with sweet simmered fried tofu pouches.",
+   "servings": 2,
+   "prepMinutes": 10,
+   "cookMinutes": 20,
+   "ingredients": [
+    "# For the tofu",
+    "4 aburaage (fried tofu pouches)",
+    "1/2 cup dashi",
+    "1 1/2 tbsp soy sauce",
+    "1 1/2 tbsp mirin",
+    "1 tbsp sugar",
+    "# For the soup",
+    "3 cups dashi",
+    "1 1/2 tbsp light soy sauce",
+    "1 tbsp mirin",
+    "1/2 tsp salt",
+    "2 (7 oz) packages frozen udon noodles",
+    "2 green onions, thinly sliced",
+    "2 slices kamaboko fish cake (optional)"
+   ],
+   "steps": [
+    "Pour boiling water over the aburaage to remove excess oil, then drain and squeeze gently.",
+    "Simmer the aburaage with 1/2 cup dashi, soy sauce, mirin, and sugar in a small saucepan over low heat for 10 minutes, turning once, until most of the liquid is absorbed.",
+    "In a separate pot, bring the 3 cups dashi, light soy sauce, mirin, and salt to a simmer.",
+    "Cook the udon in a large pot of boiling water for 1 to 2 minutes until heated through and loosened, then drain.",
+    "Divide the noodles between two large bowls and ladle the hot broth over them.",
+    "Top each bowl with two pieces of simmered aburaage, kamaboko if using, and green onions.",
+    "Serve immediately."
+   ],
+   "mealTypes": [
+    "Entree",
+    "Soup & Salad"
+   ],
+   "seasons": [
+    "Winter"
+   ],
+   "holidays": [],
+   "keywords": [
+    "udon",
+    "noodles",
+    "tofu",
+    "soup"
+   ],
+   "photoQuery": "Kitsune udon"
+  },
+  {
+   "title": "Miso-Glazed Cod",
+   "description": "Cod fillets marinated in a sweet white miso mixture and broiled until caramelized and flaky.",
+   "servings": 4,
+   "prepMinutes": 10,
+   "cookMinutes": 12,
+   "ingredients": [
+    "1/3 cup white miso",
+    "2 tbsp mirin",
+    "2 tbsp sake",
+    "2 tbsp sugar",
+    "4 (6 oz) cod or black cod fillets, skin on",
+    "1 tsp vegetable oil",
+    "1 green onion, thinly sliced"
+   ],
+   "steps": [
+    "Whisk the miso, mirin, sake, and sugar together until smooth.",
+    "Pat the fish dry and coat it all over with the miso mixture in a shallow dish.",
+    "Cover and refrigerate for at least 2 hours or up to 2 days.",
+    "Preheat the broiler with the rack about 6 inches from the heat and line a baking sheet with lightly oiled foil.",
+    "Wipe most of the marinade off the fish, leaving a thin film, and place the fillets skin side down on the sheet.",
+    "Broil for 8 to 12 minutes until the surface is deeply caramelized in spots and the fish flakes easily.",
+    "Garnish with green onion and serve with steamed rice."
+   ],
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "fish",
+    "cod",
+    "miso",
+    "broiled"
+   ],
+   "photoQuery": "Miso black cod"
+  },
+  {
+   "title": "Shokupan (Japanese Milk Bread)",
+   "description": "A tall, fluffy, slightly sweet white sandwich loaf made extra soft with a cooked flour paste called tangzhong.",
+   "servings": 10,
+   "prepMinutes": 30,
+   "cookMinutes": 35,
+   "ingredients": [
+    "# For the tangzhong",
+    "3 tbsp bread flour",
+    "1/2 cup whole milk",
+    "# For the dough",
+    "2 1/2 cups bread flour",
+    "3 tbsp sugar",
+    "2 1/4 tsp instant yeast",
+    "1 tsp salt",
+    "1/2 cup whole milk, warmed",
+    "1 egg",
+    "3 tbsp unsalted butter, softened",
+    "1 tbsp milk, for brushing"
+   ],
+   "steps": [
+    "Whisk the 3 tbsp flour and 1/2 cup milk in a small saucepan over medium-low heat for 2 to 3 minutes until it thickens to a paste, then let it cool.",
+    "Combine the flour, sugar, yeast, and salt in a stand mixer bowl.",
+    "Add the warm milk, egg, and cooled tangzhong and knead with the dough hook on low for 5 minutes.",
+    "Add the softened butter and knead on medium for 10 to 12 minutes until the dough is smooth, elastic, and passes the windowpane test.",
+    "Cover and let rise in a warm place for 1 hour or until doubled.",
+    "Punch down the dough, divide it into 3 equal pieces, and roll each into an oval, fold in the sides, and roll up tightly.",
+    "Place the rolls seam side down in a greased 9 x 5-inch loaf pan, cover, and let rise for 45 to 60 minutes until the dough reaches the rim.",
+    "Preheat the oven to 350°F (175°C).",
+    "Brush the top with milk and bake for 30 to 35 minutes until deep golden and the internal temperature reaches 190°F (88°C).",
+    "Turn out onto a rack and cool completely before slicing."
+   ],
+   "mealTypes": [
+    "Bread",
+    "Breakfast"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "bread",
+    "milk bread",
+    "tangzhong",
+    "baking"
+   ],
+   "photoQuery": "Shokupan"
+  },
+  {
+   "title": "Dorayaki (Red Bean Pancakes)",
+   "description": "Two fluffy honey pancakes sandwiched around sweet red bean paste, a beloved Japanese snack.",
+   "servings": 6,
+   "prepMinutes": 15,
+   "cookMinutes": 20,
+   "ingredients": [
+    "2 eggs",
+    "1/3 cup sugar",
+    "1 tbsp honey",
+    "1 cup all-purpose flour",
+    "1 tsp baking powder",
+    "3 to 4 tbsp water",
+    "1 tsp vegetable oil",
+    "1 1/4 cups sweet red bean paste (anko)"
+   ],
+   "steps": [
+    "Whisk the eggs, sugar, and honey in a bowl for 2 minutes until pale and slightly fluffy.",
+    "Sift in the flour and baking powder and stir just until smooth.",
+    "Cover and let the batter rest for 15 minutes, then stir in water a tablespoon at a time until it flows like thick pancake batter.",
+    "Heat a nonstick skillet over medium-low heat and wipe it with a little oil, removing the excess with a paper towel.",
+    "Pour about 3 tbsp batter into the pan to form a 3 1/2-inch round.",
+    "Cook for about 1 1/2 minutes until bubbles appear on the surface, then flip and cook 30 seconds more.",
+    "Transfer the pancakes to a plate and cover with a damp towel to keep them soft.",
+    "Spread about 3 tbsp red bean paste on one pancake, top with a second, and press the edges gently to seal."
+   ],
+   "mealTypes": [
+    "Dessert"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "pancake",
+    "red bean",
+    "sweet",
+    "snack"
+   ],
+   "photoQuery": "Dorayaki"
+  },
+  {
+   "title": "Japanese Souffle Cheesecake",
+   "description": "A light, jiggly cotton-soft cheesecake that is baked gently in a water bath.",
+   "servings": 8,
+   "prepMinutes": 30,
+   "cookMinutes": 70,
+   "ingredients": [
+    "8 oz cream cheese, softened",
+    "1/4 cup unsalted butter",
+    "1/2 cup whole milk",
+    "6 eggs, separated",
+    "1/4 cup cake flour",
+    "2 tbsp cornstarch",
+    "1 tbsp lemon juice",
+    "1/4 tsp cream of tartar",
+    "2/3 cup sugar",
+    "2 tbsp powdered sugar, for dusting"
+   ],
+   "steps": [
+    "Preheat the oven to 320°F (160°C) and line the bottom and sides of an 8-inch round cake pan (not springform) with parchment that extends 2 inches above the rim.",
+    "Melt the cream cheese, butter, and milk together in a bowl set over simmering water, whisking until smooth, then let cool slightly.",
+    "Whisk in the egg yolks one at a time, then sift in the cake flour and cornstarch and whisk until smooth; stir in the lemon juice.",
+    "In a clean bowl, beat the egg whites with the cream of tartar until foamy, then gradually add the sugar and beat to soft-to-medium peaks.",
+    "Fold one third of the whites into the yolk mixture to lighten it, then gently fold in the rest until no streaks remain.",
+    "Pour the batter into the prepared pan and tap it on the counter to release large bubbles.",
+    "Set the pan in a larger roasting pan and pour in hot water to come 1 inch up the sides.",
+    "Bake for 25 minutes, then reduce the oven to 285°F (140°C) and bake for 45 to 55 minutes more until golden and set.",
+    "Turn off the oven and leave the cake inside with the door slightly open for 15 minutes to prevent collapsing.",
+    "Remove from the pan, cool, and dust with powdered sugar before serving warm or chilled."
+   ],
+   "mealTypes": [
+    "Dessert"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "cheesecake",
+    "souffle",
+    "cream cheese",
+    "baking"
+   ],
+   "photoQuery": "Japanese cheesecake"
+  },
+  {
+   "title": "Hambagu (Japanese Hamburger Steak)",
+   "description": "Tender beef and pork patties pan-seared and simmered in a glossy ketchup and Worcestershire pan sauce, a home-style yoshoku classic.",
+   "servings": 4,
+   "prepMinutes": 20,
+   "cookMinutes": 25,
+   "ingredients": [
+    "# For the patties",
+    "1 tbsp butter",
+    "1 medium onion, finely chopped",
+    "1/2 cup panko breadcrumbs",
+    "3 tbsp milk",
+    "12 oz ground beef",
+    "4 oz ground pork",
+    "1 egg",
+    "1/2 tsp salt",
+    "1/4 tsp black pepper",
+    "1 pinch ground nutmeg",
+    "1 tbsp vegetable oil",
+    "# For the sauce",
+    "1/4 cup red wine or water",
+    "3 tbsp ketchup",
+    "2 tbsp Worcestershire sauce",
+    "1 tbsp butter"
+   ],
+   "steps": [
+    "Melt the butter in a skillet over medium heat and cook the onion for 6 to 8 minutes until soft and golden, then cool completely.",
+    "Soak the panko in the milk for 5 minutes.",
+    "Combine the beef, pork, egg, soaked panko, cooled onion, salt, pepper, and nutmeg and knead by hand for 1 to 2 minutes until sticky.",
+    "Divide into 4 portions, toss each between your hands to remove air pockets, and shape into 3/4-inch-thick ovals with a slight dent in the center.",
+    "Heat the oil in a large skillet over medium-high heat and sear the patties for 3 minutes until browned.",
+    "Flip, add 2 tbsp water, cover, reduce the heat to medium-low, and cook for 8 to 10 minutes until the center reaches 160°F (71°C).",
+    "Transfer the patties to plates and add the wine, ketchup, and Worcestershire sauce to the pan.",
+    "Simmer for 1 to 2 minutes, scraping up the browned bits, then swirl in the butter.",
+    "Spoon the sauce over the patties and serve with rice and a green salad."
+   ],
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "beef",
+    "hamburger steak",
+    "yoshoku",
+    "comfort food"
+   ],
+   "photoQuery": "Hambagu"
+  },
+  {
+   "title": "Japanese Potato Salad",
+   "description": "Creamy mashed-and-chunky potato salad with cucumber, carrot, egg, and ham dressed in tangy Japanese mayonnaise.",
+   "servings": 6,
+   "prepMinutes": 20,
+   "cookMinutes": 20,
+   "ingredients": [
+    "2 lb russet or Yukon Gold potatoes, peeled and cut into chunks",
+    "1 tbsp rice vinegar",
+    "1/2 tsp salt",
+    "1 Japanese cucumber, thinly sliced",
+    "1/2 small carrot, thinly sliced into quarter moons",
+    "1/4 small onion, very thinly sliced",
+    "2 hard-boiled eggs, chopped",
+    "3 slices ham, cut into strips",
+    "1/2 cup Japanese mayonnaise (such as Kewpie)",
+    "1/4 tsp black pepper"
+   ],
+   "steps": [
+    "Place the potatoes in a pot of cold salted water, bring to a boil, and cook for 12 to 15 minutes until tender.",
+    "Add the carrot slices for the last 2 minutes of cooking.",
+    "Drain well, return the potatoes to the hot pot, and shake over low heat for 1 minute to dry them.",
+    "Roughly mash the potatoes, leaving some chunks, and stir in the rice vinegar while still hot; let cool to room temperature.",
+    "Toss the cucumber and onion with a pinch of salt, let stand for 10 minutes, then squeeze out the liquid.",
+    "Fold the cucumber, onion, carrot, eggs, and ham into the potatoes.",
+    "Stir in the mayonnaise, season with salt and pepper, and chill for 30 minutes before serving."
+   ],
+   "mealTypes": [
+    "Side Dish",
+    "Soup & Salad"
+   ],
+   "seasons": [],
+   "holidays": [
+    "Game Day"
+   ],
+   "keywords": [
+    "potato",
+    "salad",
+    "mayonnaise",
+    "egg"
+   ],
+   "photoQuery": "Japanese potato salad"
+  }
+ ]
+}

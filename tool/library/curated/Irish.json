@@ -1,0 +1,1825 @@
+{
+ "cuisine": "Irish",
+ "selected": [
+  {
+   "page": "Cookbook:Irish Soda Bread",
+   "mealTypes": [
+    "Bread"
+   ],
+   "seasons": [],
+   "holidays": [
+    "St. Patrick's Day"
+   ],
+   "keywords": [
+    "soda bread",
+    "buttermilk",
+    "quick bread"
+   ]
+  },
+  {
+   "page": "Cookbook:Whole Wheat Irish Soda Bread",
+   "mealTypes": [
+    "Bread",
+    "Breakfast"
+   ],
+   "seasons": [],
+   "holidays": [
+    "St. Patrick's Day"
+   ],
+   "keywords": [
+    "brown bread",
+    "whole wheat",
+    "buttermilk"
+   ]
+  },
+  {
+   "page": "Cookbook:Boxty (Irish Potato Cakes)",
+   "mealTypes": [
+    "Side Dish",
+    "Breakfast"
+   ],
+   "seasons": [],
+   "holidays": [
+    "St. Patrick's Day"
+   ],
+   "keywords": [
+    "potato",
+    "pancakes",
+    "griddle"
+   ]
+  },
+  {
+   "page": "Cookbook:Colcannon",
+   "mealTypes": [
+    "Side Dish"
+   ],
+   "seasons": [
+    "Fall",
+    "Winter"
+   ],
+   "holidays": [
+    "St. Patrick's Day",
+    "Halloween"
+   ],
+   "keywords": [
+    "potato",
+    "cabbage",
+    "mashed"
+   ]
+  },
+  {
+   "page": "Cookbook:Irish Stew",
+   "mealTypes": [
+    "Entree",
+    "Soup & Salad"
+   ],
+   "seasons": [
+    "Winter"
+   ],
+   "holidays": [
+    "St. Patrick's Day"
+   ],
+   "keywords": [
+    "lamb",
+    "mutton",
+    "potato",
+    "stew"
+   ]
+  },
+  {
+   "page": "Cookbook:Coddle",
+   "mealTypes": [
+    "Entree",
+    "Soup & Salad"
+   ],
+   "seasons": [
+    "Winter"
+   ],
+   "holidays": [],
+   "keywords": [
+    "sausage",
+    "bacon",
+    "potato",
+    "dublin"
+   ]
+  },
+  {
+   "page": "Cookbook:Beef and Guinness Casserole",
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [
+    "Fall",
+    "Winter"
+   ],
+   "holidays": [
+    "St. Patrick's Day"
+   ],
+   "keywords": [
+    "beef",
+    "stout",
+    "stew",
+    "champ"
+   ]
+  },
+  {
+   "page": "Cookbook:Champ (Irish Mashed Potato with Scallion)",
+   "mealTypes": [
+    "Side Dish"
+   ],
+   "seasons": [],
+   "holidays": [
+    "St. Patrick's Day"
+   ],
+   "keywords": [
+    "potato",
+    "scallion",
+    "mashed",
+    "vegetarian"
+   ]
+  },
+  {
+   "page": "Cookbook:Caramel Squares",
+   "mealTypes": [
+    "Dessert"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "millionaire's shortbread",
+    "caramel",
+    "chocolate",
+    "bars"
+   ]
+  },
+  {
+   "page": "Cookbook:A Nice Cup of Tea",
+   "mealTypes": [
+    "Beverage"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "tea",
+    "hot drink",
+    "milk"
+   ]
+  },
+  {
+   "page": "Cookbook:Jambons",
+   "mealTypes": [
+    "Appetizer",
+    "Breakfast"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "ham",
+    "cheese",
+    "puff pastry"
+   ]
+  },
+  {
+   "page": "Cookbook:Irish Pastie",
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "pork",
+    "potato",
+    "chip shop",
+    "northern irish"
+   ]
+  },
+  {
+   "page": "Cookbook:Homemade Corned Beef",
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [],
+   "holidays": [
+    "St. Patrick's Day",
+    "Christmas"
+   ],
+   "keywords": [
+    "corned beef",
+    "brisket",
+    "stout"
+   ]
+  },
+  {
+   "page": "Cookbook:Irish Fruit Cake",
+   "mealTypes": [
+    "Dessert"
+   ],
+   "seasons": [],
+   "holidays": [
+    "Christmas"
+   ],
+   "keywords": [
+    "fruitcake",
+    "sultanas",
+    "baked"
+   ]
+  },
+  {
+   "page": "Cookbook:Potato and Leek Soup",
+   "mealTypes": [
+    "Soup & Salad"
+   ],
+   "seasons": [
+    "Fall",
+    "Winter",
+    "Spring"
+   ],
+   "holidays": [
+    "St. Patrick's Day"
+   ],
+   "keywords": [
+    "potato",
+    "leek",
+    "soup",
+    "vegetarian"
+   ]
+  }
+ ],
+ "original": [
+  {
+   "title": "Bacon and Cabbage with Parsley Sauce",
+   "description": "Ireland's quintessential Sunday dinner: a boiled bacon joint served with tender cabbage, floury potatoes, and a creamy parsley sauce.",
+   "servings": 6,
+   "prepMinutes": 20,
+   "cookMinutes": 120,
+   "ingredients": [
+    "3 lb boneless smoked pork shoulder or bacon joint (collar or loin)",
+    "1 onion, halved",
+    "1 bay leaf",
+    "6 black peppercorns",
+    "1 head green cabbage, cored and cut into wedges",
+    "2 lb floury potatoes, scrubbed",
+    "2 tbsp butter",
+    "# For the parsley sauce",
+    "3 tbsp butter",
+    "3 tbsp all-purpose flour",
+    "2 cups whole milk",
+    "1/2 cup cooking liquid from the bacon",
+    "1/2 cup chopped fresh parsley",
+    "1/4 tsp black pepper"
+   ],
+   "steps": [
+    "Place the bacon joint in a large pot, cover with cold water, bring to a boil, then drain and discard the water to remove excess salt.",
+    "Return the joint to the pot with the onion, bay leaf, and peppercorns, cover with fresh cold water, and bring to a gentle simmer.",
+    "Simmer, partly covered, for about 20 minutes per pound (roughly 1 hour), until a skewer slides easily into the meat.",
+    "Meanwhile, boil the potatoes in their skins in salted water for 20 to 25 minutes until tender, then drain and keep warm.",
+    "Lift the cooked bacon onto a board, cover loosely with foil, and let it rest for 15 minutes; reserve the cooking liquid.",
+    "Bring the bacon cooking liquid back to a boil, add the cabbage wedges, and cook for 8 to 10 minutes until just tender.",
+    "Drain the cabbage well and toss it with 2 tablespoons butter and plenty of black pepper.",
+    "For the sauce, melt the butter in a saucepan, stir in the flour, and cook for 1 minute without browning.",
+    "Gradually whisk in the milk and 1/2 cup of the cooking liquid, then simmer, stirring, for 3 to 4 minutes until smooth and thickened.",
+    "Stir in the parsley and pepper, taste, and add salt only if needed, since the bacon liquid is salty.",
+    "Slice the bacon thickly and serve with the cabbage, potatoes, and parsley sauce spooned over."
+   ],
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [
+    "Fall",
+    "Winter"
+   ],
+   "holidays": [
+    "St. Patrick's Day"
+   ],
+   "keywords": [
+    "bacon",
+    "cabbage",
+    "pork",
+    "sunday dinner"
+   ],
+   "photoQuery": "Bacon and cabbage Irish"
+  },
+  {
+   "title": "Irish Apple Cake",
+   "description": "A moist, buttery cake studded with tart apples and topped with crunchy sugar, traditionally served warm with custard or cream.",
+   "servings": 8,
+   "prepMinutes": 20,
+   "cookMinutes": 50,
+   "ingredients": [
+    "2 cups all-purpose flour",
+    "2 tsp baking powder",
+    "1/2 tsp ground cinnamon",
+    "1/4 tsp salt",
+    "1/2 cup (1 stick) cold butter, cubed",
+    "2/3 cup granulated sugar",
+    "2 eggs",
+    "1/2 cup whole milk",
+    "1 tsp vanilla extract",
+    "3 tart cooking apples (such as Granny Smith), peeled, cored, and chopped",
+    "2 tbsp demerara or turbinado sugar, for topping"
+   ],
+   "steps": [
+    "Preheat the oven to 350°F (175°C) and grease and line a 9-inch springform pan.",
+    "Whisk the flour, baking powder, cinnamon, and salt together in a large bowl.",
+    "Rub the cold butter into the flour with your fingertips until the mixture looks like fine breadcrumbs, then stir in the granulated sugar.",
+    "Beat the eggs with the milk and vanilla, then stir into the dry ingredients to make a thick, soft batter.",
+    "Fold in the chopped apples until evenly distributed.",
+    "Spread the batter in the prepared pan and sprinkle the demerara sugar evenly over the top.",
+    "Bake for 45 to 50 minutes, until golden brown and a skewer inserted in the center comes out clean.",
+    "Cool in the pan for 10 minutes, then release the sides and serve warm with custard, whipped cream, or vanilla ice cream."
+   ],
+   "mealTypes": [
+    "Dessert"
+   ],
+   "seasons": [
+    "Fall"
+   ],
+   "holidays": [
+    "Halloween"
+   ],
+   "keywords": [
+    "apple",
+    "cake",
+    "baked"
+   ],
+   "photoQuery": "Irish apple cake"
+  },
+  {
+   "title": "Barmbrack",
+   "description": "A lightly sweet, tea-soaked yeasted fruit bread traditionally baked for Halloween with a ring hidden inside to foretell a wedding.",
+   "servings": 12,
+   "prepMinutes": 30,
+   "cookMinutes": 50,
+   "ingredients": [
+    "1 cup hot strong black tea",
+    "1 1/2 cups mixed dried fruit (raisins, sultanas, currants)",
+    "1/4 cup chopped candied mixed peel",
+    "3 1/2 cups all-purpose flour",
+    "1 tsp ground mixed spice (or 1/2 tsp cinnamon plus 1/4 tsp each nutmeg and allspice)",
+    "1/2 tsp salt",
+    "1/4 cup light brown sugar",
+    "2 1/4 tsp (1 packet) instant yeast",
+    "2/3 cup lukewarm milk",
+    "4 tbsp butter, melted",
+    "1 egg, beaten",
+    "# For the glaze",
+    "1 tbsp sugar",
+    "1 tbsp boiling water"
+   ],
+   "steps": [
+    "Pour the hot tea over the dried fruit and peel in a bowl, cover, and soak for at least 1 hour (or overnight), then drain well, reserving the tea.",
+    "Combine the flour, mixed spice, salt, brown sugar, and yeast in a large bowl.",
+    "Add the lukewarm milk, melted butter, beaten egg, and 2 tablespoons of the reserved tea, and mix to a soft dough.",
+    "Knead on a floured surface for 8 to 10 minutes until smooth and elastic.",
+    "Knead in the drained fruit until evenly distributed, adding a little flour if the dough becomes sticky.",
+    "Place in an oiled bowl, cover, and let rise in a warm place for about 1 1/2 hours until doubled.",
+    "Punch down, shape into a loaf, and place in a greased 9x5-inch loaf pan; if you like, push a foil-wrapped ring into the dough.",
+    "Cover and let rise for 30 to 45 minutes until risen just above the rim of the pan, and preheat the oven to 375°F (190°C).",
+    "Bake for 40 to 50 minutes, until deep golden and hollow-sounding when tapped underneath.",
+    "Dissolve the sugar in the boiling water, brush over the hot loaf, and return to the oven for 2 minutes to set the glaze.",
+    "Cool on a wire rack and serve sliced and buttered, or toasted."
+   ],
+   "mealTypes": [
+    "Bread",
+    "Dessert"
+   ],
+   "seasons": [
+    "Fall"
+   ],
+   "holidays": [
+    "Halloween"
+   ],
+   "keywords": [
+    "fruit bread",
+    "tea",
+    "yeast",
+    "halloween"
+   ],
+   "photoQuery": "Barmbrack"
+  },
+  {
+   "title": "Potato Farls",
+   "description": "Northern Irish griddle potato bread made from leftover mashed potatoes, an essential part of an Ulster fry.",
+   "servings": 4,
+   "prepMinutes": 15,
+   "cookMinutes": 15,
+   "ingredients": [
+    "1 lb floury potatoes, peeled and quartered",
+    "2 tbsp butter, melted",
+    "1/2 tsp salt",
+    "2/3 cup all-purpose flour, plus extra for dusting",
+    "1/2 tsp baking powder",
+    "1 tbsp butter or bacon fat, for frying"
+   ],
+   "steps": [
+    "Boil the potatoes in salted water for 15 to 20 minutes until very tender, then drain and let them steam dry for a few minutes.",
+    "Mash the potatoes until completely smooth while still warm, then stir in the melted butter and salt.",
+    "Sift in the flour and baking powder and work gently into the potato until it forms a soft dough; do not overwork it.",
+    "Turn the dough onto a floured surface and pat or roll it into a round about 1/4 inch (6 mm) thick and 9 inches across.",
+    "Cut the round into quarters (farls) with a floured knife.",
+    "Heat a heavy skillet or griddle over medium heat and dry-cook the farls for 3 to 4 minutes per side until speckled brown.",
+    "To serve, fry the farls in butter or bacon fat for 2 minutes per side until golden and crisp."
+   ],
+   "mealTypes": [
+    "Breakfast",
+    "Bread"
+   ],
+   "seasons": [],
+   "holidays": [
+    "St. Patrick's Day"
+   ],
+   "keywords": [
+    "potato bread",
+    "griddle",
+    "ulster fry"
+   ],
+   "photoQuery": "Potato farls"
+  },
+  {
+   "title": "Irish Seafood Chowder",
+   "description": "A creamy, smoky chowder loaded with fish and shellfish, served all along the Irish coast with a slice of brown bread.",
+   "servings": 6,
+   "prepMinutes": 20,
+   "cookMinutes": 35,
+   "ingredients": [
+    "2 tbsp butter",
+    "4 oz smoked bacon, diced",
+    "1 onion, finely chopped",
+    "1 leek, white part only, sliced",
+    "2 celery stalks, diced",
+    "2 carrots, diced",
+    "2 tbsp all-purpose flour",
+    "1/2 cup dry white wine",
+    "3 cups fish stock",
+    "1 lb potatoes, peeled and diced",
+    "1 bay leaf",
+    "8 oz skinless salmon fillet, cut into chunks",
+    "8 oz smoked haddock or cod, cut into chunks",
+    "1 lb mussels, scrubbed and debearded",
+    "1 cup heavy cream",
+    "1/4 cup chopped fresh parsley",
+    "1/2 tsp black pepper"
+   ],
+   "steps": [
+    "Melt the butter in a large pot over medium heat and cook the bacon for 4 minutes until it renders its fat.",
+    "Add the onion, leek, celery, and carrots and cook gently for 6 to 8 minutes until softened but not browned.",
+    "Sprinkle in the flour and stir for 1 minute, then pour in the wine and let it bubble for 1 minute.",
+    "Gradually stir in the fish stock, then add the potatoes and bay leaf.",
+    "Bring to a simmer and cook for 12 to 15 minutes until the potatoes are just tender.",
+    "Add the salmon and smoked fish, then scatter the mussels on top, cover, and simmer for 5 minutes until the mussels open; discard any that stay closed.",
+    "Stir in the cream and pepper and heat through gently without boiling.",
+    "Remove the bay leaf, taste for salt, sprinkle with parsley, and serve with brown soda bread and butter."
+   ],
+   "mealTypes": [
+    "Soup & Salad",
+    "Entree"
+   ],
+   "seasons": [
+    "Fall",
+    "Winter"
+   ],
+   "holidays": [],
+   "keywords": [
+    "seafood",
+    "fish",
+    "mussels",
+    "chowder"
+   ],
+   "photoQuery": "Seafood chowder"
+  },
+  {
+   "title": "Irish Coffee",
+   "description": "Hot coffee spiked with Irish whiskey and brown sugar, crowned with a float of lightly whipped cream.",
+   "servings": 1,
+   "prepMinutes": 5,
+   "cookMinutes": 0,
+   "ingredients": [
+    "1 1/2 oz (3 tbsp) Irish whiskey",
+    "2 tsp brown sugar",
+    "5 oz (2/3 cup) hot, strong brewed coffee",
+    "2 tbsp heavy cream, lightly whipped until just thickened"
+   ],
+   "steps": [
+    "Warm a stemmed glass or mug by filling it with hot water, then empty it.",
+    "Add the brown sugar and pour in the hot coffee, stirring until the sugar dissolves.",
+    "Stir in the Irish whiskey.",
+    "Hold a spoon upside down just above the surface of the coffee and slowly pour the lightly whipped cream over the back of the spoon so it floats on top.",
+    "Serve immediately without stirring, drinking the coffee through the cool cream."
+   ],
+   "mealTypes": [
+    "Beverage"
+   ],
+   "seasons": [
+    "Fall",
+    "Winter"
+   ],
+   "holidays": [
+    "St. Patrick's Day"
+   ],
+   "keywords": [
+    "coffee",
+    "whiskey",
+    "cocktail",
+    "cream"
+   ],
+   "photoQuery": "Irish coffee"
+  },
+  {
+   "title": "Irish Porridge",
+   "description": "Creamy, slow-cooked steel-cut oatmeal with a pinch of salt, finished with brown sugar, cream, and a drizzle of honey or a splash of whiskey.",
+   "servings": 4,
+   "prepMinutes": 5,
+   "cookMinutes": 30,
+   "ingredients": [
+    "1 cup steel-cut (pinhead) oats",
+    "3 cups water",
+    "1 cup whole milk",
+    "1/4 tsp salt",
+    "2 tbsp brown sugar or honey",
+    "1/4 cup heavy cream, for serving",
+    "1 cup fresh berries or sliced banana (optional)"
+   ],
+   "steps": [
+    "Bring the water and milk to a boil in a heavy saucepan.",
+    "Stir in the oats and salt, reduce the heat to low, and simmer, stirring often, for 25 to 30 minutes until thick and creamy.",
+    "Add a splash more water or milk if the porridge becomes too thick before the oats are tender.",
+    "Remove from the heat, cover, and let stand for 2 minutes.",
+    "Spoon into bowls and top each with brown sugar or honey, a little cream, and fruit if using."
+   ],
+   "mealTypes": [
+    "Breakfast"
+   ],
+   "seasons": [
+    "Fall",
+    "Winter"
+   ],
+   "holidays": [],
+   "keywords": [
+    "oats",
+    "porridge",
+    "oatmeal",
+    "vegetarian"
+   ],
+   "photoQuery": "Irish porridge oats"
+  },
+  {
+   "title": "Irish Cream Cheesecake",
+   "description": "A rich baked cheesecake flavored with Irish cream liqueur on a chocolate cookie crust, topped with whipped cream and chocolate shavings.",
+   "servings": 12,
+   "prepMinutes": 30,
+   "cookMinutes": 60,
+   "ingredients": [
+    "# For the crust",
+    "2 cups chocolate cookie crumbs",
+    "5 tbsp butter, melted",
+    "# For the filling",
+    "24 oz cream cheese, softened",
+    "3/4 cup granulated sugar",
+    "3 tbsp all-purpose flour",
+    "3 eggs",
+    "2/3 cup Irish cream liqueur",
+    "1/2 cup sour cream",
+    "1 tsp vanilla extract",
+    "# For the topping",
+    "1 cup heavy cream",
+    "2 tbsp powdered sugar",
+    "1 tbsp Irish cream liqueur",
+    "1 oz dark chocolate, grated"
+   ],
+   "steps": [
+    "Preheat the oven to 325°F (165°C) and wrap the outside of a 9-inch springform pan with foil.",
+    "Mix the cookie crumbs with the melted butter, press firmly into the bottom of the pan, and bake for 10 minutes; let cool.",
+    "Beat the cream cheese and sugar until smooth, then beat in the flour.",
+    "Add the eggs one at a time, beating on low speed just until combined.",
+    "Mix in the Irish cream, sour cream, and vanilla until smooth, scraping the bowl well.",
+    "Pour the filling over the crust and set the pan in a roasting pan; pour hot water into the roasting pan to come halfway up the sides.",
+    "Bake for 55 to 65 minutes, until the edges are set but the center still wobbles slightly.",
+    "Turn off the oven, crack the door, and let the cheesecake cool inside for 1 hour, then refrigerate for at least 6 hours or overnight.",
+    "Whip the cream with the powdered sugar and Irish cream to soft peaks.",
+    "Spread or pipe the cream over the cheesecake and finish with grated chocolate before slicing."
+   ],
+   "mealTypes": [
+    "Dessert"
+   ],
+   "seasons": [],
+   "holidays": [
+    "St. Patrick's Day"
+   ],
+   "keywords": [
+    "cheesecake",
+    "irish cream",
+    "chocolate"
+   ],
+   "photoQuery": "Baileys cheesecake"
+  },
+  {
+   "title": "Irish Shepherd's Pie",
+   "description": "Minced lamb simmered with vegetables in a rich stout gravy and topped with buttery mashed potatoes, baked until golden.",
+   "servings": 6,
+   "prepMinutes": 30,
+   "cookMinutes": 60,
+   "ingredients": [
+    "2 lb floury potatoes, peeled and quartered",
+    "4 tbsp butter",
+    "1/2 cup whole milk",
+    "1 tsp salt, divided",
+    "1 tbsp vegetable oil",
+    "1 1/2 lb ground lamb",
+    "1 onion, finely chopped",
+    "2 carrots, finely diced",
+    "2 celery stalks, finely diced",
+    "2 cloves garlic, minced",
+    "2 tbsp tomato paste",
+    "2 tbsp all-purpose flour",
+    "1/2 cup Irish stout",
+    "1 cup beef or lamb stock",
+    "1 tbsp Worcestershire sauce",
+    "1 tsp chopped fresh thyme",
+    "1 cup frozen peas",
+    "1/2 tsp black pepper"
+   ],
+   "steps": [
+    "Boil the potatoes in salted water for 15 to 20 minutes until tender, drain, and mash with the butter, milk, and 1/2 teaspoon salt.",
+    "Preheat the oven to 400°F (200°C).",
+    "Heat the oil in a large skillet over medium-high heat and brown the lamb for 6 to 8 minutes, breaking it up; spoon off excess fat.",
+    "Add the onion, carrots, and celery and cook for 5 minutes until softened, then stir in the garlic and tomato paste for 1 minute.",
+    "Sprinkle in the flour and stir, then add the stout, stock, Worcestershire sauce, thyme, remaining salt, and pepper.",
+    "Simmer for 15 minutes until the gravy is thick, then stir in the peas.",
+    "Spread the filling in a 9x13-inch or 3-quart baking dish and spoon the mashed potatoes over, sealing to the edges.",
+    "Rough up the surface with a fork so it crisps in the oven.",
+    "Bake for 25 to 30 minutes until bubbling and golden on top, then rest for 5 minutes before serving."
+   ],
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [
+    "Fall",
+    "Winter"
+   ],
+   "holidays": [
+    "St. Patrick's Day"
+   ],
+   "keywords": [
+    "lamb",
+    "mashed potato",
+    "casserole",
+    "stout"
+   ],
+   "photoQuery": "Shepherd's pie"
+  },
+  {
+   "title": "Irish Buttermilk Scones",
+   "description": "Light, tender scones made with buttermilk, perfect split warm and spread with butter and jam.",
+   "servings": 10,
+   "prepMinutes": 15,
+   "cookMinutes": 15,
+   "ingredients": [
+    "3 cups all-purpose flour",
+    "2 tbsp granulated sugar",
+    "1 tbsp baking powder",
+    "1/2 tsp baking soda",
+    "1/2 tsp salt",
+    "6 tbsp cold butter, cubed",
+    "1/2 cup golden raisins (optional)",
+    "1 egg",
+    "3/4 cup buttermilk, plus 1 tbsp for brushing"
+   ],
+   "steps": [
+    "Preheat the oven to 425°F (220°C) and line a baking sheet with parchment.",
+    "Whisk the flour, sugar, baking powder, baking soda, and salt in a large bowl.",
+    "Rub the butter into the flour with your fingertips until it resembles coarse breadcrumbs, then stir in the raisins if using.",
+    "Beat the egg with the buttermilk, pour into the flour mixture, and stir with a fork just until a soft dough forms.",
+    "Turn out onto a floured surface, knead lightly 3 or 4 times, and pat to a 1-inch (2.5 cm) thickness.",
+    "Cut out rounds with a floured 2 1/2-inch cutter, pressing straight down without twisting, and place on the baking sheet.",
+    "Brush the tops with buttermilk.",
+    "Bake for 12 to 15 minutes until risen and golden, then cool slightly and serve with butter and jam."
+   ],
+   "mealTypes": [
+    "Bread",
+    "Breakfast"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "scones",
+    "buttermilk",
+    "baked",
+    "afternoon tea"
+   ],
+   "photoQuery": "Irish scones"
+  },
+  {
+   "title": "Full Irish Breakfast",
+   "description": "The hearty traditional fry-up of sausages, rashers, black and white pudding, eggs, tomatoes, and mushrooms, served with soda bread.",
+   "servings": 4,
+   "prepMinutes": 10,
+   "cookMinutes": 25,
+   "ingredients": [
+    "8 Irish pork sausages",
+    "8 slices back bacon (rashers)",
+    "4 slices black pudding",
+    "4 slices white pudding",
+    "2 tomatoes, halved",
+    "8 oz button mushrooms, sliced",
+    "2 tbsp butter",
+    "1 tbsp vegetable oil",
+    "4 eggs",
+    "1/4 tsp salt",
+    "1/4 tsp black pepper",
+    "4 slices soda bread or toast"
+   ],
+   "steps": [
+    "Preheat the oven to 200°F (95°C) to keep cooked items warm.",
+    "Heat the oil in a large skillet over medium heat and fry the sausages for 12 to 15 minutes, turning often, until browned and cooked through; transfer to the oven.",
+    "Fry the rashers in the same pan for 2 to 3 minutes per side and keep warm.",
+    "Fry the black and white pudding slices for 2 minutes per side until crisp at the edges and keep warm.",
+    "Season the tomatoes and cook them cut side down for 3 to 4 minutes until softened.",
+    "Melt half the butter in the pan and sauté the mushrooms for 5 minutes until golden.",
+    "Wipe the pan, melt the remaining butter over medium-low heat, and fry the eggs until the whites are set.",
+    "Arrange everything on warm plates and serve with buttered soda bread and a pot of tea."
+   ],
+   "mealTypes": [
+    "Breakfast"
+   ],
+   "seasons": [],
+   "holidays": [
+    "St. Patrick's Day"
+   ],
+   "keywords": [
+    "fry-up",
+    "sausage",
+    "bacon",
+    "eggs",
+    "black pudding"
+   ],
+   "photoQuery": "Full Irish breakfast"
+  },
+  {
+   "title": "Dublin Lawyer",
+   "description": "A luxurious Dublin dish of lobster meat flambéed in Irish whiskey and finished in a rich cream sauce.",
+   "servings": 2,
+   "prepMinutes": 20,
+   "cookMinutes": 25,
+   "ingredients": [
+    "2 live lobsters (about 1 1/2 lb each)",
+    "6 tbsp butter",
+    "1 shallot, finely chopped",
+    "1/4 cup Irish whiskey",
+    "2/3 cup heavy cream",
+    "1 tsp Dijon mustard",
+    "1 tbsp lemon juice",
+    "1/4 tsp salt",
+    "1/8 tsp cayenne pepper",
+    "1 tbsp chopped fresh parsley"
+   ],
+   "steps": [
+    "Bring a large pot of well-salted water to a rolling boil, plunge in the lobsters, and cook for 8 minutes.",
+    "Transfer the lobsters to a bowl of ice water to stop the cooking, then drain.",
+    "Split the lobsters in half lengthwise, remove the meat from the tails and claws, and cut it into bite-size chunks; rinse and reserve the half shells.",
+    "Melt the butter in a large skillet over medium heat and cook the shallot for 2 minutes until soft.",
+    "Add the lobster meat and toss for 1 minute to warm through.",
+    "Pour in the whiskey and carefully ignite it with a long match, letting the flames die down.",
+    "Stir in the cream, mustard, lemon juice, salt, and cayenne and simmer for 2 to 3 minutes until the sauce thickens slightly.",
+    "Spoon the lobster and sauce back into the warmed shells, sprinkle with parsley, and serve at once."
+   ],
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [],
+   "holidays": [
+    "Valentine's Day",
+    "St. Patrick's Day"
+   ],
+   "keywords": [
+    "lobster",
+    "whiskey",
+    "cream sauce",
+    "seafood"
+   ],
+   "photoQuery": "Lobster with whiskey cream"
+  },
+  {
+   "title": "Smoked Salmon on Brown Bread",
+   "description": "A classic Irish starter of silky smoked salmon on buttered brown soda bread with lemon, capers, and red onion.",
+   "servings": 4,
+   "prepMinutes": 15,
+   "cookMinutes": 0,
+   "ingredients": [
+    "8 slices Irish brown soda bread",
+    "4 tbsp softened butter",
+    "8 oz thinly sliced smoked salmon",
+    "1/4 small red onion, very thinly sliced",
+    "2 tbsp capers, drained",
+    "1 tbsp chopped fresh dill",
+    "1 lemon, cut into wedges",
+    "1/4 tsp black pepper",
+    "2 tbsp crème fraîche or sour cream (optional)"
+   ],
+   "steps": [
+    "Spread each slice of brown bread generously with butter.",
+    "Drape the smoked salmon in loose folds over the bread.",
+    "Top with a few slices of red onion and a scattering of capers.",
+    "Add a small dollop of crème fraîche if using.",
+    "Sprinkle with dill and freshly ground black pepper.",
+    "Cut each slice in half and serve with lemon wedges for squeezing over."
+   ],
+   "mealTypes": [
+    "Appetizer"
+   ],
+   "seasons": [],
+   "holidays": [
+    "Christmas",
+    "St. Patrick's Day"
+   ],
+   "keywords": [
+    "smoked salmon",
+    "brown bread",
+    "no-cook"
+   ],
+   "photoQuery": "Smoked salmon brown bread"
+  },
+  {
+   "title": "Mussels in Cider and Cream",
+   "description": "Plump Irish mussels steamed in dry cider with garlic and shallots, finished with cream and parsley.",
+   "servings": 4,
+   "prepMinutes": 20,
+   "cookMinutes": 10,
+   "ingredients": [
+    "4 lb mussels, scrubbed and debearded",
+    "2 tbsp butter",
+    "2 shallots, finely chopped",
+    "3 cloves garlic, thinly sliced",
+    "1 1/2 cups dry hard cider",
+    "1/2 cup heavy cream",
+    "1/4 cup chopped fresh parsley",
+    "1/4 tsp black pepper"
+   ],
+   "steps": [
+    "Discard any mussels with cracked shells or that do not close when tapped.",
+    "Melt the butter in a large pot over medium heat and cook the shallots and garlic for 2 to 3 minutes until soft.",
+    "Pour in the cider, raise the heat to high, and bring to a boil.",
+    "Add the mussels, cover tightly, and cook for 4 to 5 minutes, shaking the pot once or twice, until the shells open.",
+    "Use a slotted spoon to transfer the mussels to warm bowls, discarding any that remain closed.",
+    "Stir the cream and pepper into the cooking liquid and boil for 1 minute.",
+    "Pour the sauce over the mussels, sprinkle with parsley, and serve with crusty bread or brown bread."
+   ],
+   "mealTypes": [
+    "Entree",
+    "Appetizer"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "mussels",
+    "cider",
+    "seafood",
+    "shellfish"
+   ],
+   "photoQuery": "Mussels in cider"
+  },
+  {
+   "title": "Steak and Guinness Pie",
+   "description": "Tender chunks of beef braised in Guinness with onions and mushrooms under a golden puff pastry lid, a favorite of Irish pubs.",
+   "servings": 6,
+   "prepMinutes": 30,
+   "cookMinutes": 165,
+   "ingredients": [
+    "2 1/2 lb beef chuck, cut into 1 1/2-inch cubes",
+    "3 tbsp all-purpose flour",
+    "1 tsp salt",
+    "1/2 tsp black pepper",
+    "3 tbsp vegetable oil",
+    "2 onions, chopped",
+    "8 oz cremini mushrooms, quartered",
+    "2 cloves garlic, minced",
+    "1 tbsp tomato paste",
+    "1 1/2 cups Guinness or other Irish stout",
+    "1 cup beef stock",
+    "1 tbsp Worcestershire sauce",
+    "2 tsp brown sugar",
+    "2 sprigs fresh thyme",
+    "1 sheet (about 9 oz) puff pastry, thawed",
+    "1 egg, beaten"
+   ],
+   "steps": [
+    "Toss the beef with the flour, salt, and pepper.",
+    "Heat 2 tablespoons oil in a Dutch oven over medium-high heat and brown the beef in batches, 4 to 5 minutes per batch; set aside.",
+    "Add the remaining oil, onions, and mushrooms and cook for 6 to 8 minutes until browned, then stir in the garlic and tomato paste for 1 minute.",
+    "Pour in the stout, scraping up the browned bits, then add the stock, Worcestershire sauce, brown sugar, thyme, and the beef.",
+    "Bring to a simmer, cover, and cook gently for 2 hours until the beef is very tender and the gravy has thickened.",
+    "Remove the thyme stems and let the filling cool for at least 20 minutes so it does not melt the pastry.",
+    "Preheat the oven to 400°F (200°C) and spoon the filling into a 2-quart pie dish.",
+    "Lay the puff pastry over the dish, trim and crimp the edges, cut a small steam vent, and brush with beaten egg.",
+    "Bake for 30 to 35 minutes until the pastry is puffed and deep golden, then rest for 5 minutes before serving."
+   ],
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [
+    "Fall",
+    "Winter"
+   ],
+   "holidays": [
+    "St. Patrick's Day"
+   ],
+   "keywords": [
+    "beef",
+    "stout",
+    "pie",
+    "pub classic"
+   ],
+   "photoQuery": "Steak and Guinness pie"
+  },
+  {
+   "title": "Homemade Irish Cream Liqueur",
+   "description": "A smooth, creamy whiskey liqueur made at home in minutes, lovely in coffee or over ice and a popular Christmas gift.",
+   "servings": 12,
+   "prepMinutes": 10,
+   "cookMinutes": 0,
+   "ingredients": [
+    "1 cup heavy cream",
+    "1 (14 oz) can sweetened condensed milk",
+    "1 1/4 cups Irish whiskey",
+    "1 tbsp chocolate syrup",
+    "1 tsp instant espresso powder",
+    "1 tsp vanilla extract",
+    "1/2 tsp almond extract"
+   ],
+   "steps": [
+    "Pour all the ingredients into a blender.",
+    "Blend on low speed for 30 seconds until completely smooth; do not overblend or the cream may thicken.",
+    "Pour into clean glass bottles and seal tightly.",
+    "Refrigerate for at least 2 hours before serving to let the flavors meld.",
+    "Shake well before pouring and serve over ice or in coffee; keep refrigerated and use within 2 months."
+   ],
+   "mealTypes": [
+    "Beverage"
+   ],
+   "seasons": [
+    "Winter"
+   ],
+   "holidays": [
+    "Christmas",
+    "St. Patrick's Day"
+   ],
+   "keywords": [
+    "whiskey",
+    "liqueur",
+    "cream",
+    "gift"
+   ],
+   "photoQuery": "Irish cream liqueur"
+  },
+  {
+   "title": "Hot Whiskey",
+   "description": "Ireland's cure-all: Irish whiskey with hot water, lemon, cloves, and brown sugar, sipped on cold nights.",
+   "servings": 1,
+   "prepMinutes": 5,
+   "cookMinutes": 0,
+   "ingredients": [
+    "1 1/2 oz (3 tbsp) Irish whiskey",
+    "2 tsp brown sugar",
+    "1 thick slice lemon",
+    "4 whole cloves",
+    "3/4 cup boiling water"
+   ],
+   "steps": [
+    "Warm a heatproof glass by filling it with hot water, then empty it.",
+    "Stud the lemon slice with the cloves.",
+    "Add the brown sugar and whiskey to the glass.",
+    "Pour in the boiling water and stir until the sugar dissolves.",
+    "Drop in the clove-studded lemon slice and serve hot."
+   ],
+   "mealTypes": [
+    "Beverage"
+   ],
+   "seasons": [
+    "Winter"
+   ],
+   "holidays": [
+    "Christmas"
+   ],
+   "keywords": [
+    "whiskey",
+    "hot toddy",
+    "lemon"
+   ],
+   "photoQuery": "Hot whiskey toddy"
+  },
+  {
+   "title": "Guinness Chocolate Cake",
+   "description": "A dark, moist chocolate cake made with Irish stout and topped with a tangy cream cheese frosting that looks like the head on a pint.",
+   "servings": 12,
+   "prepMinutes": 25,
+   "cookMinutes": 50,
+   "ingredients": [
+    "1 cup Guinness or other Irish stout",
+    "10 tbsp (1 1/4 sticks) butter",
+    "3/4 cup unsweetened cocoa powder",
+    "2 cups granulated sugar",
+    "3/4 cup sour cream",
+    "2 eggs",
+    "1 tbsp vanilla extract",
+    "2 cups all-purpose flour",
+    "2 1/2 tsp baking soda",
+    "# For the frosting",
+    "8 oz cream cheese, softened",
+    "1 1/4 cups powdered sugar",
+    "1/2 cup heavy cream"
+   ],
+   "steps": [
+    "Preheat the oven to 350°F (175°C) and grease and line a 9-inch springform pan.",
+    "Heat the stout and butter in a saucepan until the butter melts, then whisk in the cocoa and sugar until smooth; remove from the heat.",
+    "Beat the sour cream, eggs, and vanilla together and whisk into the chocolate mixture.",
+    "Whisk in the flour and baking soda until the batter is smooth.",
+    "Pour into the prepared pan and bake for 45 to 50 minutes, until a skewer inserted in the center comes out clean.",
+    "Cool completely in the pan on a wire rack, then remove.",
+    "Beat the cream cheese until smooth, then beat in the powdered sugar.",
+    "Add the heavy cream and beat until thick and spreadable.",
+    "Spread the frosting over the top of the cake so it resembles the creamy head of a pint, and slice to serve."
+   ],
+   "mealTypes": [
+    "Dessert"
+   ],
+   "seasons": [],
+   "holidays": [
+    "St. Patrick's Day"
+   ],
+   "keywords": [
+    "chocolate",
+    "stout",
+    "cake",
+    "cream cheese"
+   ],
+   "photoQuery": "Guinness chocolate cake"
+  },
+  {
+   "title": "Irish Porter Cake",
+   "description": "A dense, moist fruit cake made with stout and spice, a traditional Irish teatime and Christmas cake that keeps for weeks.",
+   "servings": 12,
+   "prepMinutes": 20,
+   "cookMinutes": 105,
+   "ingredients": [
+    "1 cup (2 sticks) butter",
+    "1 cup packed light brown sugar",
+    "1 cup Irish stout or porter",
+    "3 cups mixed dried fruit (raisins, sultanas, currants)",
+    "1/2 cup chopped candied mixed peel",
+    "1 orange, zested",
+    "3 cups all-purpose flour",
+    "1 tsp baking soda",
+    "2 tsp ground mixed spice (or 1 tsp cinnamon plus 1/2 tsp each nutmeg and allspice)",
+    "3 eggs, beaten"
+   ],
+   "steps": [
+    "Place the butter, brown sugar, and stout in a large saucepan and heat gently until the butter melts and the sugar dissolves.",
+    "Add the dried fruit, mixed peel, and orange zest, bring to a boil, and simmer for 10 minutes, stirring occasionally.",
+    "Remove from the heat and let cool until just warm, about 30 minutes.",
+    "Preheat the oven to 325°F (165°C) and grease and line an 8-inch round deep cake pan with parchment.",
+    "Whisk the flour, baking soda, and mixed spice together.",
+    "Stir the beaten eggs into the cooled fruit mixture, then fold in the flour mixture until no dry streaks remain.",
+    "Spoon the batter into the pan and level the top.",
+    "Bake for 1 1/2 to 1 3/4 hours, covering loosely with foil if browning too quickly, until a skewer inserted in the center comes out clean.",
+    "Cool completely in the pan, then wrap well; the flavor improves after a day or two."
+   ],
+   "mealTypes": [
+    "Dessert"
+   ],
+   "seasons": [
+    "Winter"
+   ],
+   "holidays": [
+    "Christmas",
+    "St. Patrick's Day"
+   ],
+   "keywords": [
+    "fruitcake",
+    "stout",
+    "porter",
+    "spiced"
+   ],
+   "photoQuery": "Irish porter cake"
+  },
+  {
+   "title": "Carrageen Moss Pudding",
+   "description": "A delicate, old-fashioned Irish milk pudding set with carrageen seaweed and flavored with lemon and vanilla.",
+   "servings": 4,
+   "prepMinutes": 15,
+   "cookMinutes": 25,
+   "ingredients": [
+    "1/4 oz (about 1/2 cup loosely packed) dried carrageen moss",
+    "3 1/2 cups whole milk",
+    "1 strip lemon zest",
+    "1 tsp vanilla extract",
+    "1 egg, separated",
+    "2 tbsp granulated sugar"
+   ],
+   "steps": [
+    "Soak the carrageen in lukewarm water for 10 minutes, then drain and pick out any grit.",
+    "Place the carrageen, milk, and lemon zest in a saucepan and bring slowly to a simmer.",
+    "Simmer very gently for 20 minutes, until the moss swells and the milk thickens slightly.",
+    "Beat the egg yolk with the sugar and vanilla in a bowl.",
+    "Strain the hot milk onto the yolk mixture through a sieve, pushing through all the jelly from the carrageen, and whisk well.",
+    "Beat the egg white to stiff peaks and gently fold it into the mixture.",
+    "Pour into a serving bowl or individual glasses and chill for 2 to 3 hours until set.",
+    "Serve with poached fruit, berries, or a drizzle of cream."
+   ],
+   "mealTypes": [
+    "Dessert"
+   ],
+   "seasons": [],
+   "holidays": [],
+   "keywords": [
+    "seaweed",
+    "milk pudding",
+    "traditional"
+   ],
+   "photoQuery": "Carrageen moss pudding"
+  },
+  {
+   "title": "Irish Rhubarb Tart",
+   "description": "A homely shortcrust pastry tart filled with sweet-tart rhubarb, a springtime favorite in Irish kitchens.",
+   "servings": 8,
+   "prepMinutes": 30,
+   "cookMinutes": 45,
+   "ingredients": [
+    "# For the pastry",
+    "2 1/2 cups all-purpose flour",
+    "2 tbsp granulated sugar",
+    "1/4 tsp salt",
+    "1 cup (2 sticks) cold butter, cubed",
+    "1 egg yolk",
+    "4 to 5 tbsp ice water",
+    "# For the filling",
+    "1 1/2 lb rhubarb, trimmed and cut into 1/2-inch pieces",
+    "3/4 cup granulated sugar",
+    "2 tbsp cornstarch",
+    "1 egg, beaten, for glazing",
+    "1 tbsp granulated sugar, for sprinkling"
+   ],
+   "steps": [
+    "Mix the flour, sugar, and salt, then rub in the butter until it resembles breadcrumbs.",
+    "Add the egg yolk and enough ice water to bring the dough together, divide in two, wrap, and chill for 30 minutes.",
+    "Preheat the oven to 400°F (200°C) and place a baking sheet in the oven to heat.",
+    "Toss the rhubarb with the sugar and cornstarch.",
+    "Roll out one piece of pastry and line a 9-inch pie plate, then fill with the rhubarb mixture.",
+    "Roll out the second piece, lay it over the filling, trim, and crimp the edges to seal.",
+    "Brush the top with beaten egg, sprinkle with sugar, and cut a few steam vents.",
+    "Bake on the hot baking sheet for 40 to 45 minutes until the pastry is golden and the juices bubble through the vents.",
+    "Cool for at least 30 minutes and serve warm with custard or softly whipped cream."
+   ],
+   "mealTypes": [
+    "Dessert"
+   ],
+   "seasons": [
+    "Spring"
+   ],
+   "holidays": [],
+   "keywords": [
+    "rhubarb",
+    "tart",
+    "pie",
+    "pastry"
+   ],
+   "photoQuery": "Rhubarb tart"
+  },
+  {
+   "title": "Apple and Blackberry Crumble",
+   "description": "Late-summer apples and wild blackberries baked under a buttery oat crumble, served with custard or cream.",
+   "servings": 6,
+   "prepMinutes": 20,
+   "cookMinutes": 40,
+   "ingredients": [
+    "2 lb cooking apples, peeled, cored, and sliced",
+    "2 cups blackberries",
+    "1/3 cup granulated sugar",
+    "1 tbsp lemon juice",
+    "# For the crumble",
+    "1 1/4 cups all-purpose flour",
+    "1/2 cup rolled oats",
+    "1/2 cup packed light brown sugar",
+    "1/2 tsp ground cinnamon",
+    "1/2 cup (1 stick) cold butter, cubed"
+   ],
+   "steps": [
+    "Preheat the oven to 375°F (190°C).",
+    "Toss the apples and blackberries with the sugar and lemon juice and spread them in a 2-quart baking dish.",
+    "Mix the flour, oats, brown sugar, and cinnamon in a bowl.",
+    "Rub in the cold butter with your fingertips until the mixture forms coarse clumps.",
+    "Scatter the crumble evenly over the fruit without pressing it down.",
+    "Bake for 35 to 40 minutes until the topping is golden and the fruit juices bubble up at the edges.",
+    "Let stand for 10 minutes and serve warm with custard, cream, or vanilla ice cream."
+   ],
+   "mealTypes": [
+    "Dessert"
+   ],
+   "seasons": [
+    "Summer",
+    "Fall"
+   ],
+   "holidays": [],
+   "keywords": [
+    "apple",
+    "blackberry",
+    "crumble",
+    "baked"
+   ],
+   "photoQuery": "Apple and blackberry crumble"
+  },
+  {
+   "title": "Bread and Butter Pudding",
+   "description": "Slices of buttered bread layered with raisins and baked in a vanilla-scented custard until puffed and golden.",
+   "servings": 6,
+   "prepMinutes": 20,
+   "cookMinutes": 40,
+   "ingredients": [
+    "8 slices day-old white bread",
+    "4 tbsp butter, softened",
+    "1/2 cup raisins or sultanas",
+    "3 eggs",
+    "1/3 cup granulated sugar",
+    "1 1/2 cups whole milk",
+    "1/2 cup heavy cream",
+    "1 tsp vanilla extract",
+    "1/4 tsp ground nutmeg",
+    "1 tbsp demerara or turbinado sugar"
+   ],
+   "steps": [
+    "Grease a 2-quart baking dish with butter.",
+    "Butter the bread on one side, cut each slice into triangles, and arrange half of them, buttered side up, in the dish.",
+    "Scatter half the raisins over, then add the remaining bread and raisins.",
+    "Whisk the eggs and sugar together, then whisk in the milk, cream, and vanilla.",
+    "Pour the custard evenly over the bread and let it soak for 20 minutes, pressing the bread down gently.",
+    "Preheat the oven to 350°F (175°C).",
+    "Sprinkle the top with nutmeg and demerara sugar.",
+    "Bake for 35 to 40 minutes until the custard is just set and the top is crisp and golden.",
+    "Let stand for 5 minutes before serving warm."
+   ],
+   "mealTypes": [
+    "Dessert"
+   ],
+   "seasons": [
+    "Fall",
+    "Winter"
+   ],
+   "holidays": [],
+   "keywords": [
+    "bread pudding",
+    "custard",
+    "raisins"
+   ],
+   "photoQuery": "Bread and butter pudding"
+  },
+  {
+   "title": "Dingle Pies",
+   "description": "Traditional Kerry hand pies of spiced minced mutton or lamb in hot-water pastry, once made for fair days and Lammas.",
+   "servings": 6,
+   "prepMinutes": 40,
+   "cookMinutes": 50,
+   "ingredients": [
+    "# For the pastry",
+    "3 1/2 cups all-purpose flour",
+    "1 tsp salt",
+    "2/3 cup water",
+    "1/2 cup lard or shortening",
+    "2 tbsp butter",
+    "# For the filling",
+    "1 lb lamb shoulder, finely diced or coarsely ground",
+    "1 onion, finely chopped",
+    "1 carrot, finely diced",
+    "1 tsp ground cumin",
+    "1 tsp salt",
+    "1/2 tsp black pepper",
+    "2 tbsp chopped fresh parsley",
+    "1/2 cup lamb or beef stock",
+    "1 egg, beaten, for glazing"
+   ],
+   "steps": [
+    "Mix the lamb, onion, carrot, cumin, salt, pepper, and parsley in a bowl and set aside.",
+    "For the pastry, mix the flour and salt in a large bowl and make a well in the center.",
+    "Heat the water, lard, and butter in a saucepan until the fat melts and the mixture boils.",
+    "Pour the hot liquid into the flour and stir quickly to form a dough, then knead briefly until smooth while still warm.",
+    "Preheat the oven to 375°F (190°C) and line a baking sheet with parchment.",
+    "Roll out two-thirds of the pastry and cut six 6-inch rounds; roll the remaining pastry and cut six 4-inch rounds for lids.",
+    "Spoon the filling onto the large rounds, moisten each with a spoonful of stock, then gather up the edges and top with the lids, pinching firmly to seal.",
+    "Cut a small hole in each lid and brush the pies with beaten egg.",
+    "Bake for 45 to 50 minutes until deep golden, pouring a little hot stock through the holes halfway through if the filling looks dry.",
+    "Serve hot or cold."
+   ],
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [
+    "Fall"
+   ],
+   "holidays": [],
+   "keywords": [
+    "lamb",
+    "hand pies",
+    "pastry",
+    "kerry"
+   ],
+   "photoQuery": "Dingle pie"
+  },
+  {
+   "title": "Roast Leg of Lamb with Mint Sauce",
+   "description": "A garlic and rosemary-studded leg of lamb roasted until pink and served with a sharp, fresh mint sauce, the traditional Irish Easter dinner.",
+   "servings": 8,
+   "prepMinutes": 25,
+   "cookMinutes": 105,
+   "ingredients": [
+    "1 bone-in leg of lamb (5 to 6 lb)",
+    "6 cloves garlic, cut into slivers",
+    "3 sprigs fresh rosemary, broken into small sprigs",
+    "2 tbsp olive oil",
+    "2 tsp salt",
+    "1 tsp black pepper",
+    "1 cup lamb or chicken stock",
+    "# For the mint sauce",
+    "1 cup packed fresh mint leaves, finely chopped",
+    "2 tbsp granulated sugar",
+    "3 tbsp boiling water",
+    "1/4 cup white wine vinegar or malt vinegar"
+   ],
+   "steps": [
+    "Take the lamb out of the refrigerator 1 hour before cooking and preheat the oven to 425°F (220°C).",
+    "Make small, deep cuts all over the lamb with a sharp knife and push a sliver of garlic and a small sprig of rosemary into each one.",
+    "Rub the lamb with olive oil, salt, and pepper and place it in a roasting pan.",
+    "Roast for 20 minutes, then reduce the heat to 350°F (175°C) and roast for about 15 minutes per pound for medium-rare, until an instant-read thermometer reads 135°F (57°C) in the thickest part.",
+    "Meanwhile, make the mint sauce: stir the sugar into the boiling water until dissolved, add the chopped mint and vinegar, and let stand for at least 30 minutes.",
+    "Transfer the lamb to a board, cover loosely with foil, and rest for 20 minutes.",
+    "Spoon off the fat from the roasting pan, add the stock, and boil on the stovetop for 3 to 4 minutes, scraping up the browned bits, to make a thin gravy.",
+    "Carve the lamb and serve with the pan juices, mint sauce, and roast potatoes."
+   ],
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [
+    "Spring"
+   ],
+   "holidays": [
+    "Easter"
+   ],
+   "keywords": [
+    "lamb",
+    "roasted",
+    "mint sauce",
+    "sunday roast"
+   ],
+   "photoQuery": "Roast leg of lamb"
+  },
+  {
+   "title": "Irish Fish Pie",
+   "description": "Chunks of salmon, white fish, and smoked haddock in a creamy parsley sauce, topped with mashed potatoes and baked until golden.",
+   "servings": 6,
+   "prepMinutes": 30,
+   "cookMinutes": 55,
+   "ingredients": [
+    "2 lb floury potatoes, peeled and quartered",
+    "4 tbsp butter, divided",
+    "1/4 cup whole milk",
+    "2 1/2 cups whole milk",
+    "1 bay leaf",
+    "1/2 onion, sliced",
+    "12 oz skinless cod or haddock fillet",
+    "8 oz skinless salmon fillet",
+    "8 oz smoked haddock fillet",
+    "3 tbsp butter",
+    "3 tbsp all-purpose flour",
+    "1/4 cup chopped fresh parsley",
+    "1 tbsp lemon juice",
+    "1/2 tsp salt",
+    "1/4 tsp black pepper",
+    "2 hard-boiled eggs, quartered",
+    "1/2 cup grated sharp Cheddar cheese"
+   ],
+   "steps": [
+    "Boil the potatoes in salted water for 15 to 20 minutes until tender, drain, and mash with 2 tablespoons butter and 1/4 cup milk.",
+    "Place the 2 1/2 cups milk, bay leaf, and onion in a wide pan, add all the fish, and poach gently for 6 to 8 minutes until just cooked.",
+    "Lift out the fish, flake it into large chunks, and place in a 2 1/2-quart baking dish; strain and reserve the milk.",
+    "Preheat the oven to 400°F (200°C).",
+    "Melt 3 tablespoons butter in a saucepan, stir in the flour, and cook for 1 minute.",
+    "Gradually whisk in the reserved poaching milk and simmer, stirring, for 3 to 4 minutes until thick and smooth.",
+    "Stir in the parsley, lemon juice, salt, and pepper, then pour the sauce over the fish and tuck in the egg quarters.",
+    "Spread the mashed potatoes over the top, fork the surface, dot with the remaining butter, and sprinkle with cheese.",
+    "Bake for 25 to 30 minutes until bubbling and golden brown, then rest for 5 minutes before serving."
+   ],
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [
+    "Fall",
+    "Winter"
+   ],
+   "holidays": [],
+   "keywords": [
+    "fish",
+    "salmon",
+    "smoked haddock",
+    "mashed potato"
+   ],
+   "photoQuery": "Fish pie"
+  },
+  {
+   "title": "Chicken and Leek Pie",
+   "description": "A comforting pub-style pie of tender chicken and soft leeks in a creamy tarragon sauce beneath a flaky pastry crust.",
+   "servings": 6,
+   "prepMinutes": 30,
+   "cookMinutes": 60,
+   "ingredients": [
+    "2 tbsp butter",
+    "1 tbsp vegetable oil",
+    "2 lb boneless, skinless chicken thighs, cut into bite-size pieces",
+    "3 leeks, white and light green parts, sliced and washed",
+    "4 oz smoked bacon, diced",
+    "2 cloves garlic, minced",
+    "3 tbsp all-purpose flour",
+    "1 1/4 cups chicken stock",
+    "1/2 cup heavy cream",
+    "1 tsp Dijon mustard",
+    "1 tbsp chopped fresh tarragon or 1 tsp dried",
+    "1/2 tsp salt",
+    "1/4 tsp black pepper",
+    "1 sheet (about 9 oz) puff pastry, thawed",
+    "1 egg, beaten"
+   ],
+   "steps": [
+    "Heat the butter and oil in a large skillet over medium-high heat and brown the chicken in batches for 4 to 5 minutes; set aside.",
+    "Add the bacon and leeks to the pan and cook over medium heat for 8 minutes until the leeks are soft.",
+    "Stir in the garlic and flour and cook for 1 minute.",
+    "Gradually stir in the stock and cream, then add the mustard, tarragon, salt, pepper, and chicken.",
+    "Simmer for 10 minutes until the sauce is thick and the chicken is cooked through, then let cool for 20 minutes.",
+    "Preheat the oven to 400°F (200°C) and spoon the filling into a 2-quart pie dish.",
+    "Cover with the puff pastry, trim and crimp the edges, cut a steam vent, and brush with beaten egg.",
+    "Bake for 30 to 35 minutes until the pastry is puffed and golden, then rest for 5 minutes before serving."
+   ],
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [
+    "Fall",
+    "Winter",
+    "Spring"
+   ],
+   "holidays": [],
+   "keywords": [
+    "chicken",
+    "leek",
+    "pie",
+    "creamy"
+   ],
+   "photoQuery": "Chicken and leek pie"
+  },
+  {
+   "title": "Irish Vegetable Soup",
+   "description": "The smooth, thick blended vegetable soup served in every Irish pub and home kitchen, best with a wedge of brown bread.",
+   "servings": 6,
+   "prepMinutes": 20,
+   "cookMinutes": 40,
+   "ingredients": [
+    "3 tbsp butter",
+    "1 onion, chopped",
+    "1 leek, sliced and washed",
+    "3 carrots, chopped",
+    "2 celery stalks, chopped",
+    "1 small parsnip, chopped",
+    "1 lb potatoes, peeled and diced",
+    "6 cups vegetable or chicken stock",
+    "1 tsp salt",
+    "1/2 tsp black pepper",
+    "1/2 cup whole milk or cream",
+    "2 tbsp chopped fresh parsley"
+   ],
+   "steps": [
+    "Melt the butter in a large pot over medium-low heat.",
+    "Add the onion, leek, carrots, celery, and parsnip, cover, and sweat for 10 minutes, stirring occasionally, until softened but not browned.",
+    "Add the potatoes, stock, salt, and pepper and bring to a boil.",
+    "Reduce the heat and simmer, partly covered, for 25 minutes until all the vegetables are very tender.",
+    "Purée the soup with an immersion blender or in batches in a blender until smooth.",
+    "Stir in the milk or cream and reheat gently without boiling.",
+    "Taste for seasoning, sprinkle with parsley, and serve with brown soda bread."
+   ],
+   "mealTypes": [
+    "Soup & Salad"
+   ],
+   "seasons": [
+    "Fall",
+    "Winter"
+   ],
+   "holidays": [],
+   "keywords": [
+    "vegetables",
+    "soup",
+    "vegetarian",
+    "blended"
+   ],
+   "photoQuery": "Vegetable soup"
+  },
+  {
+   "title": "Irish Nettle Soup",
+   "description": "A bright green spring tonic made from young nettle tops, potatoes, and onion, traditionally eaten in Ireland in early spring.",
+   "servings": 4,
+   "prepMinutes": 20,
+   "cookMinutes": 30,
+   "ingredients": [
+    "8 cups (about 6 oz) young nettle tops, picked with gloves",
+    "3 tbsp butter",
+    "1 onion, chopped",
+    "1 leek, sliced and washed",
+    "1 lb potatoes, peeled and diced",
+    "5 cups chicken or vegetable stock",
+    "1 tsp salt",
+    "1/2 tsp black pepper",
+    "1/2 cup heavy cream"
+   ],
+   "steps": [
+    "Wearing gloves, wash the nettle tops well and discard any tough stalks.",
+    "Melt the butter in a large pot over medium-low heat and cook the onion and leek for 8 minutes until soft.",
+    "Add the potatoes, stock, salt, and pepper, bring to a boil, and simmer for 15 minutes until the potatoes are tender.",
+    "Add the nettles and simmer for 3 to 5 minutes until they wilt and turn deep green.",
+    "Purée the soup until smooth with an immersion blender or in a blender.",
+    "Stir in the cream, reheat gently, and adjust the seasoning.",
+    "Serve hot with a swirl of cream and brown bread."
+   ],
+   "mealTypes": [
+    "Soup & Salad"
+   ],
+   "seasons": [
+    "Spring"
+   ],
+   "holidays": [],
+   "keywords": [
+    "nettles",
+    "foraged",
+    "soup",
+    "vegetarian"
+   ],
+   "photoQuery": "Nettle soup"
+  },
+  {
+   "title": "Warm Black Pudding and Apple Salad",
+   "description": "Crisp slices of Irish black pudding and caramelized apple over peppery greens with a mustard-cider dressing.",
+   "servings": 4,
+   "prepMinutes": 15,
+   "cookMinutes": 10,
+   "ingredients": [
+    "8 oz black pudding, cut into 1/2-inch slices",
+    "2 tbsp butter",
+    "2 crisp apples, cored and cut into wedges",
+    "1 tsp granulated sugar",
+    "5 oz mixed salad leaves or watercress",
+    "# For the dressing",
+    "3 tbsp olive oil",
+    "1 tbsp cider vinegar",
+    "1 tsp whole-grain mustard",
+    "1 tsp honey",
+    "1/4 tsp salt",
+    "1/4 tsp black pepper"
+   ],
+   "steps": [
+    "Whisk the dressing ingredients together in a small bowl.",
+    "Melt half the butter in a skillet over medium-high heat, add the apple wedges, sprinkle with sugar, and cook for 2 to 3 minutes per side until golden; remove.",
+    "Add the remaining butter to the pan and fry the black pudding slices for 2 minutes per side until crisp at the edges.",
+    "Toss the salad leaves with most of the dressing and divide among plates.",
+    "Top with the warm apple and black pudding, drizzle with the remaining dressing, and serve immediately."
+   ],
+   "mealTypes": [
+    "Appetizer",
+    "Soup & Salad"
+   ],
+   "seasons": [
+    "Fall"
+   ],
+   "holidays": [],
+   "keywords": [
+    "black pudding",
+    "apple",
+    "salad",
+    "warm"
+   ],
+   "photoQuery": "Black pudding salad"
+  },
+  {
+   "title": "Spice Bag",
+   "description": "Dublin's favorite takeaway: crispy chicken strips, chips, peppers, and onions tossed in a spicy salt-and-pepper seasoning.",
+   "servings": 4,
+   "prepMinutes": 30,
+   "cookMinutes": 30,
+   "ingredients": [
+    "# For the spice mix",
+    "1 tbsp salt",
+    "2 tsp granulated sugar",
+    "1 tsp Chinese five-spice powder",
+    "1 tsp chili flakes",
+    "1/2 tsp ground white pepper",
+    "1/2 tsp garlic powder",
+    "# For the bag",
+    "1 1/2 lb boneless, skinless chicken breasts, cut into strips",
+    "1 egg, beaten",
+    "1/2 cup cornstarch",
+    "1/2 cup all-purpose flour",
+    "2 lb potatoes, cut into fries",
+    "6 cups vegetable oil, for deep-frying",
+    "1 tbsp vegetable oil",
+    "1 red bell pepper, thinly sliced",
+    "1 onion, thinly sliced",
+    "2 scallions, sliced",
+    "1 fresh red chili, thinly sliced"
+   ],
+   "steps": [
+    "Mix all the spice mix ingredients in a small bowl and set aside.",
+    "Soak the cut potatoes in cold water for 15 minutes, then drain and pat completely dry.",
+    "Heat the frying oil in a deep pot to 325°F (160°C) and fry the potatoes in batches for 5 minutes until soft but pale; drain on paper towels.",
+    "Dip the chicken strips in beaten egg, then toss in the mixed cornstarch and flour, shaking off the excess.",
+    "Raise the oil temperature to 350°F (175°C) and fry the chicken in batches for 5 to 6 minutes until golden and cooked through; drain.",
+    "Increase the oil to 375°F (190°C) and fry the potatoes again for 2 to 3 minutes until crisp and golden; drain.",
+    "Heat 1 tablespoon oil in a wok or large skillet over high heat and stir-fry the bell pepper, onion, and chili for 2 minutes.",
+    "Add the chicken, fries, and scallions to the wok, sprinkle with 2 to 3 teaspoons of the spice mix, and toss well to coat.",
+    "Serve at once in paper bags or bowls, with curry sauce on the side if you like."
+   ],
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [],
+   "holidays": [
+    "Game Day"
+   ],
+   "keywords": [
+    "chicken",
+    "fries",
+    "spicy",
+    "takeaway"
+   ],
+   "photoQuery": "Spice bag"
+  },
+  {
+   "title": "Yellowman",
+   "description": "A crunchy golden honeycomb toffee from Northern Ireland, famously sold at the Ould Lammas Fair in Ballycastle.",
+   "servings": 16,
+   "prepMinutes": 5,
+   "cookMinutes": 15,
+   "ingredients": [
+    "1 cup granulated sugar",
+    "1/2 cup golden syrup or light corn syrup",
+    "2 tbsp butter",
+    "1 tbsp white vinegar",
+    "2 tbsp water",
+    "1 1/2 tsp baking soda"
+   ],
+   "steps": [
+    "Grease an 8-inch square pan with butter.",
+    "Combine the sugar, syrup, butter, vinegar, and water in a large heavy saucepan over low heat, stirring until the sugar dissolves.",
+    "Raise the heat and boil without stirring until the mixture reaches 300°F (150°C) on a candy thermometer, the hard-crack stage, about 8 to 10 minutes.",
+    "Remove from the heat and immediately whisk in the baking soda; the mixture will foam up dramatically.",
+    "Pour at once into the prepared pan without spreading it, so the bubbles stay intact.",
+    "Let cool completely for about 1 hour until hard.",
+    "Break into pieces and store in an airtight container."
+   ],
+   "mealTypes": [
+    "Dessert"
+   ],
+   "seasons": [
+    "Summer"
+   ],
+   "holidays": [
+    "Halloween"
+   ],
+   "keywords": [
+    "honeycomb",
+    "toffee",
+    "candy",
+    "northern irish"
+   ],
+   "photoQuery": "Honeycomb toffee"
+  },
+  {
+   "title": "Glazed Baked Ham",
+   "description": "A clove-studded ham glazed with brown sugar, mustard, and whiskey, the centerpiece of an Irish Christmas table.",
+   "servings": 12,
+   "prepMinutes": 20,
+   "cookMinutes": 150,
+   "ingredients": [
+    "1 fully cooked bone-in half ham (7 to 8 lb)",
+    "30 whole cloves",
+    "1 cup water",
+    "# For the glaze",
+    "3/4 cup packed light brown sugar",
+    "2 tbsp Dijon or English mustard",
+    "2 tbsp Irish whiskey",
+    "2 tbsp orange juice",
+    "1/4 tsp ground cloves"
+   ],
+   "steps": [
+    "Preheat the oven to 325°F (165°C).",
+    "Remove any skin from the ham, leaving a thin layer of fat, and score the fat in a 1-inch diamond pattern.",
+    "Stud the center of each diamond with a whole clove.",
+    "Place the ham in a roasting pan, pour the water into the pan, and cover loosely with foil.",
+    "Bake for about 15 minutes per pound (1 3/4 to 2 hours), until it reaches 130°F (55°C) inside.",
+    "Stir the glaze ingredients together in a small saucepan and simmer for 2 minutes until syrupy.",
+    "Remove the foil, raise the oven to 400°F (200°C), and brush the ham generously with the glaze.",
+    "Bake for 20 to 25 minutes more, brushing with glaze twice, until the surface is sticky and caramelized.",
+    "Rest for 15 minutes before carving and serve hot or cold."
+   ],
+   "mealTypes": [
+    "Entree"
+   ],
+   "seasons": [
+    "Winter"
+   ],
+   "holidays": [
+    "Christmas",
+    "Easter"
+   ],
+   "keywords": [
+    "ham",
+    "glazed",
+    "whiskey",
+    "holiday"
+   ],
+   "photoQuery": "Baked glazed ham"
+  },
+  {
+   "title": "Irish Sausage Rolls",
+   "description": "Seasoned pork sausage meat wrapped in flaky puff pastry, a staple of Irish parties, picnics, and deli counters.",
+   "servings": 24,
+   "prepMinutes": 20,
+   "cookMinutes": 25,
+   "ingredients": [
+    "1 lb pork sausage meat",
+    "1 small onion, finely grated",
+    "1/2 cup fresh breadcrumbs",
+    "1 tbsp chopped fresh parsley",
+    "1 tsp chopped fresh thyme",
+    "1/2 tsp black pepper",
+    "2 sheets (about 1 lb) puff pastry, thawed",
+    "1 egg, beaten",
+    "1 tsp sesame seeds (optional)"
+   ],
+   "steps": [
+    "Preheat the oven to 400°F (200°C) and line two baking sheets with parchment.",
+    "Mix the sausage meat, onion, breadcrumbs, parsley, thyme, and pepper in a bowl until well combined.",
+    "Cut each pastry sheet in half lengthwise to make four long strips.",
+    "Divide the sausage mixture into four and roll each into a log the length of the pastry, then lay it along one long edge of each strip.",
+    "Brush the far edge of the pastry with beaten egg, roll the pastry over the filling, and press to seal with the seam underneath.",
+    "Cut each log into 6 pieces, place on the baking sheets, and cut two small slashes in the top of each.",
+    "Brush with beaten egg and sprinkle with sesame seeds if using.",
+    "Bake for 22 to 25 minutes until puffed, golden, and cooked through, then serve warm or at room temperature."
+   ],
+   "mealTypes": [
+    "Appetizer"
+   ],
+   "seasons": [],
+   "holidays": [
+    "Christmas",
+    "Game Day"
+   ],
+   "keywords": [
+    "sausage",
+    "puff pastry",
+    "party food"
+   ],
+   "photoQuery": "Sausage rolls"
+  },
+  {
+   "title": "Irish Pancakes with Lemon and Sugar",
+   "description": "Thin, crêpe-like pancakes sprinkled with sugar and lemon juice, the beloved Irish way to celebrate Shrove Tuesday.",
+   "servings": 4,
+   "prepMinutes": 10,
+   "cookMinutes": 20,
+   "ingredients": [
+    "1 cup all-purpose flour",
+    "1 pinch salt",
+    "2 eggs",
+    "1 1/4 cups whole milk",
+    "2 tbsp butter, melted, plus extra for the pan",
+    "1/4 cup granulated sugar, for serving",
+    "2 lemons, cut into wedges"
+   ],
+   "steps": [
+    "Sift the flour and salt into a bowl and make a well in the center.",
+    "Crack in the eggs, add a little of the milk, and whisk, gradually drawing in the flour.",
+    "Whisk in the remaining milk and the melted butter to make a smooth batter the consistency of light cream, then rest it for 15 minutes.",
+    "Heat an 8-inch skillet over medium-high heat and brush lightly with butter.",
+    "Pour in about 3 tablespoons of batter and swirl to coat the base thinly.",
+    "Cook for about 1 minute until the underside is golden, then flip and cook for 30 seconds more.",
+    "Slide onto a warm plate, sprinkle with sugar, squeeze over lemon juice, and roll up or fold into quarters.",
+    "Repeat with the remaining batter, serving each pancake as it is made."
+   ],
+   "mealTypes": [
+    "Breakfast",
+    "Dessert"
+   ],
+   "seasons": [
+    "Spring"
+   ],
+   "holidays": [],
+   "keywords": [
+    "pancakes",
+    "crepes",
+    "lemon",
+    "shrove tuesday"
+   ],
+   "photoQuery": "Pancakes with lemon and sugar"
+  }
+ ]
+}

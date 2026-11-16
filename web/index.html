@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <base href="$FLUTTER_BASE_HREF">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="description" content="Recipe Box — a free offline cookbook for family, friends and the world's kitchens.">
+  <meta name="theme-color" content="#6E1A13">
+
+  <!-- iPhone / iPad: run full-screen from the Home Screen -->
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="Recipe Box">
+  <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+  <link rel="icon" type="image/png" href="favicon.png"/>
+  <link rel="manifest" href="manifest.json">
+  <title>Recipe Box</title>
+  <style>
+    html, body { margin: 0; height: 100%; background: #3B0F0C; }
+    #loading {
+      position: fixed; inset: 0; display: flex; flex-direction: column; align-items: center; justify-content: center;
+      background: radial-gradient(circle at 60% 35%, #9E2A1E, #6E1A13 55%, #3B0F0C);
+      color: #F3D27A; font-family: Georgia, 'Times New Roman', serif; transition: opacity .4s;
+    }
+    #loading .t { font-size: 13px; letter-spacing: 8px; }
+    #loading .n { font-size: 44px; font-weight: 900; text-shadow: 2px 3px 4px #0008; }
+    #loading .s { margin-top: 28px; width: 40px; height: 40px; border: 3px solid #F3D27A44; border-top-color: #F3D27A;
+      border-radius: 50%; animation: spin 1s linear infinite; }
+    #loading .m { margin-top: 14px; font: 13px -apple-system, Helvetica, sans-serif; opacity: .8; }
+    @keyframes spin { to { transform: rotate(360deg); } }
+  </style>
+</head>
+<body>
+  <div id="loading">
+    <div class="t">THE</div><div class="n">Recipe Box</div>
+    <div class="s"></div><div class="m">Opening your cookbook…</div>
+  </div>
+  <script>
+    // Offline support: cache the app and recipe library on this device.
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', function () {
+        navigator.serviceWorker.register('sw.js').catch(function (e) { console.warn('SW failed', e); });
+      });
+    }
+    window.addEventListener('flutter-first-frame', function () {
+      var l = document.getElementById('loading');
+      if (l) { l.style.opacity = 0; setTimeout(function () { l.remove(); }, 450); }
+    });
+  </script>
+  <script src="flutter_bootstrap.js" async></script>
+</body>
+</html>
